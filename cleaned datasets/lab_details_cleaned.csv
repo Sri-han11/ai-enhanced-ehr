@@ -1,0 +1,304 @@
+lab_id,patient_id,visit_date,sample_name
+LAB001,PAT001,2015-01-01,vvir permanent pacemaker insertion
+LAB002,PAT002,2015-01-02,trouble breathing
+LAB003,PAT003,2015-01-03,ultrasound - carotid - 1
+LAB004,PAT004,2015-01-04,triple lumen catheter insertion - 1
+LAB005,PAT005,2015-01-05,chiropractic progress note
+LAB006,PAT006,2015-01-06,treadmill test
+LAB007,PAT007,2015-01-07,transthoracic echocardiography
+LAB008,PAT008,2015-01-08,ultrasound - carotid - 2
+LAB009,PAT009,2015-01-09,triple lumen catheter insertion
+LAB010,PAT010,2015-01-10,urgent cardiac cath
+LAB011,PAT011,2015-01-11,transesophageal echocardiogram - 3
+LAB012,PAT012,2015-01-12,transesophageal echocardiogram - 6
+LAB013,PAT013,2015-01-13,transesophageal echocardiogram - 4
+LAB014,PAT014,2015-01-14,transesophageal echocardiogram - 5
+LAB015,PAT015,2015-01-15,transesophageal echocardiogram - 2
+LAB016,PAT016,2015-01-16,transesophageal echocardiography probe
+LAB017,PAT017,2015-01-17,tracheostomy change
+LAB018,PAT018,2015-01-18,tracheostomy & scoop procedure
+LAB019,PAT019,2015-01-19,transesophageal echocardiogram
+LAB020,PAT020,2015-01-20,tilt table test - 1
+LAB021,PAT021,2015-01-21,tracheostomy tube consult
+LAB022,PAT022,2015-01-22,tracheotomy - 1
+LAB023,PAT023,2015-01-23,transesophageal echocardiogram - 1
+LAB024,PAT024,2015-01-24,toronto porcine valve insertion
+LAB025,PAT025,2015-01-25,thrombectomy
+LAB026,PAT026,2015-01-26,thromboendarterectomy
+LAB027,PAT027,2015-01-27,thrombectomy av shunt
+LAB028,PAT028,2015-01-28,thoracotomy & lobectomy
+LAB029,PAT029,2015-01-29,thoracotomy & pleurectomy
+LAB030,PAT030,2015-01-30,tilt table test
+LAB031,PAT031,2015-01-31,thoracotomy & bronchoscopy
+LAB032,PAT032,2015-02-01,thoracotomy & esophageal exploration
+LAB033,PAT033,2015-02-02,thoracoscopy/thoracotomy
+LAB034,PAT034,2015-02-03,thoracoabdominal aneurysm
+LAB035,PAT035,2015-02-04,thoracoscopy & thoracotomy - mesothelioma
+LAB036,PAT036,2015-02-05,telemetry monitoring
+LAB037,PAT037,2015-02-06,tessio catheter insertion
+LAB038,PAT038,2015-02-07,thoracentesis
+LAB039,PAT039,2015-02-08,tachypnea
+LAB040,PAT040,2015-02-09,thoracentesis - 1
+LAB041,PAT041,2015-02-10,tesio hemodialysis catheter insertion
+LAB042,PAT042,2015-02-11,supraclavicular lymphadenopathy
+LAB043,PAT043,2015-02-12,supraventricular tachycardia - consult
+LAB044,PAT044,2015-02-13,subxiphoid pericardiotomy
+LAB045,PAT045,2015-02-14,subxiphoid pericardial window
+LAB046,PAT046,2015-02-15,stress test graded exercise treadmill
+LAB047,PAT047,2015-02-16,subclavian central venous catheter insertion
+LAB048,PAT048,2015-02-17,stress test dobutrex
+LAB049,PAT049,2015-02-18,stress test thallium
+LAB050,PAT050,2015-02-19,stress test dobutamine myoview
+LAB051,PAT051,2015-02-20,subxiphoid pericardial window - 1
+LAB052,PAT052,2015-02-21,stress test adenosine myoview
+LAB053,PAT053,2015-02-22,stress test dobutamine
+LAB054,PAT054,2015-02-23,stress test bruce protocol
+LAB055,PAT055,2015-02-24,sick sinus syndrome
+LAB056,PAT056,2015-02-25,stenting
+LAB057,PAT057,2015-02-26,soap - shortness of breath
+LAB058,PAT058,2015-02-27,single frontal view of chest
+LAB059,PAT059,2015-02-28,soap - lung mass
+LAB060,PAT060,2015-03-01,shiley tracheostomy tube insertion
+LAB061,PAT061,2015-03-02,septal defect repair
+LAB062,PAT062,2015-03-03,shortness of breath - progress note
+LAB063,PAT063,2015-03-04,saphenous vein - ligation & stripping
+LAB064,PAT064,2015-03-05,shone complex
+LAB065,PAT065,2015-03-06,selective coronary angiography & angioplasty
+LAB066,PAT066,2015-03-07,radionuclide stress test
+LAB067,PAT067,2015-03-08,reactive airway disease
+LAB068,PAT068,2015-03-09,pulmonary function test - 5
+LAB069,PAT069,2015-03-10,q-fever endocarditis
+LAB070,PAT070,2015-03-11,pulmonary valve stenosis
+LAB004,PAT071,2015-03-12,pulmonary hypertension - pediatric consult
+LAB005,PAT072,2015-03-13,pulmonary medicine clinic followup
+LAB006,PAT073,2015-03-14,pulmonary function test - 4
+LAB007,PAT074,2015-03-15,pulmonary edema - consult
+LAB008,PAT075,2015-03-16,pulmonary embolism
+LAB009,PAT076,2015-03-17,pulmonary function test - 1
+LAB010,PAT077,2015-03-18,pulmonary function test - 3
+LAB011,PAT078,2015-03-19,pulmonary function test
+LAB012,PAT079,2015-03-20,pulmonary consultation - 1
+LAB013,PAT080,2015-03-21,pulmonary consultation - 2
+LAB014,PAT081,2015-03-22,pulmonary function test - 2
+LAB015,PAT082,2015-03-23,pulmonary atresia
+LAB016,PAT083,2015-03-24,port-a-cath insertion
+LAB017,PAT084,2015-03-25,pulmonary - followup note
+LAB018,PAT085,2015-03-26,pneumonia & copd - discharge summary
+LAB019,PAT086,2015-03-27,port-a-cath insertion - 5
+LAB020,PAT087,2015-03-28,pneumoconiosis
+LAB021,PAT088,2015-03-29,preeclampsia
+LAB022,PAT089,2015-03-30,pneumonia - discharge summary
+LAB023,PAT090,2015-03-31,pneumothorax & subcutaneous emphysema
+LAB024,PAT091,2015-04-01,preop cardiac consult
+LAB025,PAT092,2015-04-02,pigtail catheter insertion
+LAB026,PAT093,2015-04-03,pleurodesis
+LAB008,PAT094,2015-04-04,pleurocentesis
+LAB009,PAT095,2015-04-05,paroxysmal atrial fibrillation
+LAB010,PAT096,2015-04-06,patent ductus arteriosus
+LAB011,PAT097,2015-04-07,paf - 6-month followup
+LAB012,PAT098,2015-04-08,pericardial effusion
+LAB013,PAT099,2015-04-09,patent ductus arteriosus ligation
+LAB014,PAT100,2015-01-01,picc line insertion
+LAB015,PAT101,2015-01-02,peripheral effusion - consult
+LAB016,PAT102,2015-01-03,pacemaker lead placement & rrevision.
+LAB017,PAT103,2015-01-04,nuclear cardiac stress report
+LAB018,PAT104,2015-01-05,pacemaker (dual chamber) - 1
+LAB019,PAT105,2015-01-06,pacemaker insertion
+LAB020,PAT106,2015-01-07,pacemaker - dddr
+LAB021,PAT107,2015-01-08,pacemaker (single chamber) - 1
+LAB022,PAT108,2015-01-09,pacemaker interrogation
+LAB023,PAT109,2015-01-10,pacemaker (single chamber)
+LAB024,PAT110,2015-01-11,non-q-wave myocardial infarction
+LAB025,PAT111,2015-01-12,pacemaker (dual chamber)
+LAB026,PAT112,2015-01-13,myocardial perfusion imaging - 1
+LAB027,PAT113,2015-01-14,myocardial perfusion imaging - 2
+LAB028,PAT114,2015-01-15,myocardial perfusion imaging - 3
+LAB029,PAT115,2015-01-16,multiple stent placements
+LAB030,PAT116,2015-01-17,myoview perfusion scan
+LAB031,PAT117,2015-01-18,mri of lung - adenocarcinoma
+LAB032,PAT118,2015-01-19,multiple medical problems - discharge summary
+LAB033,PAT119,2015-01-20,murmur & bacteremia.
+LAB034,PAT120,2015-01-21,multilobar pneumonia
+LAB035,PAT121,2015-01-22,mitral valve repair & annuloplasty
+LAB036,PAT122,2015-01-23,microlaryngoscopy
+LAB004,PAT123,2015-01-24,mesothelioma - pleural biopsy
+LAB005,PAT124,2015-01-25,mesothelioma - consult
+LAB006,PAT125,2015-01-26,mediastinal mass resection
+LAB007,PAT126,2015-01-27,mayoview - 1
+LAB008,PAT127,2015-01-28,metastasectomy & bronchoscopy
+LAB009,PAT128,2015-01-29,mayoview
+LAB010,PAT129,2015-01-30,lung cancer & mi - hospice cosult
+LAB011,PAT130,2015-01-31,mediastinal exploration
+LAB012,PAT131,2015-02-01,mayoview - 2
+LAB013,PAT132,2015-02-02,mediastinal exploration & right atrium repair
+LAB014,PAT133,2015-02-03,lung biopsy pathology report
+LAB015,PAT134,2015-02-04,lymphoblastic leukemia - consult
+LAB016,PAT135,2015-02-05,lung biopsy pathology report - 1
+LAB017,PAT136,2015-02-06,lobectomy & lymph node dissection
+LAB018,PAT137,2015-02-07,lobectomy - vats
+LAB019,PAT138,2015-02-08,lung adenocarcinoma path report
+LAB020,PAT139,2015-02-09,lobectomy & lymphadenectomy
+LAB021,PAT140,2015-02-10,lower extremity venous doppler
+LAB022,PAT141,2015-02-11,lower extremity arterial doppler
+LAB023,PAT142,2015-02-12,lobectomy - left lower
+LAB024,PAT143,2015-02-13,lung biopsy discussion
+LAB025,PAT144,2015-02-14,lobectomy - followup
+LAB026,PAT145,2015-02-15,lightheaded & dizziness
+LAB027,PAT146,2015-02-16,laryngoscopy
+LAB028,PAT147,2015-02-17,laparoscopic adrenalectomy
+LAB029,PAT148,2015-02-18,ischemic cardiac disease - progress note
+LAB030,PAT149,2015-02-19,immunohistochemical study
+LAB031,PAT150,2015-02-20,iv procainamide infusion
+LAB032,PAT151,2015-02-21,lexiscan nuclear scan
+LAB005,PAT152,2015-02-22,hypertension & cardiomyopathy
+LAB006,PAT153,2015-02-23,hypertension - consult
+LAB007,PAT154,2015-02-24,hypertension - progress note
+LAB008,PAT155,2015-02-25,holter monitor report - 1
+LAB009,PAT156,2015-02-26,holter monitor report - 2
+LAB010,PAT157,2015-02-27,hickman central venous catheter placement
+LAB011,PAT158,2015-02-28,holter monitoring
+LAB012,PAT159,2015-03-01,holter monitor report
+LAB013,PAT160,2015-03-02,"heart catheterization, ventriculography, & angiography - 8"
+LAB014,PAT161,2015-03-03,"heart catheterization, ventriculography, & angiography - 7"
+LAB015,PAT162,2015-03-04,high pt-inr - er visit
+LAB016,PAT163,2015-03-05,"heart catheterization, ventriculography, & angiography - 6"
+LAB017,PAT164,2015-03-06,"heart catheterization, ventriculography, & angiography - 9"
+LAB018,PAT165,2015-03-07,"heart catheterization, ventriculography, & angiography - 5"
+LAB019,PAT166,2015-03-08,"heart catheterization, ventriculography, & angiography - 12"
+LAB020,PAT167,2015-03-09,"heart catheterization, ventriculography, & angiography - 3"
+LAB021,PAT168,2015-03-10,"heart catheterization, ventriculography, & angiography - 4"
+LAB022,PAT169,2015-03-11,"heart catheterization, ventriculography, & angiography - 2"
+LAB023,PAT170,2015-03-12,"heart catheterization, ventriculography, & angiography - 11"
+LAB024,PAT171,2015-03-13,"heart catheterization, ventriculography, & angiography - 10"
+LAB025,PAT172,2015-03-14,heart catheterization & angiography - 1
+LAB026,PAT173,2015-03-15,heart catheterization & ventriculogram
+LAB027,PAT174,2015-03-16,"heart catheterization, ventriculography, & angiography"
+LAB028,PAT175,2015-03-17,heart catheterization & angiography - 2
+LAB029,PAT176,2015-03-18,"heart catheterization, ventriculography, & angiography - 1"
+LAB030,PAT177,2015-03-19,heart catheterization - 2
+LAB031,PAT178,2015-03-20,heart cath & coronary angiography
+LAB032,PAT179,2015-03-21,followup on asthma
+LAB033,PAT180,2015-03-22,heart catheterization & angiography
+LAB034,PAT181,2015-03-23,fogarty thrombectomy
+LAB035,PAT182,2015-03-24,h&p - cardio (angina)
+LAB036,PAT183,2015-03-25,heart catheterization - 1
+LAB037,PAT184,2015-03-26,flexible bronchoscopy
+LAB038,PAT185,2015-03-27,flexible fiberoptic bronchoscopy
+LAB039,PAT186,2015-03-28,heart catheterization
+LAB040,PAT187,2015-03-29,fiberoptic flexible bronchoscopy
+LAB041,PAT188,2015-03-30,flexible fiberoptic bronchoscopy -1
+LAB042,PAT189,2015-03-31,fistulogram & angioplasty
+LAB043,PAT190,2015-04-01,fiberoptic bronchoscopy with lavage
+LAB044,PAT191,2015-04-02,femoral artery cannulation & aortogram
+LAB045,PAT192,2015-04-03,exercise stress test - 2
+LAB003,PAT193,2015-04-04,exercise stress test - 4
+LAB004,PAT194,2015-04-05,fiberoptic bronchoscopy - 1
+LAB005,PAT195,2015-04-06,exercise stress test - 3
+LAB006,PAT196,2015-04-07,exercise stress test
+LAB007,PAT197,2015-04-08,er report - copd
+LAB008,PAT198,2015-04-09,fiberoptic bronchoscopy
+LAB009,PAT199,2015-04-10,er report - chest pain
+LAB010,PAT200,2015-01-01,exercise stress test - 1
+LAB011,PAT201,2015-01-02,"esophagogastrectomy, jejunostomy, & chest tubes"
+LAB012,PAT202,2015-01-03,elevated bnp - consult
+LAB013,PAT203,2015-01-04,endotracheal intubation - 1
+LAB014,PAT204,2015-01-05,exercise myocardial perfusion study
+LAB015,PAT205,2015-01-06,echocardiography
+LAB016,PAT206,2015-01-07,endovascular brachytherapy
+LAB017,PAT207,2015-01-08,elevated cardiac enzymes
+LAB018,PAT208,2015-01-09,endotracheal intubation
+LAB019,PAT209,2015-01-10,echocardiogram - 1
+LAB020,PAT210,2015-01-11,echocardiogram - 3
+LAB021,PAT211,2015-01-12,echocardiogram - 2
+LAB022,PAT212,2015-01-13,duplex ultrasound - legs
+LAB023,PAT213,2015-01-14,dobutamine stress test - 1
+LAB024,PAT214,2015-01-15,echocardiogram
+LAB025,PAT215,2015-01-16,dual chamber generator replacement
+LAB026,PAT216,2015-01-17,dual chamber icd implantation
+LAB027,PAT217,2015-01-18,double lumen port inserstion
+LAB028,PAT218,2015-01-19,discharge summary - respiratory failure
+LAB029,PAT219,2015-01-20,dobutamine stress test
+LAB030,PAT220,2015-01-21,discharge summary
+LAB031,PAT221,2015-01-22,discharge summary - respiratory distress
+LAB032,PAT222,2015-01-23,difficulty breathing - er visit
+LAB033,PAT223,2015-01-24,dddr permanent pacemaker
+LAB034,PAT224,2015-01-25,discharge summary - copd
+LAB035,PAT225,2015-01-26,dilated cardiomyopathy - consult
+LAB036,PAT226,2015-01-27,direct laryngoscopy
+LAB037,PAT227,2015-01-28,cyberknife treatment - followup
+LAB038,PAT228,2015-01-29,cystic fibrosis
+LAB039,PAT229,2015-01-30,ct of chest with contrast
+LAB040,PAT230,2015-01-31,cva - discharge summary
+LAB041,PAT231,2015-02-01,coronary ct angiography (ccta) - 4
+LAB042,PAT232,2015-02-02,ct angiography
+LAB043,PAT233,2015-02-03,ct angiography - 1
+LAB044,PAT234,2015-02-04,ct chest - 2
+LAB045,PAT235,2015-02-05,coronary ct angiography (ccta) - 3
+LAB046,PAT236,2015-02-06,coronary ct angiography (ccta) - 2
+LAB047,PAT237,2015-02-07,ct chest - 1
+LAB001,PAT238,2015-02-08,coronary angiography
+LAB002,PAT239,2015-02-09,copd & pneumonia - soap
+LAB003,PAT240,2015-02-10,ct chest
+LAB004,PAT241,2015-02-11,coronary ct angiography (ccta) - 5
+LAB005,PAT242,2015-02-12,copd & bronchitis - discharge summary
+LAB006,PAT243,2015-02-13,coronary angiography & abdominal aortography
+LAB007,PAT244,2015-02-14,copd - discharge summary
+LAB008,PAT245,2015-02-15,coronary ct angiography (ccta) - 1
+LAB009,PAT246,2015-02-16,consult - palpitations & presyncope
+LAB010,PAT247,2015-02-17,consult - atrial fibrillation - 1
+LAB011,PAT248,2015-02-18,consult - atrial fibrillation
+LAB012,PAT249,2015-02-19,consult - congestive heart failure
+LAB013,PAT250,2015-02-20,complex cyanotic congenital heart disease
+LAB014,PAT251,2015-02-21,consult - coronary artery disease
+LAB015,PAT252,2015-02-22,cineangiography - 1
+LAB016,PAT253,2015-02-23,coarctation of aorta
+LAB017,PAT254,2015-02-24,consult - abnormal ekg
+LAB018,PAT255,2015-02-25,cineangiography
+LAB019,PAT256,2015-02-26,chest tube placement
+LAB020,PAT257,2015-02-27,chronic atrial fibrillation
+LAB021,PAT258,2015-02-28,chest wall tumor resection
+LAB022,PAT259,2015-03-01,chest tube removal
+LAB023,PAT260,2015-03-02,chest pulmonary angio
+LAB024,PAT261,2015-03-03,chest pain & respiratory insufficiency
+LAB025,PAT262,2015-03-04,chest tube insertion in er
+LAB026,PAT263,2015-03-05,chest pa & lateral
+LAB027,PAT264,2015-03-06,chest pain - office note
+LAB028,PAT265,2015-03-07,chest discomfort & palpitations - consult.
+LAB029,PAT266,2015-03-08,chest closure
+LAB030,PAT267,2015-03-09,chest tube insertion
+LAB031,PAT268,2015-03-10,chest pain - cardiac consult
+LAB032,PAT269,2015-03-11,carotid doppler report
+LAB033,PAT270,2015-03-12,carotid endarterectomy & angioplasty.
+LAB034,PAT271,2015-03-13,central line placement
+LAB035,PAT272,2015-03-14,carotid & cerebral arteriograms
+LAB036,PAT273,2015-03-15,central venous & arterial  line
+LAB037,PAT274,2015-03-16,central line insertion
+LAB038,PAT275,2015-03-17,carotid endarterectomy - 1
+LAB039,PAT276,2015-03-18,carotid endarterectomy
+LAB040,PAT277,2015-03-19,cardioversion - direct current - 1
+LAB041,PAT278,2015-03-20,cardioversion - direct current
+LAB042,PAT279,2015-03-21,cardiomyopathy & hypotension - consult
+LAB043,PAT280,2015-03-22,cardiology progress note
+LAB044,PAT281,2015-03-23,cardioversion - unsuccessful
+LAB045,PAT282,2015-03-24,cardiovascular - letter
+LAB046,PAT283,2015-03-25,cardiology office visit - 2
+LAB047,PAT284,2015-03-26,cardiology progress note - 1
+LAB048,PAT285,2015-03-27,cardioversion
+LAB049,PAT286,2015-03-28,cardiac radionuclide stress test
+LAB007,PAT287,2015-03-29,cardiology - letter
+LAB008,PAT288,2015-03-30,cardiac transfer summary
+LAB009,PAT289,2015-03-05,cardio/pulmo discharge summary
+LAB010,PAT290,2015-03-06,cardiolite treadmill stress test
+LAB011,PAT291,2015-03-07,cardiology office visit - 1
+LAB012,PAT292,2015-03-08,cardiac consultation - 6
+LAB013,PAT293,2015-03-09,cardiac consultation - 3
+LAB014,PAT294,2015-03-10,cardiac consultation - 7
+LAB015,PAT295,2015-03-11,cardiac consultation - 1
+LAB016,PAT296,2015-03-12,cardiac consultation - 2
+LAB017,PAT297,2015-03-13,cardiac consultation - 4
+LAB018,PAT298,2015-03-14,cardiac consult & cardioversion
+LAB019,PAT299,2015-03-15,cardiac consultation - 5
+LAB020,PAT300,2015-03-16,cardiac catheterization - 9
+LAB021,PAT301,2015-03-17,cardiac consultation
+LAB022,PAT302,2015-03-18,cardiac catheterization - 8
+LAB023,PAT303,2015-03-19,cardiac catheterization - 6
