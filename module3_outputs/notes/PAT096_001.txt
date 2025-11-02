@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT096 is a 53-year-old female with a history of paroxysmal atrial fibrillation (paf). She is getting occasional chest pains with activity. She is frustrated by her inability to lose weight even though she is hyperthyroid. She is taking chlorthalidone 10 mg b.i.d., atenolol/chlorthalidone 50/25 mg b.i.d., micro-k 10 meq q.d., lanoxin 0.125 mg q.d., spironolactone 25 mg q.d., crestor 10 mg q.h.s., famotidine 20 mg, bayer aspirin 81 mg q.d., vicodin p.r.n., and nexium 40 mg-given samples of this today. Her last stress echo was in 2001. I am going to have her return for one just to make sure it is nothing serious. I suspect; however, that is more likely due to her weight and acid reflux. I gave her samples of nexium.
+
+=== SOAP SUMMARY ===
+Patient PAT096 is a 53-year-old female with a history of paroxysmal atrial fibrillation (paf) She is frustrated by her inability to lose weight even though she is hyperthyroid. Her last stress echo was in 2001. I suspect; however, that is more likely due to her weight and acid reflux. I gave her samples of nexium.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT096_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+coil embolization of patent ductus arteriosus.
+
+OBJECTIVE:
+Vitals: trestbps=142; chol=226; fbs=0; restecg=0; thalach=111; exang=1; oldpeak=0.0; slope=2; ca=0; thal=3
+Lab: patent ductus arteriosus
+
+ASSESSMENT:
+Patient PAT096 is a 53-year-old female with a history of paroxysmal atrial fibrillation (paf) She is frustrated by her inability to lose weight even though she is hyperthyroid. Her last stress echo was in 2001. I suspect; however, that is more likely due to her weight and acid reflux. I gave her samples of nexium.
+
+PLAN:
+reason for visit:,  six-month follow-up visit for paroxysmal atrial fibrillation (paf).,she reports that she is getting occasional chest pains with activity.  sometimes she feels that at night when she is lying in bed and it concerns her.,she is frustrated by her inability to lose weight even though she is hyperthyroid.,medications: , tapazole 10 mg b.i.d., atenolol/chlorthalidone 50/25 mg b.i.d., micro-k 10 meq q.d., lanoxin 0.125 mg q.d., spironolactone 25 mg q.d., crestor 10 mg q.h.s., famotidine 20 mg, bayer aspirin 81 mg q.d., vicodin p.r.n., and nexium 40 mg-given samples of this today.,review of systems:,  no palpitations.  no lightheadedness or presyncope.  she is having mild pedal edema, but she drinks a lot of fluid.,pex: , bp:  112/74.  pr:  70.  wt:  223 pounds (up three pounds).  cardiac:  regular rate and rhythm with a 1/6 murmur at the upper sternal border.  chest:  nontender.  lungs:  clear.  abdomen:  moderately overweight.  extremities:  trace edema.,ekg: , sinus bradycardia at 58 beats per minute, mild inferolateral st abnormalities.,impression:,1.  chest pain-mild.  her ekg is mildly abnormal.  her last stress echo was in 2001.  i am going to have her return for one just to make sure it is nothing serious.  i suspect; however, that is more likely due to her weight and acid reflux.  i gave her samples of nexium.,2.  mild pedal edema-has to cut down on fluid intake, weight loss will help as well, continue with the chlorthalidone.,3.  paf-due to hypertension, hyperthyroidism and hypokalemia.  staying in sinus rhythm.,4.  hyperthyroidism-last tsh was mildly suppressed, she had been out of her tapazole for a while, now back on it.,5.  dyslipidemia-samples of crestor given.,6.  lvh.,7.  menometrorrhagia.,plan:,1.  return for stress echo.,2.  reduce the fluid intake to help with pedal edema.,3.  nexium trial.
+
+ICD-10 Suggestions:
+ - I480 :    Paroxysmal atrial fibrillation (score=0.994)
+ - I4811 :   Longstanding persistent atrial fibrillation (score=0.994)
+ - R634 :    Abnormal weight loss (score=0.900)
+ - R009 :    Unspecified abnormalities of heart beat (score=0.721)
+ - E210 :    Primary hyperparathyroidism (score=0.613)
+

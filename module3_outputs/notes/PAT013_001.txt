@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT013 is a 49-year-old male with mild mitral regurgitation and mild tricuspid regurgitation. The patient was brought to the transesophageal echo laboratory after informed consent was obtained. The patient's posterior pharynx was anesthetized with local cetacaine spray. The transesophageal probe was introduced into the posterior pharynx and esophagus without difficulty. Findings: The left ventricle is normal in size and function; ejection fraction is approximately 60%. The right ventricle is normal in size and function. The left atrium and right atrium are normal in size. The mitral valve, aortic valve, tricuspid valve, and pulmonic valve with no evidence of vegetation. Aortic valve is only minimally thickened. There is mild mitral regurgitation and mild tricuspid regurgitation. There is no left ventricular thrombus. There is no pericardial effusion. There is evidence of patent foramen ovale by contrast study. The patient tolerated the procedure well and is sent to recovery in stable condition. He should be n.p.o. x4 hours, then liquid, then increase as tolerated. Once his infection is cleared, he should follow up with us with regard to followup of patent foramen ovale.
+
+=== SOAP SUMMARY ===
+Patient PAT013 is a 49-year-old male with mild mitral regurgitation. The patient's posterior pharynx was anesthetized with local cetacaine spray. The left ventricle is normal in size and function; ejection fraction is approximately 60%. There is no left ventricular thrombus.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT013_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+transesophageal echocardiogram. the transesophageal probe wa introduced into the posterior pharynx and esophagus without difficulty.
+
+OBJECTIVE:
+Vitals: trestbps=130; chol=266; fbs=0; restecg=1; thalach=171; exang=0; oldpeak=0.6; slope=2; ca=0; thal=2
+Lab: transesophageal echocardiogram - 4
+
+ASSESSMENT:
+Patient PAT013 is a 49-year-old male with mild mitral regurgitation. The patient's posterior pharynx was anesthetized with local cetacaine spray. The left ventricle is normal in size and function; ejection fraction is approximately 60%. There is no left ventricular thrombus.
+
+PLAN:
+procedure note:,  the patient was brought to the transesophageal echo laboratory after informed consent was obtained.  the patient was seen by anesthesia for mac anesthesia.  the patient's posterior pharynx was anesthetized with local cetacaine spray.  the transesophageal probe was introduced into the posterior pharynx and esophagus without difficulty.,findings: ,1.  left ventricle is normal in size and function; ejection fraction approximately 60%.,2.  right ventricle is normal in size and function.,3.  left atrium and right atrium are normal in size.,4.  mitral valve, aortic valve, tricuspid valve, and pulmonic valve with no evidence of vegetation.  aortic valve is only minimally thickened.,5.  mild mitral regurgitation and mild tricuspid regurgitation.,6.  no left ventricular thrombus.,7.  no pericardial effusion.,8.  there is evidence of patent foramen ovale by contrast study.,the patient tolerated the procedure well and is sent to recovery in stable condition.  he should be n.p.o. x4 hours, then liquid, then increase as tolerated.  once his infection is cleared, he should follow up with us with regard to followup of patent foramen ovale.
+
+ICD-10 Suggestions:
+ - I340 :    Nonrheumatic mitral (valve) insufficiency (score=0.424)
+ - I445 :    Left posterior fascicular block (score=0.386)
+ - I341 :    Nonrheumatic mitral (valve) prolapse (score=0.361)
+ - I342 :    Nonrheumatic mitral (valve) stenosis (score=0.359)
+ - Q2388 :   Other congenital malformations of aortic and mitral valves (score=0.155)
+

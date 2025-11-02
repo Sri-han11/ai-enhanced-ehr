@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 74-year-old white female who presents to abcd general hospital after falling down flight of eleven stairs and sustained numerous injuries. The patient went to or today for an i&d of left lower extremity degloving injury. Orthopedics was planning on taking the patient back for serial debridements and need for reliable iv access is requested. The patient was prepped and draped in the normal sterile fashion. after landmarks were identified, approximately 5 cc of 1% lidocaine were injected into the skin and subcuticular tissues and the right neck posterior head of the sternocleidomastoid. Locator needle was used to correctly cannulate the right internal jugular vein. Therefore, we prepared for a right subclavian approach. The angle of the clavicle was found and a #22 gauge needle was used to anesthetize approximately 5 cc of 1% lidocaine in skin and subcuticular tissues along with the periosteum of the clavicle. a #22 gauge needle was used to anesthetize approximately 5 cc of 1% lidocaine in skin and subcuticular tissues along with the periosteum of the clavicle. a #22 gauge needle was used to anesthetize approximately 5 cc of 1% lidocaine in skin and subcuticular tissues along with the periosteum of the clavicle. a #22 gauge needle was used to anesthetize approximately 5 cc of 1% lidocaine in skin and subcuticular tissues along with the periosteum of the clav
+
+=== SOAP SUMMARY ===
+The patient is a 74-year-old white female who presents to abcd general hospital after falling down flight of eleven stairs and sustained numerous injuries. Orthopedics was planning on taking the patient back for serial debridements and need for reliable iv access is requested. The angle of the clavicle was found and a #22 gauge needle was used to anesthetize approximately 5 cc of 1% lidocaine in skin and subcuticular tissues.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT046_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+chest pain, chest wall tenderness occurred with exercise.
+
+OBJECTIVE:
+Vitals: trestbps=120; chol=325; fbs=0; restecg=1; thalach=172; exang=0; oldpeak=0.2; slope=2; ca=0; thal=2
+Lab: stress test graded exercise treadmill
+
+ASSESSMENT:
+The patient is a 74-year-old white female who presents to abcd general hospital after falling down flight of eleven stairs and sustained numerous injuries. Orthopedics was planning on taking the patient back for serial debridements and need for reliable iv access is requested. The angle of the clavicle was found and a #22 gauge needle was used to anesthetize approximately 5 cc of 1% lidocaine in skin and subcuticular tissues.
+
+PLAN:
+preoperative diagnoses:,1.  need for intravenous access.,2.  status post fall.,3.  status post incision and drainage of left lower extremity.,postoperative diagnoses:,1.  need for intravenous access.,2.  status post fall.,3.  status post incision and drainage of left lower extremity.,procedure performed: , insertion of right subclavian central venous catheter.,second anesthesia: , approximately 10 cc of 1% lidocaine.,estimated blood loss: , minimal.,indications for procedure:  ,the patient is a 74-year-old white female who presents to abcd general hospital after falling down flight of eleven stairs and sustained numerous injuries.  the patient went to or today for an i&d of left lower extremity degloving injury.  orthopedics was planning on taking the patient back for serial debridements and need for reliable iv access is requested.,procedure: , informed consent was obtained by the patient and her daughter.  all risks and benefits of the procedure were explained and all questions were answered.  the patient was prepped and draped in the normal sterile fashion.  after landmarks were identified, approximately 5 cc of 1% lidocaine were injected into the skin and subcuticular tissues and the right neck posterior head of the sternocleidomastoid.  locator needle was used to correctly cannulate the right internal jugular vein.  multiple attempts were made and the right internal jugular vein was unable to be cannulized.,therefore, we prepared for a right subclavian approach.  the angle of the clavicle was found and a #22 gauge needle was used to anesthetize approximately 5 cc of 1% lidocaine in skin and subcuticular tissues along with the periosteum of the clavicle.  a cook catheter needle was then placed and ________ the clavicle in the orientation aimed toward the sternal notch.  the right subclavian vein was then accessed.  a guidewire was placed with a cook needle and then the needle was subsequently removed and a #11 blade scalpel was used to nick the skin.  a dilator sheath was placed over the guidewire and subsequently removed.  the triple lumen catheter was then placed over the guidewire and advanced to 14 cm.  all ports aspirated and flushed.  good blood return was noted and all ports were flushed well.  the triple lumen catheter was then secured at 14 cm using #0 silk suture.  a sterile dressing was then applied.  a stat portable chest x-ray was ordered to check line placement.  the patient tolerated the procedure well and there were no complications.
+
+ICD-10 Suggestions:
+ - S41021D : Laceration with foreign body of right shoulder, subsequent encounter (score=0.905)
+ - S25309A : Unspecified injury of unspecified innominate or subclavian vein, initial encounter (score=0.903)
+ - S45209D : Unspecified injury of axillary or brachial vein, unspecified side, subsequent encounter (score=0.858)
+ - S41022A : Laceration with foreign body of left shoulder, initial encounter (score=0.857)
+ - S45209A : Unspecified injury of axillary or brachial vein, unspecified side, initial encounter (score=0.852)
+

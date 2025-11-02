@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is 65 years of age and has a malignant pleural effusion with dyspnea. The patient was taken to the operating room and mac anesthesia was administered. Next, the patient's chest and neck were prepped and draped in the standard surgical fashion. Lidocaine 1% was used to infiltrate the skin in the region of the procedure. Next a #18-gauge finder needle was used to locate the left subclavian vein. After aspiration of venous blood, seldinger technique was used to thread a j wire through the needle. This process was repeated. The 2 j wires and their distal tips were confirmed to be in adequate position with surgeon-interpreted fluoroscopy. Next, the subcutaneous tunnel was created. The distal tips of the individual tesio hemodialysis catheters were pulled through to the level of the cuff. A dilator and sheath were passed over the individual j wires. The dilator and wire were removed, and the distal tip of the tesio hemodialysis catheter was threaded through the sheath, which was simultaneously withdrawn. The process was repeated. Both distal tips were noted to be in good position. The tesio hemodialysis catheters were flushed and aspirated without difficulty. The catheters were secured at the cuff level with a 2-0 nylon. The skin was closed with 4-0 monocryl. sterile dressing was applied. The patient tolerated the procedure well and was transferred to the pacu in good condition.
+
+=== SOAP SUMMARY ===
+The patient is 65 years of age and has a malignant pleural effusion with dyspnea. The patient was taken to the operating room and mac anesthesia was administered. Lidocaine 1% was used to infiltrate the skin in the region of the procedure. Next, the subcutaneous tunnel was created.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT040_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+thoracentesis, left. malignant pleural effusion, left, with dyspnea.
+
+OBJECTIVE:
+Vitals: trestbps=160; chol=360; fbs=0; restecg=0; thalach=151; exang=0; oldpeak=0.8; slope=2; ca=0; thal=2
+Lab: thoracentesis - 1
+
+ASSESSMENT:
+The patient is 65 years of age and has a malignant pleural effusion with dyspnea. The patient was taken to the operating room and mac anesthesia was administered. Lidocaine 1% was used to infiltrate the skin in the region of the procedure. Next, the subcutaneous tunnel was created.
+
+PLAN:
+operation,1.  insertion of a left subclavian tesio hemodialysis catheter.,2.  surgeon-interpreted fluoroscopy.,operative procedure in detail: , after obtaining informed consent from the patient, including a thorough explanation of the risks and benefits of the aforementioned procedure, patient was taken to the operating room and mac anesthesia was administered.  next, the patient's chest and neck were prepped and draped in the standard surgical fashion.  lidocaine 1% was used to infiltrate the skin in the region of the procedure.  next a #18-gauge finder needle was used to locate the left subclavian vein.  after aspiration of venous blood, seldinger technique was used to thread a j wire through the needle.  this process was repeated.  the 2 j wires and their distal tips were confirmed to be in adequate position with surgeon-interpreted fluoroscopy.  next, the subcutaneous tunnel was created.  the distal tips of the individual tesio hemodialysis catheters were pulled through to the level of the cuff.  a dilator and sheath were passed over the individual j wires.  the dilator and wire were removed, and the distal tip of the tesio hemodialysis catheter was threaded through the sheath, which was simultaneously withdrawn.  the process was repeated.  both distal tips were noted to be in good position.  the tesio hemodialysis catheters were flushed and aspirated without difficulty.  the catheters were secured at the cuff level with a 2-0 nylon.  the skin was closed with 4-0 monocryl.  sterile dressing was applied.  the patient tolerated the procedure well and was transferred to the pacu in good condition.
+
+ICD-10 Suggestions:
+ - C384 :    Malignant neoplasm of pleura (score=0.994)
+ - J910 :    Malignant pleural effusion (score=0.994)
+ - D382 :    Neoplasm of uncertain behavior of pleura (score=0.796)
+ - C450 :    Mesothelioma of pleura (score=0.738)
+ - Q333 :    Agenesis of lung (score=0.653)
+

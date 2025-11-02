@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 91-year-old male with a previous history of working in the coalmine and significant exposure to silica with resultant pneumoconiosis and fibrosis of the lung. The patient has a positive history of smoking in the past. The patient is admitted for continued,management of respiratory depression with other medical complications. The patient was treated for multiple problems at Jefferson Hospital prior to coming here including abdominal discomfort due to a ureteral stone with resultant hydronephrosis and hydroureter. in addition, he also developed cardiac complications including atrial fibrillation. The patient was evaluated by the cardiologist as well as the pulmonary service and urology. He had a cystoscopy performed and a left ureteral stone was removed as well as insertion of a left ureteral stent on 07/23/2008. he subsequently underwent cardiac arrest and he was resuscitated at that time. he was intubated and placed on mechanical ventilatory support. subsequent weaning was unsuccessful. he then had a tracheostomy placed. Current medications: 1. albuterol. 2. pacerone. 3. theophylline. 4. lovenox. 5. atrovent. 6. insulin. 7. zestril. 8. zestril. 9. magnesium oxide. 10. lopressor. 11. zegerid. 12. tylenol as needed.
+
+=== SOAP SUMMARY ===
+The patient is a 91-year-old male with a previous history of working in the coalmine and significant exposure to silica with resultant pneumoconiosis and fibrosis of the lung. The patient is admitted for continued,management of respiratory depression with other medical complications. He was treated for multiple problems at Jefferson Hospital prior to coming here including abdominal discomfort due to a ureteral stone with resultant hydronephrosis.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT086_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+insertion of subclavian dual-port port-a-cath and surgeon-interpreted fluoroscopy.
+
+OBJECTIVE:
+Vitals: trestbps=115; chol=564; fbs=0; restecg=0; thalach=160; exang=0; oldpeak=1.6; slope=1; ca=0; thal=3
+Lab: port-a-cath insertion - 5
+
+ASSESSMENT:
+The patient is a 91-year-old male with a previous history of working in the coalmine and significant exposure to silica with resultant pneumoconiosis and fibrosis of the lung. The patient is admitted for continued,management of respiratory depression with other medical complications. He was treated for multiple problems at Jefferson Hospital prior to coming here including abdominal discomfort due to a ureteral stone with resultant hydronephrosis.
+
+PLAN:
+history of present illness: , this is a 91-year-old male with a previous history of working in the coalmine and significant exposure to silica with resultant pneumoconiosis and fibrosis of the lung.  the patient also has a positive history of smoking in the past.  at the present time, he is admitted for continued,management of respiratory depression with other medical complications.  the patient was treated for multiple problems at jefferson hospital prior to coming here including abdominal discomfort due to a ureteral stone with resultant hydronephrosis and hydroureter.  in addition, he also developed cardiac complications including atrial fibrillation.  the patient was evaluated by the cardiologist as well as the pulmonary service and urology.  he had a cystoscopy performed and a left ureteral stone was removed as well as insertion of a left ureteral stent on 07/23/2008.  he subsequently underwent cardiac arrest and he was resuscitated at that time.  he was intubated and placed on mechanical ventilatory support.  subsequent weaning was unsuccessful.  he then had a tracheostomy placed.,current medications:,1.  albuterol.,2.  pacerone.,3.  theophylline,4.  lovenox.,5.  atrovent.,6.  insulin.,7.  lantus.,8.  zestril.,9.  magnesium oxide.,10.  lopressor.,11.  zegerid.,12.  tylenol as needed.,allergies:,  penicillin.,past medical history:,1.  history of coal miner's disease.,2.  history of copd.,3.  history of atrial fibrillation.,4.  history of coronary artery disease.,5.  history of coronary artery stent placement.,6.  history of gastric obstruction.,7.  history of prostate cancer.,8.  history of chronic diarrhea.,9.  history of pernicious anemia.,10.  history of radiation proctitis.,11.  history of anxiety.,12.  history of ureteral stone.,13.  history of hydronephrosis.,social history: , the patient had been previously a smoker.  no other could be obtained because of tracheostomy presently.,family history: , noncontributory to the present condition and review of his previous charts.,systems review: , the patient currently is agitated.  rapidly moving his upper extremities.  no other history regarding his systems could be elicited from the patient.,physical exam:,general:  the patient is currently agitated with some level of distress.  he has rapid respiratory rate.  he is responsive to verbal commands by looking at the eyes.,vital signs:  as per the monitors are stable.,extremities:  inspection of the upper extremities reveals extreme xerosis of the skin with multiple areas of ecchymosis and skin tears some of them to the level of stage ii especially over the dorsum of the hands and forearm areas.  there is also edema of the forearm extending up to the mid upper arm area.  palpation of the upper extremities reveals fibrosis more prominent on the right forearm area with the maximum edema in the elbow area on the ulnar aspect.  there is also scabbing of some of the possibly from earlier skin tears in the upper side forearm area.,impression:,1.  ulceration of bilateral upper extremities.,2.  cellulitis of upper extremities.,3.  lymphedema of upper extremities.,4.  other noninfectious disorders of lymphatic channels.,5.  ventilatory-dependent respiratory failure.
+
+ICD-10 Suggestions:
+ - J60 :     Coalworker's pneumoconiosis (score=0.982)
+ - J984 :    Other disorders of lung (score=0.970)
+ - J689 :    Unspecified respiratory condition due to chemicals, gases, fumes and vapors (score=0.932)
+ - Q333 :    Agenesis of lung (score=0.910)
+ - J628 :    Pneumoconiosis due to other dust containing silica (score=0.897)
+

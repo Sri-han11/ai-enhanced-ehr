@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT022 is a 44-year-old female with respiratory failure. The patient was taken to the operating room, placed supine on the operating table. General inhalational anesthesia was administered through the patient's existing 4.0 endotracheal tube. The neck was extended and secured with tape and incision in the midline of the neck approximately 2 fingerbreadths above the sternal notch was outlined. The incision measured approximately 1 cm and was just below the palpable cricoid cartilage and first tracheal ring. The strap muscles were grasped and divided in the midline with a cutting electrocautery. Sharp dissection was used to expose adequate cartilaginous rings. a 4.0 silk was used for stay sutures to the midline of the cricoid. additional stay sutures were placed on each side of the third tracheal ring. thin duoderm was placed around the stoma. the tracheal incision was performed with a #11 blade through the second, third, and fourth tracheal rings. the cartilaginous edges were secured to the skin edges with interrupted #4-0 monocryl. a 4.5 ped tight-to-shaft cuffed bivona tube was placed and secured with velcro ties. a flexible scope was passed through the tracheotomy tube. the carina was visualized approximately 1.5 cm distal to the distal end of the tracheotomy tube. ventilation was confirmed. there was good chest rise and no appreciable leak. the procedure was terminated. the patient was in stable condition. bleeding was negligible and she was transferred back to the pediatric intensive
+
+=== SOAP SUMMARY ===
+Patient PAT022 is a 44-year-old female with respiratory failure. General inhalational anesthesia was administered through the patient's existing 4.0 endotracheal tube. The neck was extended and secured with tape and incision in the midline of the neck approximately 2 fingerbreadths above the sternal notch was outlined.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT022_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+tracheotomy for patient with respiratory failure.
+
+OBJECTIVE:
+Vitals: trestbps=130; chol=233; fbs=0; restecg=1; thalach=179; exang=1; oldpeak=0.4; slope=2; ca=0; thal=2
+Lab: tracheotomy - 1
+
+ASSESSMENT:
+Patient PAT022 is a 44-year-old female with respiratory failure. General inhalational anesthesia was administered through the patient's existing 4.0 endotracheal tube. The neck was extended and secured with tape and incision in the midline of the neck approximately 2 fingerbreadths above the sternal notch was outlined.
+
+PLAN:
+preoperative diagnosis: , respiratory failure.,postoperative diagnosis:  ,respiratory failure.,operative procedure: , tracheotomy.,anesthesia:  ,general inhalational.,description of procedure: , the patient was taken to the operating room, placed supine on the operating table.  general inhalational anesthesia was administered through the patient's existing 4.0 endotracheal tube.  the neck was extended and secured with tape and incision in the midline of the neck approximately 2 fingerbreadths above the sternal notch was outlined.  the incision measured approximately 1 cm and was just below the palpable cricoid cartilage and first tracheal ring.  the incision area was infiltrated with 1% xylocaine with epinephrine 1:100,000.  a #67 blade was used to perform the incision.  electrocautery was used to remove excess fat tissue to expose the strap muscles.  the strap muscles were grasped and divided in the midline with a cutting electrocautery.  sharp dissection was used to expose the anterior trachea and cricoid cartilage.  the thyroid isthmus was identified crossing just below the cricoid cartilage.  this was divided in the midline with electrocautery.  blunt dissection was used to expose adequate cartilaginous rings.  a 4.0 silk was used for stay sutures to the midline of the cricoid.  additional stay sutures were placed on each side of the third tracheal ring.  thin duoderm was placed around the stoma.  the tracheal incision was performed with a #11 blade through the second, third, and fourth tracheal rings.  the cartilaginous edges were secured to the skin edges with interrupted #4-0 monocryl.  a 4.5 ped tight-to-shaft cuffed bivona tube was placed and secured with velcro ties.  a flexible scope was passed through the tracheotomy tube.  the carina was visualized approximately 1.5 cm distal to the distal end of the tracheotomy tube.  ventilation was confirmed.  there was good chest rise and no appreciable leak.  the procedure was terminated.  the patient was in stable condition.  bleeding was negligible and she was transferred back to the pediatric intensive care unit in stable condition.
+
+ICD-10 Suggestions:
+ - Z983 :    Post therapeutic collapse of lung status (score=0.799)
+ - J95822 :  Acute and chronic postprocedural respiratory failure (score=0.766)
+ - J95821 :  Acute postprocedural respiratory failure (score=0.502)
+ - R069 :    Unspecified abnormalities of breathing (score=0.263)
+ - T8852XS : Failed moderate sedation during procedure, sequela (score=0.237)
+

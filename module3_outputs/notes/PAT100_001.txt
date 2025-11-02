@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 70-year-old female with a history of copd, emphysema, pneumonia, and lung cancer. She had a visiting nurse for Christmas and started having abdominal pain, nausea and vomiting for which, she was admitted. She had a cat scan of the abdomen done, showed moderate pericardial effusion for which cardiology consult was requested. She had an echo done, which shows moderate pericardial effusion with early tamponade. The patient has underlying shortness of breath because of copd, emphysema and chronic cough. However, denies any dizziness, presyncope, palpitations, cough, nausea, vomiting, or diarrhea. Denies any prior history of coronary artery disease.
+
+=== SOAP SUMMARY ===
+The patient is a 70-year-old female with a history of copd, emphysema, pneumonia, and lung cancer. Had a visiting nurse for Christmas and started having abdominal pain, nausea and vomiting for which, she was admitted. She had a cat scan of the abdomen done, showed moderate pericardial effusion for which cardiology consult was requested.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT100_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+picc line insertion
+
+OBJECTIVE:
+Vitals: trestbps=130; chol=246; fbs=1; restecg=0; thalach=173; exang=0; oldpeak=0.0; slope=2; ca=3; thal=2
+Lab: picc line insertion
+
+ASSESSMENT:
+The patient is a 70-year-old female with a history of copd, emphysema, pneumonia, and lung cancer. Had a visiting nurse for Christmas and started having abdominal pain, nausea and vomiting for which, she was admitted. She had a cat scan of the abdomen done, showed moderate pericardial effusion for which cardiology consult was requested.
+
+PLAN:
+reason for consult: , peripheral effusion on the cat scan.,history of present illness: , the patient is a 70-year-old caucasian female with prior history of lung cancer, status post upper lobectomy.  she was recently diagnosed with recurrent pneumonia and does have a cancer on the cat scan, lung cancer with metastasis.  the patient had a visiting nurse for christmas and started having abdominal pain, nausea and vomiting for which, she was admitted.  she had a cat scan of the abdomen done, showed moderate pericardial effusion for which cardiology consult was requested.  she had an echo done, which shows moderate pericardial effusion with early tamponade.  the patient has underlying shortness of breath because of copd, emphysema and chronic cough.  however, denies any dizziness, syncope, presyncope, palpitation.  denies any prior history of coronary artery disease.,allergies: , no known drug allergies.,medications: , at this time, she is on hydromorphone p.r.n., erythromycin, ceftriaxone, calcium carbonate, ambien.  she is on oxygen and nebulizer.,past medical history: , history of copd, emphysema, pneumonia, and lung cancer.,past surgical history:  ,hip surgery and resection of the lung cancer 10 years ago.,social history:,  still smokes, but less than before.  drinks socially.,family history:,  noncontributory.,review of systems: , denies any syncope, presyncope, palpitations, shortness of breath, cough, nausea, vomiting, or diarrhea.,physical examination:,general:  the patient is comfortable not in any distress.,vital signs:  blood pressure 121/79, pulse rate 94, respiratory rate 19, and temperature 97.6.,heent:  atraumatic and normocephalic.,neck:  supple.  no jvd.  no carotid bruit.,chest:  breath sounds vesicular.  clear on auscultation.,heart:  pmi could not be localized.  s2 and s2 regular.  no s3, no s4.  no murmur.,abdomen:  soft and nontender.  positive bowel sounds.,extremities:  no cyanosis, clubbing, or edema.  pulse 2+.,cns:  alert, awake, and oriented x3.,ekg shows normal sinus rhythm, low voltage.,laboratory data: , white cell count 7.3, hemoglobin 12.9, hematocrit 38.1, and platelet at 322,000.  sodium 135, potassium 5, bun 6, creatinine 1.2, glucose 71, alkaline phosphatase 263, total protein 5.3, lipase 414, and amylase 57.,diagnostic studies:,  chest x-ray shows left upper lobe airspace disease consistent with pneumonia _______.  ct abdomen showed diffuse replacement of the _______ metastasis, hepatomegaly, perihepatic ascites, moderate pericardial effusion, small left _______ sigmoid diverticulosis.,assessment:,1.  moderate peripheral effusion with early tamponade, probably secondary to lung cancer.,2.  lung cancer with metastasis most likely.,3.  pneumonia.,4.  copd.,plan: , we will get ct surgery consult for pericardial window.  continue present medication.
+
+ICD-10 Suggestions:
+ - R198 :    Other specified symptoms and signs involving the digestive system and abdomen (score=0.992)
+ - S3630XA : Unspecified injury of stomach, initial encounter (score=0.960)
+ - S3630XD : Unspecified injury of stomach, subsequent encounter (score=0.950)
+ - S3632XD : Contusion of stomach, subsequent encounter (score=0.948)
+ - R109 :    Unspecified abdominal pain (score=0.946)
+

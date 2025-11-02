@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT051 is a 51-year-old male with ischemic cardiomyopathy, status post inferior wall myocardial infarction, status post left anterior descending ptca and stenting. The patient was stressed by intravenous adenosine, 140 mcg/kg/minute infused over four minutes. The baseline resting electrocardiogram revealed an electronic pacemaker depolarizing the ventricles regularly at a rate of 70 beats per minute. underlying atrial fibrillation noted, very wide qrs complexes. The heart rate remained unchanged at 70 beats per minute as the blood pressure decreased from 140/80 to 110/70 with adenosine infusion.
+
+=== SOAP SUMMARY ===
+Patient PAT051 is a 51-year-old male with ischemic cardiomyopathy. Status post inferior wall myocardial infarction, status post left anterior descending ptca and stenting. The patient was stressed by intravenous adenosine, 140 mcg/kg/minute infused over four minutes.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT051_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+subxiphoid pericardial window. a #10-blade scalpel wa used to make an incision in the area of the xiphoid process. dissection wa carried down to the level of the fascia using bovie electrocautery.
+
+OBJECTIVE:
+Vitals: trestbps=130; chol=256; fbs=0; restecg=0; thalach=149; exang=0; oldpeak=0.5; slope=2; ca=0; thal=2
+Lab: subxiphoid pericardial window - 1
+
+ASSESSMENT:
+Patient PAT051 is a 51-year-old male with ischemic cardiomyopathy. Status post inferior wall myocardial infarction, status post left anterior descending ptca and stenting. The patient was stressed by intravenous adenosine, 140 mcg/kg/minute infused over four minutes.
+
+PLAN:
+indications:,  ischemic cardiomyopathy, status post inferior wall myocardial infarction, status post left anterior descending ptca and stenting.,procedure done:,  adenosine myoview stress test.,stress ecg results:,  the patient was stressed by intravenous adenosine, 140 mcg/kg/minute infused over four minutes.  the baseline resting electrocardiogram revealed an electronic pacemaker depolarizing the ventricles regularly at a rate of 70 beats per minute.  underlying atrial fibrillation noted, very wide qrs complexes.  the heart rate remained unchanged at 70 beats per minute as the blood pressure decreased from 140/80 to 110/70 with adenosine infusion.
+
+ICD-10 Suggestions:
+ - I255 :    Ischemic cardiomyopathy (score=0.997)
+ - I427 :    Cardiomyopathy due to drug and external agent (score=0.928)
+ - I515 :    Myocardial degeneration (score=0.684)
+ - I2489 :   Other forms of acute ischemic heart disease (score=0.634)
+ - I43 :     Cardiomyopathy in diseases classified elsewhere (score=0.488)
+

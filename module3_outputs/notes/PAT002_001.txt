@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT002 is a 37-year-old German woman with worsening shortness of breath and cough. She had smoked one half pack of cigarettes per day for 20 years, but had quit smoking approximately 2 months prior to admission. On the day of admission, her dyspnea had worsened to the point that she became markedly short of breath after walking a short distance, and she elected to seek medical attention. On arrival at the hospital, she was short of breath at rest and was having difficulty completing her sentences. She did report a distant history of pulmonary embolism in 1997 with recurrent venous thromboembolism in 1999 for which an ivc filter had been placed in Germany. psoriasis. she denied any history of miscarriage.
+
+=== SOAP SUMMARY ===
+Patient PAT002 was a 37-year-old German woman with worsening shortness of breath and cough. She had smoked one half pack of cigarettes per day for 20 years, but had quit smoking approximately 2 months prior to admission. On arrival at the hospital, she was short of breath at rest and was having difficulty completing her sentences.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT002_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+patient with worsening shortness of breath and cough.
+
+OBJECTIVE:
+Vitals: trestbps=130; chol=250; fbs=0; restecg=1; thalach=187; exang=0; oldpeak=3.5; slope=0; ca=0; thal=2
+Lab: trouble breathing
+
+ASSESSMENT:
+Patient PAT002 was a 37-year-old German woman with worsening shortness of breath and cough. She had smoked one half pack of cigarettes per day for 20 years, but had quit smoking approximately 2 months prior to admission. On arrival at the hospital, she was short of breath at rest and was having difficulty completing her sentences.
+
+PLAN:
+chief complaint:, "trouble breathing.",history of present illness:, a 37-year-old german woman was brought to a shock room at the general hospital with worsening shortness of breath and cough. over the year preceding admission, the patient had begun to experience the insidious onset of shortness of breath. she had smoked one half pack of cigarettes per day for 20 years, but had quit smoking approximately 2 months prior to admission. approximately 2 weeks prior to admission, she noted worsening shortness of breath and the development of a dry nonproductive cough. approximately 1 week before admission, the shortness of breath became more severe and began to limit her activities. on the day of admission, her dyspnea had worsened to the point that she became markedly short of breath after walking a short distance, and she elected to seek medical attention. on arrival at the hospital, she was short of breath at rest and was having difficulty completing her sentences. she denied orthopnea, paroxysmal nocturnal dyspnea, swelling in her legs, chest pain, weight loss or gain, fever, chills, palpitations, and sick contacts. she denied any history of ivda, tattoos, or high risk sexual behavior. she did report a distant history of pulmonary embolism in 1997 with recurrent venous thromboembolism in 1999 for which an ivc filter had been placed in germany . she had been living in the united states for years, and had had no recent travel. she denied any occupational exposures. before the onset of her shortness of breath she had been very active and had exercised regularly.,past medical history:,  pulmonary embolism in 1997 which had been treated with thrombolysis in germany. she reported that she had been on warfarin for 6 months after her diagnosis.  recurrent venous thromboembolism in 1999 at which time an ivc filter had been placed.  psoriasis.  she denied any history of miscarriage.,past surgical history:,  ivc filter placement 1999.
+
+ICD-10 Suggestions:
+ - R0602 :   Shortness of breath (score=0.990)
+ - J705 :    Respiratory conditions due to smoke inhalation (score=0.979)
+ - R053 :    Chronic cough (score=0.967)
+ - F17298 :  Nicotine dependence, other tobacco product, with other nicotine-induced disorders (score=0.929)
+ - R069 :    Unspecified abnormalities of breathing (score=0.920)
+

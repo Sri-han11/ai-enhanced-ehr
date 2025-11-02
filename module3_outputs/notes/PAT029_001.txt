@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient was diagnosed with empyema of the chest, left. He underwent a left thoracotomy with total pulmonary decortication and parietal pleurectomy.
+
+=== SOAP SUMMARY ===
+The patient was diagnosed with empyema of the chest, left. He underwent a left thoracotomy with total pulmonary decortication and parietal pleurectomy. The patient was then transferred to hospital for further treatment. He is now recovering in hospital and his condition has improved.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT029_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+left thoracotomy with total pulmonary decortication and parietal pleurectomy. empyema of the chest, left.
+
+OBJECTIVE:
+Vitals: trestbps=140; chol=417; fbs=1; restecg=0; thalach=157; exang=0; oldpeak=0.8; slope=2; ca=1; thal=2
+Lab: thoracotomy & pleurectomy
+
+ASSESSMENT:
+The patient was diagnosed with empyema of the chest, left. He underwent a left thoracotomy with total pulmonary decortication and parietal pleurectomy. The patient was then transferred to hospital for further treatment. He is now recovering in hospital and his condition has improved.
+
+PLAN:
+preoperative diagnosis: , empyema of the chest, left.,postoperative diagnosis: , empyema of the chest, left.,procedure: , left thoracotomy with total pulmonary decortication and parietal pleurectomy.,procedure detail: , after obtaining the informed consent, the patient was brought to the operating room, where he underwent a general endotracheal anesthetic using a double-lumen endotracheal tube.  a time-out process had been followed and preoperative antibiotics were given.,the patient was positioned with the left side up for a left thoracotomy.  the patient was prepped and draped in the usual fashion.  a posterolateral thoracotomy was performed.  it included the previous incision.  the chest was entered through the fifth intercostal space.  actually, there was a very strong and hard parietal pleura, which initially did not allow us to obtain a good exposure, and actually the layer was so tough that the pin of the chest retractor broke.  thanks to dr. x's ingenuity, we were able to reuse the chest retractor and opened the chest after i incised the thickened parietal pleura resulting in an explosion of gas and pus from a cavity that was obviously welled off by the parietal pleura.  we aspirated an abundant amount of pus from this cavity.  the sample was taken for culture and sensitivity.,then, at least half an hour was spent trying to excise the parietal pleura and finally we were able to accomplish that up to the apex and back to the aorta __________ towards the heart including his diaphragm.  once we accomplished that, we proceeded to remove the solid exudate that was adhered to the lung.  further samples for culture and sensitivity were sent.,then, we were left with the trapped lung.  it was trapped by thickened visceral pleura.  this was the most difficult part of the operation and it was very difficult to remove the parietal pleura without injuring the lung extensively.  finally, we were able to achieve this and after the corresponding lumen of the endotracheal tube was opened, we were able to inflate both the left upper and lower lobes of the lung satisfactorily.  there was only one area towards the mediastinum that apparently i was not able to fill.  this area, of course, was very rigid but any surgery in the direction __________ would have caused __________ injury, so i restrained from doing that.  two large chest tubes were placed.  the cavity had been abundantly irrigated with warm saline.  then, the thoracotomy was closed in layers using heavy stitches of vicryl as pericostal sutures and then several figure-of-eight interrupted sutures to the muscle layers and a combination of nylon stitches and staples to the skin.,the chest tubes were affixed to the skin with heavy sutures of silk.  dressings were applied and the patient was put back in the supine position and after a few minutes of observation and evaluation, he was able to be extubated in the operating room.,estimated blood loss was about 500 ml.  the patient tolerated the procedure very well and was sent to the icu in a satisfactory condition.
+
+ICD-10 Suggestions:
+ - J95811 :  Postprocedural pneumothorax (score=0.623)
+ - T8182XD : Emphysema (subcutaneous) resulting from a procedure, subsequent encounter (score=0.516)
+ - J942 :    Hemothorax (score=0.389)
+ - T8182XA : Emphysema (subcutaneous) resulting from a procedure, initial encounter (score=0.331)
+ - S272XXD : Traumatic hemopneumothorax, subsequent encounter (score=0.308)
+

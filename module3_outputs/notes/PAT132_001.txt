@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+A 48-year-old smoker was found to have a right upper lobe mass on chest x-ray and is being evaluated for chest pain. pet scan demonstrated a mass in the right upper lobe and also a mass in the right lower lobe, which were also identified by ct scan. The lower lobe mass was approximately 1 cm in diameter and the upper lobe mass was 4 cm to 5 cm in diameter. two (2) hilar lymph nodes with no metastatic tumor. lymph node biopsy at level 2 and 4 showing seven (7) lymph nodes with anthracosis and no metastatic tumor. immunoperoxidase stain for ck-7, ck-20 and ttf are performed on both the right lower and right upper lobe nodule. the immunohistochemical results confirm the lung origin of both tumors and we feel that the tumor involving the right lower lobe is due to transbronchial spread from the larger tumor nodule involving the right upper lobe.
+
+=== SOAP SUMMARY ===
+A 48-year-old smoker was found to have a right upper lobe mass on chest x-ray and is being evaluated for chest pain. The lower lobe mass was approximately 1 cm in diameter and the upper lobeMass was 4 cm to 5 cm in size. The tumor involving the right lower lobe is due to transbronchial spread from the larger tumor nodule involving theright upper lobe.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT132_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+the patient had undergone mitral valve repair about seven day ago.
+
+OBJECTIVE:
+Vitals: trestbps=134; chol=271; fbs=0; restecg=1; thalach=162; exang=0; oldpeak=0.0; slope=1; ca=0; thal=2
+Lab: mediastinal exploration & right atrium repair
+
+ASSESSMENT:
+A 48-year-old smoker was found to have a right upper lobe mass on chest x-ray and is being evaluated for chest pain. The lower lobe mass was approximately 1 cm in diameter and the upper lobeMass was 4 cm to 5 cm in size. The tumor involving the right lower lobe is due to transbronchial spread from the larger tumor nodule involving theright upper lobe.
+
+PLAN:
+clinical history:,  a 48-year-old smoker found to have a right upper lobe mass on chest x-ray and is being evaluated for chest pain.  pet scan demonstrated a mass in the right upper lobe and also a mass in the right lower lobe, which were also identified by ct scan.  the lower lobe mass was approximately 1 cm in diameter and the upper lobe mass was 4 cm to 5 cm in diameter.  the patient was referred for surgical treatment.,specimen:,a.  lung, wedge biopsy right lower lobe,b.  lung, resection right upper lobe,c.  lymph node, biopsy level 2 and 4,d.  lymph node, biopsy level 7 subcarinal,final diagnosis:,a.  wedge biopsy of right lower lobe showing:  adenocarcinoma, grade 2, measuring 1 cm in diameter with invasion of the overlying pleura and with free resection margin.,b.  right upper lobe lung resection showing:  adenocarcinoma, grade 2, measuring 4 cm in diameter with invasion of the overlying pleura and with free bronchial margin.  two (2) hilar lymph nodes with no metastatic tumor.,c.  lymph node biopsy at level 2 and 4 showing seven (7) lymph nodes with anthracosis and no metastatic tumor.,d.  lymph node biopsy, level 7 subcarinal showing (5) lymph nodes with anthracosis and no metastatic tumor.,comment:  ,the morphology of the tumor seen in both lobes is similar and we feel that the smaller tumor involving the right lower lobe is most likely secondary to transbronchial spread from the main tumor involving the right upper lobe.  this suggestion is supported by the fact that no obvious vascular or lymphatic invasion is demonstrated and adjacent to the smaller tumor, there is isolated nests of tumor cells within the air spaces.  furthermore, immunoperoxidase stain for ck-7, ck-20 and ttf are performed on both the right lower and right upper lobe nodule.  the immunohistochemical results confirm the lung origin of both tumors and we feel that the tumor involving the right lower lobe is due to transbronchial spread from the larger tumor nodule involving the right upper lobe.,
+
+ICD-10 Suggestions:
+ - C7801 :   Secondary malignant neoplasm of right lung (score=0.966)
+ - R071 :    Chest pain on breathing (score=0.943)
+ - C3481 :   Malignant neoplasm of overlapping sites of right bronchus and lung (score=0.930)
+ - C3431 :   Malignant neoplasm of lower lobe, right bronchus or lung (score=0.910)
+ - C3411 :   Malignant neoplasm of upper lobe, right bronchus or lung (score=0.880)
+

@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 12-day-old infant who has undergone a modified stage i norwood procedure with a sano modification. The patient experienced an unexplained cardiac arrest at the completion of the procedure, which required institution of extracorporeal membrane oxygenation for more than two hours following discontinuation of cardiopulmonary bypass. The patient has been successfully resuscitated with extracorporeal membrane oxygenation and was decannulated 48 hours ago. She did not meet the criteria for delayed primary chest closure.
+
+=== SOAP SUMMARY ===
+The patient is a 12-day-old infant who has undergone a modified stage i norwood procedure with a sano modification. She experienced an unexplained cardiac arrest at the completion of the procedure. The patient has been successfully resuscitated with extracorporeal membrane oxygenation and was decannulated 48 hours ago. She did not meet the criteria for delayed primary chest closure.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT129_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+patient with metastatic non-small-cell lung cancer, on hospice with inferior st-elevation mi. the patient from prior stroke ha expressive aphasia, is not able to express herself in a clear meaningful fashion.
+
+OBJECTIVE:
+Vitals: trestbps=136; chol=196; fbs=0; restecg=0; thalach=169; exang=0; oldpeak=0.1; slope=1; ca=0; thal=2
+Lab: lung cancer & mi - hospice cosult
+
+ASSESSMENT:
+The patient is a 12-day-old infant who has undergone a modified stage i norwood procedure with a sano modification. She experienced an unexplained cardiac arrest at the completion of the procedure. The patient has been successfully resuscitated with extracorporeal membrane oxygenation and was decannulated 48 hours ago. She did not meet the criteria for delayed primary chest closure.
+
+PLAN:
+title of operation:,  mediastinal exploration and delayed primary chest closure.,indication for surgery:,  the patient is a 12-day-old infant who has undergone a modified stage i norwood procedure with a sano modification.  the patient experienced an unexplained cardiac arrest at the completion of the procedure, which required institution of extracorporeal membrane oxygenation for more than two hours following discontinuation of cardiopulmonary bypass.  the patient has been successfully resuscitated with extracorporeal membrane oxygenation and was decannulated 48 hours ago.  she did not meet the criteria for delayed primary chest closure.,preop diagnosis: , open chest status post modified stage i norwood procedure.,postop diagnosis: , open chest status post modified stage i norwood procedure.,anesthesia:,  general endotracheal.,complications:,  none.,findings: , no evidence of intramediastinal purulence or hematoma.  at completion of the procedure no major changes in hemodynamic performance.,details of the procedure: , after obtaining informed consent, the patient was brought to the room, placed on the operating room table in supine position.  following the administration of general endotracheal anesthesia, the chest was prepped and draped in the usual sterile fashion and all the chest drains were removed.  the chest was then prepped and draped in the usual sterile fashion and previously placed segmental alloderm was removed.  the mediastinum was then thoroughly irrigated with diluted antibiotic irrigation and both pleural cavities suctioned.  through a separate incision and another 15-french blake drain was inserted and small titanium clips were utilized to mark the rightward aspect of the rv-pa connection as well as inferior most aspect of the ventriculotomy.  the pleural spaces were opened widely and the sternum was then spilled with vancomycin paste and closed the sternum with steel wires.  the subcutaneous tissue and skin were closed in layers.  there was no evidence of significant increase in central venous pressure or desaturation.  the patient tolerated the procedure well.  sponge and needle counts were correct times 2 at the end of the procedure.  the patient was transferred to the pediatric intensive care unit shortly thereafter in critical but stable condition.,i was the surgical attending present in the operating room in charge of the surgical  procedure throughout the entire length of the case.
+
+ICD-10 Suggestions:
+ - I469 :    Cardiac arrest, cause unspecified (score=0.999)
+ - P2981 :   Cardiac arrest of newborn (score=0.993)
+ - S2690XD : Unspecified injury of heart, unspecified with or without hemopericardium, subsequent encounter (score=0.978)
+ - S2690XA : Unspecified injury of heart, unspecified with or without hemopericardium, initial encounter (score=0.887)
+ - P290 :    Neonatal cardiac failure (score=0.833)
+

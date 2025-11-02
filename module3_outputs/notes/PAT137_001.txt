@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT137 is a 60-year-old male with a history of suspected right upper lobe lung adenocarcinoma. The patient had a lobectomy with a vat right middle lobectomy, fiberoptic bronchoscopy, mediastinal lymph node sampling, tube thoracostomy x2, multiple chest wall biopsy and excision of margin on anterior chest wall adjacent to adherent tumor.
+
+=== SOAP SUMMARY ===
+Patient PAT137 is a 60-year-old male with a history of suspected right upper lobe lung adenocarcinoma. Patient had a lobectomy with a vat right middle lobectomy, mediastinal lymph node sampling, tube thoracostomy x2, multiple chest wall biopsy and excision of margin on anterior chest wall adjacent to adherent tumor.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT137_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+vat right middle lobectomy, fiberoptic bronchoscopy, mediastinal lymph node sampling, tube thoracostomy x2, multiple chest wall biopsy and excision of margin on anterior chest wall adjacent to adherent tumor.
+
+OBJECTIVE:
+Vitals: trestbps=120; chol=178; fbs=1; restecg=1; thalach=96; exang=0; oldpeak=0.0; slope=2; ca=0; thal=2
+Lab: lobectomy - vats
+
+ASSESSMENT:
+Patient PAT137 is a 60-year-old male with a history of suspected right upper lobe lung adenocarcinoma. Patient had a lobectomy with a vat right middle lobectomy, mediastinal lymph node sampling, tube thoracostomy x2, multiple chest wall biopsy and excision of margin on anterior chest wall adjacent to adherent tumor.
+
+PLAN:
+clinical history:  ,probable right upper lobe lung adenocarcinoma.,specimen: , lung, right upper lobe resection.,gross description:,  specimen is received fresh for frozen section, labeled with the patient's identification and "right upper lobe lung".  it consists of one lobectomy specimen measuring 16.1 x 10.6 x,4.5.cm.  the specimen is covered by a smooth, pink-tan and gray pleural surface which is largely unremarkable.  sectioning reveals a round, ill-defined, firm, tan-gray mucoid mass.  this mass measures 3.6 x 3.3 x 2.7 cm and is located 3.7 cm from the closest surgical margin and 3.9 cm from the hilum.  there is no necrosis or hemorrhage evident.  the tumor grossly appears to abut, but not invade through, the visceral pleura, and the overlying pleura is puckered.,final diagnosis:,  right lung, upper lobe, lobectomy:  bronchioloalveolar carcinoma, mucinous type,comment:,  right upper lobe, lobectomy.,tumor type:  bronchioloalveolar carcinoma, mucinous type.,histologic grade:  well differentiated.,tumor size (greatest diameter):  3.6 cm.,blood/lymphatic vessel invasion:  absent.,perineural invasion:  absent.,bronchial margin:  negative.,vascular margin:  negative.,inked surgical margin:  negative.,visceral pleura:  not involved.,in situ carcinoma:  absent.,non-neoplastic lung:  emphysema.,hilar lymph nodes:  number of positive lymph nodes:  0; total number of lymph nodes:  1.,p53 immunohistochemical stain is negative in the tumor.
+
+ICD-10 Suggestions:
+ - C3481 :   Malignant neoplasm of overlapping sites of right bronchus and lung (score=0.997)
+ - C3411 :   Malignant neoplasm of upper lobe, right bronchus or lung (score=0.997)
+ - Z8520 :   Personal history of malignant neoplasm of unspecified respiratory organ (score=0.997)
+ - C342 :    Malignant neoplasm of middle lobe, bronchus or lung (score=0.995)
+ - C3480 :   Malignant neoplasm of overlapping sites of unspecified bronchus and lung (score=0.993)
+

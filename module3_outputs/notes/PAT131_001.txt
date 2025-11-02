@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT131 is a 54-year-old male who had undergone mitral valve repair about seven days ago. He had epicardial pacing wires removed at the bedside. Shortly afterwards, he began to feel lightheaded and became pale and diaphoretic. He was immediately rushed to the operating room for cardiac tamponade following removal of epicardial pacing wires. He was transported immediately and emergently and remained awake and alert throughout the time period inspite of hypotension with the systolic pressure in the 60s-70s. The patient was taken emergently to the operating room and placed supine on the operating room table. His chest was prepped and draped prior to induction under general anesthesia. Incision was made through the previous median sternotomy chest incision. Wires were removed in the usual manner and the sternum was retracted. There were large amounts of dark blood filling the mediastinal chest cavity. Large amounts of clot were also removed from the pericardial well and chest. Systematic exploration of the mediastinum and pericardial well revealed bleeding from the right atrial appendix at the site of the previous cannulation. This was repaired with two horizontal mattress pledgeted #5-0 prolene sutures. An additional #0 silk tie was also placed around the base of the atrial appendage for further hemostasis. The mediastinum was then irrigated with copious amounts of antibiotic saline solution. Two chest tubes were then placed including an angled chest tube into the pericardial well on the inferior border of the heart, as well as straight mediastinal chest tube. The
+
+=== SOAP SUMMARY ===
+Patient PAT131 is a 54-year-old male who had undergone mitral valve repair about seven days ago. He had epicardial pacing wires removed at the bedside. Shortly afterwards, he began to feel lightheaded and became pale and diaphoretic. He was immediately rushed to the operating room for cardiac tamponade.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT131_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+lexiscan myoview stress study. chest discomfort. normal stress/rest cardiac perfusion with no indication of ischemia. normal lv function and low likelihood of significant epicardial coronary narrowing.
+
+OBJECTIVE:
+Vitals: trestbps=160; chol=201; fbs=0; restecg=1; thalach=163; exang=0; oldpeak=0.0; slope=2; ca=1; thal=2
+Lab: mayoview - 2
+
+ASSESSMENT:
+Patient PAT131 is a 54-year-old male who had undergone mitral valve repair about seven days ago. He had epicardial pacing wires removed at the bedside. Shortly afterwards, he began to feel lightheaded and became pale and diaphoretic. He was immediately rushed to the operating room for cardiac tamponade.
+
+PLAN:
+preoperative diagnoses:,1.  cardiac tamponade.,2.  status post mitral valve repair.,postoperative diagnoses:,1.  cardiac tamponade.,2.  status post mitral valve repair.,procedure performed: , mediastinal exploration with repair of right atrium.,anesthesia: , general endotracheal.,indications: , the patient had undergone mitral valve repair about seven days ago.  he had epicardial pacing wires removed at the bedside.  shortly afterwards, he began to feel lightheaded and became pale and diaphoretic.  he was immediately rushed to the operating room for cardiac tamponade following removal of epicardial pacing wires.  he was transported immediately and emergently and remained awake and alert throughout the time period inspite of hypotension with the systolic pressure in the 60s-70s.,details of procedure:  ,the patient was taken emergently to the operating room and placed supine on the operating room table.  his chest was prepped and draped prior to induction under general anesthesia.  incision was made through the previous median sternotomy chest incision.  wires were removed in the usual manner and the sternum was retracted.  there were large amounts of dark blood filling the mediastinal chest cavity.  large amounts of clot were also removed from the pericardial well and chest.  systematic exploration of the mediastinum and pericardial well revealed bleeding from the right atrial appendix at the site of the previous cannulation.  this was repaired with two horizontal mattress pledgeted #5-0 prolene sutures.  an additional #0 silk tie was also placed around the base of the atrial appendage for further hemostasis.  no other sites of bleeding were identified.  the mediastinum was then irrigated with copious amounts of antibiotic saline solution.  two chest tubes were then placed including an angled chest tube into the pericardial well on the inferior border of the heart, as well as straight mediastinal chest tube.  the sternum was then reapproximated with stainless steel wires in the usual manner and the subcutaneous tissue was closed in multiple layers with running vicryl sutures.  the skin was then closed with a running subcuticular stitch.  the patient was then taken to the intensive care unit in a critical but stable condition.
+
+ICD-10 Suggestions:
+ - T8209XD : Other mechanical complication of heart valve prosthesis, subsequent encounter (score=0.916)
+ - T8202XD : Displacement of heart valve prosthesis, subsequent encounter (score=0.804)
+ - R009 :    Unspecified abnormalities of heart beat (score=0.661)
+ - T8209XA : Other mechanical complication of heart valve prosthesis, initial encounter (score=0.659)
+ - Q2388 :   Other congenital malformations of aortic and mitral valves (score=0.539)
+

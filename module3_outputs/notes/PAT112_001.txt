@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+A 64-year-old male patient with a history of mi, stent placement, and chest pain was referred for a stress test with imaging for further classification of coronary artery disease and ischemia. The patient had a previous stress test, which was abnormal and hence has been referred for a stress test with imaging for further classification of coronary artery disease and ischemia.
+
+=== SOAP SUMMARY ===
+A 64-year-old male patient with a history of mi, stent placement, and chest pain was referred for a stress test with imaging for further classification of coronary artery disease and ischemia. The patient had a previous stress test, which was abnormal and hence has been referred.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT112_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+myocardial perfusion imaging - patient with history of mi, stent placement, and chest pain.
+
+OBJECTIVE:
+Vitals: trestbps=150; chol=126; fbs=1; restecg=1; thalach=173; exang=0; oldpeak=0.2; slope=2; ca=1; thal=3
+Lab: myocardial perfusion imaging - 1
+
+ASSESSMENT:
+A 64-year-old male patient with a history of mi, stent placement, and chest pain was referred for a stress test with imaging for further classification of coronary artery disease and ischemia. The patient had a previous stress test, which was abnormal and hence has been referred.
+
+PLAN:
+clinical history: , this is a 64-year-old male patient, who had a previous stress test, which was abnormal and hence has been referred for a stress test with imaging for further classification of coronary artery disease and ischemia.,pertinent medications:,  include tylenol, robitussin, colace, fosamax, multivitamins, hydrochlorothiazide, protonix and flaxseed oil.,with the patient at rest 10.5 mci of cardiolite technetium-99 m sestamibi was injected and myocardial perfusion imaging was obtained.,procedure and interpretation: , the patient exercised for a total of 4 minutes and 41 seconds on the standard bruce protocol.  the peak workload was 7 mets.  the resting heart rate was 61 beats per minute and the peak heart rate was 173 beats per minute, which was 85% of the age-predicted maximum heart rate response.  the blood pressure response was normal with the resting blood pressure 126/86, and the peak blood pressure of 134/90.  ekg at rest showed normal sinus rhythm with a right-bundle branch block.  the peak stress ekg was abnormal with 2 mm of st segment depression in v3 to v6, which remained abnormal till about 6 to 8 minutes into recovery.  there were occasional pvcs, but no sustained arrhythmia.  the patient had an episode of supraventricular tachycardia at peak stress.  the ischemic threshold was at a heart rate of 118 beats per minute and at 4.6 mets.  at peak stress, the patient was injected with 30.3 mci of cardiolite technetium-99 m sestamibi and myocardial perfusion imaging was obtained, and was compared to resting images.,myocardial perfusion imaging:,1.  the overall quality of the scan was fair in view of increased abdominal uptake, increased bowel uptake seen.,2.  there was a large area of moderate to reduced tracer concentration seen in the inferior wall and the inferior apex.  this appeared to be partially reversible in the resting images.,3.  the left ventricle appeared normal in size.,4.  gated spect images revealed normal wall motion and normal left ventricular systolic function with normal wall thickening.  the calculated ejection fraction was 70% at rest.,conclusions:,1.  average exercise tolerance.,2.  adequate cardiac stress.,3.  abnormal ekg response to stress, consistent with ischemia.  no symptoms of chest pain at rest.,4.  myocardial perfusion imaging was abnormal with a large-sized, moderate intensity partially reversible inferior wall and inferior apical defect, consistent with inferior wall ischemia and inferior apical ischemia.,5.  the patient had run of svt at peak stress.,6.  gated spect images revealed normal wall motion and normal left ventricular systolic function.
+
+ICD-10 Suggestions:
+ - R931 :    Abnormal findings on diagnostic imaging of heart and coronary circulation (score=0.993)
+ - R9439 :   Abnormal result of other cardiovascular function study (score=0.991)
+ - R071 :    Chest pain on breathing (score=0.969)
+ - Z136 :    Encounter for screening for cardiovascular disorders (score=0.944)
+ - R9430 :   Abnormal result of cardiovascular function study, unspecified (score=0.912)
+

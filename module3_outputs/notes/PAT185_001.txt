@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+PAT185 is a patient with severe tracheobronchitis, mild venous engorgement with question varicosity associated pulmonary hypertension, right upper lobe submucosal hemorrhage without frank mass underneath it status post biopsy.
+
+=== SOAP SUMMARY ===
+Patient has severe tracheobronchitis, mild venous engorgement with question varicosity associated pulmonary hypertension. Patient has right upper lobe submucosal hemorrhage without frank mass underneath it status post biopsy. PAT185 is a patient with severe Tracheo-Pulmonary Hypertension.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT185_001
+Date: 2025-11-02
+
+SUBJECTIVE:
+flexible fiberoptic bronchoscopy with right lower lobe bronchoalveolar lavage and right upper lobe endobronchial biopsy. severe tracheobronchitis, mild venous engorgement with question varicosity associated pulmonary hypertension, right upper lobe submucosal hemorrhage without frank mass underneath it status post biopsy.
+
+OBJECTIVE:
+Vitals: trestbps=150; chol=243; fbs=0; restecg=0; thalach=128; exang=0; oldpeak=2.6; slope=1; ca=0; thal=3
+Lab: flexible fiberoptic bronchoscopy
+
+ASSESSMENT:
+Patient has severe tracheobronchitis, mild venous engorgement with question varicosity associated pulmonary hypertension. Patient has right upper lobe submucosal hemorrhage without frank mass underneath it status post biopsy. PAT185 is a patient with severe Tracheo-Pulmonary Hypertension.
+
+PLAN:
+procedures:,1.  right and left heart catheterization.,2.  coronary angiography.,3.  left ventriculography.,procedure in detail:,  after informed consent was obtained, the patient was taken to the cardiac catheterization laboratory.  patient was prepped and draped in sterile fashion.  via modified seldinger technique, the right femoral vein was punctured and a 6-french sheath was placed over a guide wire.  via modified seldinger technique, right femoral artery was punctured and a 6-french sheath was placed over a guide wire.  the diagnostic procedure was performed using the jl-4, jr-4, and a 6-french pigtail catheter along with a swan-ganz catheter.  the patient tolerated the procedure well and there were immediate complications were noted.  angio-seal was used at the end of the procedure to obtain hemostasis.,coronary arteries:,left main coronary artery:  the left main coronary artery is of moderate size vessel with bifurcation into the left descending coronary artery and circumflex coronary artery.  no significant stenotic lesions were identified in the left main coronary artery.,left anterior descending coronary artery:  the left descending artery is a moderate sized vessel, which gives rise to multiple diagonals and perforating branches.  no significant stenotic lesions were identified in the left anterior descending coronary artery system.,circumflex artery:  the circumflex artery is a moderate sized vessel.  the vessel is a stenotic lesion.  after the right coronary artery, the rca is a moderate size vessel with no focal stenotic lesions.,hemodynamic data: , capital wedge pressure was 22.  the aortic pressure was 52/24.  right ventricular pressure was 58/14.  ra pressure was 14.  the aortic pressure was 127/73.  left ventricular pressure was 127/15.  cardiac output of 9.2.,left ventriculogram: , the left ventriculogram was performed in the rao projection only.  in the rao projection, the left ventriculogram revealed dilated left ventricle with mild global hypokinesis and estimated ejection fraction of 45 to 50%.  severe mitral regurgitation was also noted.,impression:,1.  left ventricular dilatation with global hypokinesis and estimated ejection fraction of 45 to 50%.,2.  severe mitral regurgitation.,3.  no significant coronary artery disease identified in the left main coronary artery, left anterior descending coronary artery, circumflex coronary artery or the right coronary artery.,
+
+ICD-10 Suggestions:
+ - R049 :    Hemorrhage from respiratory passages, unspecified (score=0.945)
+ - J42 :     Unspecified chronic bronchitis (score=0.940)
+ - S25419D : Minor laceration of unspecified pulmonary blood vessels, subsequent encounter (score=0.889)
+ - Q263 :    Partial anomalous pulmonary venous connection (score=0.881)
+ - J0411 :   Acute tracheitis with obstruction (score=0.871)
+

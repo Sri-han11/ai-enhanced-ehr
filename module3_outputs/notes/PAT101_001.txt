@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 70-year-old female with a history of lung cancer. She was recently diagnosed with recurrent pneumonia and doe have a cancer on the cat scan, lung cancer with metastasis. The patient underwent a right ventricular pacemaker lead placement and lead revision. The patient was anesthetized with versed and fentanyl over the left subclavicular area with pacemaker pocket was anesthetized with local anesthetic with epinephrine. The patient received a venogram documenting patency of the subclavian vein. Skin incision with blunt and sharp dissection. electrocautery for hemostasis. The pocket was opened and the pacemaker was removed from the pocket and disconnected from the leads. The leads were sequentially checked. Through the pocket a puncture of the vein with a thin wall needle was made and a long sheath was used to help carry it along the tortuosity of the proximal subclavian and innominate superior vena cava. Ultimately, a ventricular lead was placed in apex of the right ventricle, secured to base pocket with 2-0 silk suture. pocket was irrigated with antibiotic solution. The pocket was packed with bacitracin-soaked gauze. This was removed during the case and then irrigated once again. The generator was attached to the leads, placed in the pocket, secured with 2-0 silk suture and the pocket was closed with a three layer of 4-0 monocryl.
+
+=== SOAP SUMMARY ===
+The patient is a 70-year-old female with a history of lung cancer. She was recently diagnosed with recurrent pneumonia and doe have a cancer on the cat scan, lung cancer with metastasis. The patient was anesthetized with versed and fentanyl over the left subclavicular area with pacemaker pocket.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT101_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+peripheral effusion on the cat scan. the patient is a 70-year-old caucasian female with prior history of lung cancer, status post upper lobectomy. she wa recently diagnosed with recurrent pneumonia and doe have a cancer on the cat scan, lung cancer with metastasis.
+
+OBJECTIVE:
+Vitals: trestbps=148; chol=244; fbs=0; restecg=0; thalach=178; exang=0; oldpeak=0.8; slope=2; ca=2; thal=2
+Lab: peripheral effusion - consult
+
+ASSESSMENT:
+The patient is a 70-year-old female with a history of lung cancer. She was recently diagnosed with recurrent pneumonia and doe have a cancer on the cat scan, lung cancer with metastasis. The patient was anesthetized with versed and fentanyl over the left subclavicular area with pacemaker pocket.
+
+PLAN:
+procedure: , right ventricular pacemaker lead placement and lead revision.,indications:,  sinus bradycardia, sick-sinus syndrome, poor threshold on the ventricular lead and chronic lead.,equipment: , a new lead is a medtronic model #12345, threshold sensing at 5.7, impedance of 1032, threshold of 0.3, atrial threshold is 0.3, 531, and sensing at 4.1.  the original chronic ventricular lead had a threshold of 3.5 and 6 on the can.,estimated blood loss: , 5 ml.,procedure description:  ,conscious sedation with versed and fentanyl over left subclavicular area with pacemaker pocket was anesthetized with local anesthetic with epinephrine.  the patient received a venogram documenting patency of the subclavian vein.  skin incision with blunt and sharp dissection.  electrocautery for hemostasis.  the pocket was opened and the pacemaker was removed from the pocket and disconnected from the leads.  the leads were sequentially checked.  through the pocket a puncture of the vein with a thin wall needle was made and a long sheath was used to help carry it along the tortuosity of the proximal subclavian and innominate superior vena cava.  ultimately, a ventricular lead was placed in apex of the right ventricle, secured to base pocket with 2-0 silk suture.  pocket was irrigated with antibiotic solution.  the pocket was packed with bacitracin-soaked gauze.  this was removed during the case and then irrigated once again.  the generator was attached to the leads, placed in the pocket, secured with 2-0 silk suture and the pocket was closed with a three layer of 4-0 monocryl.,conclusion:  , successful replacement of a right ventricular lead secondary to poor lead thresholds in a chronic lead and placement of the previous vitatron pulse generator model # 12345.
+
+ICD-10 Suggestions:
+ - Z85110 :  Personal history of malignant carcinoid tumor of bronchus and lung (score=0.999)
+ - Z8520 :   Personal history of malignant neoplasm of unspecified respiratory organ (score=0.997)
+ - C7802 :   Secondary malignant neoplasm of left lung (score=0.983)
+ - Z85118 :  Personal history of other malignant neoplasm of bronchus and lung (score=0.973)
+ - C3412 :   Malignant neoplasm of upper lobe, left bronchus or lung (score=0.968)
+

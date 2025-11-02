@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 61-year-old retailer who presents with acute shortness of breath, hypertension, found to be in acute pulmonary edema. No confirmed prior history of heart attack, myocardial infarction, heart failure. The blood pressure was up transiently last summer when this seemed to start and she was asked not to take claritin-d, which she was taking for what she presumed was allergies. She never had treated hypertension. She is obviously very hypertensive this evening. She has some mid scapular chest discomfort. She has not had chest pain during any of the other previous symptoms and spells. Cardiovascular risks:, does not smoke, lipids unknown. again, no blood pressure elevation, and she is not diabetic. Family history:, negative for coronary disease. dad died of lung cancer. Drug sensitivities:, none.current medications: none.surgical history:, cholecystectomy and mastectomy for breast cancer in 1992, no recurrence.
+
+=== SOAP SUMMARY ===
+The patient is a 61-year-old retailer who presents with acute shortness of breath, hypertension, found to be in acute pulmonary edema. No confirmed prior history of heart attack, myocardial infarction, heart failure. Blood pressure was up transiently last summer when this seemed to start and she was asked not to take claritin-d, which she was taking for what she presumed was allergies.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT073_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+sample of pulmonary function test
+
+OBJECTIVE:
+Vitals: trestbps=130; chol=204; fbs=0; restecg=0; thalach=202; exang=0; oldpeak=0.0; slope=2; ca=0; thal=2
+Lab: pulmonary function test - 4
+
+ASSESSMENT:
+The patient is a 61-year-old retailer who presents with acute shortness of breath, hypertension, found to be in acute pulmonary edema. No confirmed prior history of heart attack, myocardial infarction, heart failure. Blood pressure was up transiently last summer when this seemed to start and she was asked not to take claritin-d, which she was taking for what she presumed was allergies.
+
+PLAN:
+history:  ,this 61-year-old retailer who presents with acute shortness of breath, hypertension, found to be in acute pulmonary edema.  no confirmed prior history of heart attack, myocardial infarction, heart failure.  history dates back to about six months of intermittent shortness of breath, intermittent very slight edema with shortness of breath.  the blood pressure was up transiently last summer when this seemed to start and she was asked not to take claritin-d, which she was taking for what she presumed was allergies.  she never had treated hypertension.  she said the blood pressure came down.  she is obviously very hypertensive this evening.  she has some mid scapular chest discomfort.  she has not had chest pain, however, during any of the other previous symptoms and spells.,cardiac risks:,  does not smoke, lipids unknown.  again, no blood pressure elevation, and she is not diabetic.,family history:,  negative for coronary disease.  dad died of lung cancer.,drug sensitivities:,  penicillin.,current medications: , none.,surgical history:,  cholecystectomy and mastectomy for breast cancer in 1992, no recurrence.,systems review: , did not get headaches or blurred vision.  did not suffer from asthma, bronchitis, wheeze, cough but short of breath as described above.  no reflux, abdominal distress.  no other types of indigestion, gi bleed.  gu:  negative.  she is unaware of any kidney disease.  did not have arthritis or gout.  no back pain or surgical joint treatment.  did not have claudication, carotid disease, tia.  all other systems are negative.,physical findings,vital signs:  presenting blood pressure was 170/120 and her pulse at that time was 137.  temperature was normal at 97, and she was obviously in major respiratory distress and hypoxemic.  saturation of 86%.  currently, blood pressure 120/70, heart rate is down to 100.,eyes:  no icterus or arcus.,dental:  good repair.,neck:  neck veins, cannot see jvd, at this point, carotids, no bruits, carotid pulse brisk.,lungs:  fine and coarse rales, lower two thirds of chest.,heart:  diffuse cardiomegaly without a sustained lift, first and second heart sounds present, second is split.  there is loud third heart sound.  no murmur.,abdomen:  overweight, guess you would say obese, nontender, no liver enlargement, no bruits.,skeletal:  no acute joints.,extremities:  good pulses.  no edema.,neurologically:  no focal weakness.,mental status:  clear.,diagnostic data: , 12-lead ecg, left bundle-branch block.,laboratory data:,  all pending.,radiographic data: , chest x-ray, pulmonary edema, cardiomegaly.,impression,1.  acute pulmonary edema.,2.  physical findings of dilated left ventricle.,3.  left bundle-branch block.,4.  breast cancer in 1992.,plan:  ,admit.  aggressive heart failure management.  get echo.  start ace and coreg.  diuresis of course underway.
+
+ICD-10 Suggestions:
+ - J810 :    Acute pulmonary edema (score=0.997)
+ - R069 :    Unspecified abnormalities of breathing (score=0.991)
+ - I161 :    Hypertensive emergency (score=0.990)
+ - I110 :    Hypertensive heart disease with heart failure (score=0.990)
+ - I119 :    Hypertensive heart disease without heart failure (score=0.988)
+

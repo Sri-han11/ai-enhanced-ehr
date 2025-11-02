@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 12-day-old infant who underwent a modified stage i norwood procedure with a sano modification. The patient underwent a lexiscan myoview stress study. The patient exercised according to the lexiscan study, received a total of 0.4 mg of lexiscan iv injection. At peak hyperemic effect, 24.9 mci of myoview were injected for the stress imaging and earlier 8.2 mci were injected for the resting and the data were analyzed using cedars-sinai software. The patient did not walk because of prior history of inability to exercise long enough on treadmill. The patient exercised according to the lexiscan study, received a total of 0.4 mg of lexiscan iv injection. At peak hyperemic effect, 24.9 mci of myoview were injected for the stress imaging and earlier 8.2 mci were injected for the resting and the data were analyzed using cedars-sinai software. The patient did not walk because of prior history of inability to exercise long enough on treadmill. The patient exercised according to the lexiscan study, received a total of 0.4 mg of lexiscan iv injection. At peak hyperemic effect, 24.9 mci of myoview were injected for the stress imaging and earlier 8.2 mci were injected for the resting and the data were analyzed using cedars-sinai software. The patient exercised according to the lexiscan study, received a total of 0.4 mg of lexiscan iv injection. At peak hyperemic effect,
+
+=== SOAP SUMMARY ===
+The patient is a 12-day-old infant who underwent a modified stage i norwood procedure with a sano modification. The patient did not walk because of prior history of inability to exercise long enough on treadmill. At peak hyperemic effect, 24.9 mci of myoview were injected for the stress imaging.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT130_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+mediastinal exploration and delayed primary chest closure. the patient is a 12-day-old infant who ha undergone a modified stage i norwood procedure with a sano modification.
+
+OBJECTIVE:
+Vitals: trestbps=120; chol=269; fbs=0; restecg=0; thalach=121; exang=1; oldpeak=0.2; slope=2; ca=1; thal=2
+Lab: mediastinal exploration
+
+ASSESSMENT:
+The patient is a 12-day-old infant who underwent a modified stage i norwood procedure with a sano modification. The patient did not walk because of prior history of inability to exercise long enough on treadmill. At peak hyperemic effect, 24.9 mci of myoview were injected for the stress imaging.
+
+PLAN:
+lexiscan myoview stress study,reason for the exam: , chest discomfort.,interpretation: , the patient exercised according to the lexiscan study, received a total of 0.4 mg of lexiscan iv injection.  at peak hyperemic effect, 24.9 mci of myoview were injected for the stress imaging and earlier 8.2 mci were injected for the resting and the usual spect and gated spect protocol was followed and the data was analyzed using cedars-sinai software.  the patient did not walk because of prior history of inability to exercise long enough on treadmill.,the resting heart rate was 57 with the resting blood pressure 143/94.  maximum heart rate achieved was 90 with a maximum blood pressure unchanged.,ekg at rest showed sinus rhythm with no significant st-t wave changes of reversible ischemia or injury.  subtle nonspecific in iii and avf were seen.  maximum stress test ekg showed inverted t wave from v4 to v6.  normal response to lexiscan.,conclusion:  ,maximal lexiscan perfusion with subtle abnormalities non-conclusive.  please refer to the myoview interpretation.,myoview interpretation: , the left ventricle appeared to be normal in size on both stress and rest with no change between the stress and rest with left ventricular end-diastolic volume of 115 and end-systolic of 51.  ef estimated and calculated at 56%.,cardiac perfusion reviewed, showed no reversible defect indicative of myocardium risk and no fixed defect indicative of myocardial scarring.,impression:,1.  normal stress/rest cardiac perfusion with no indication of ischemia.,2.  normal lv function and low likelihood of significant epicardial coronary narrowing.,
+
+ICD-10 Suggestions:
+ - P940 :    Transient neonatal myasthenia gravis (score=0.574)
+ - M70969 :  Unspecified soft tissue disorder related to use, overuse and pressure, unspecified lower leg (score=0.306)
+ - M70961 :  Unspecified soft tissue disorder related to use, overuse and pressure, right lower leg (score=0.263)
+ - M70962 :  Unspecified soft tissue disorder related to use, overuse and pressure, left lower leg (score=0.263)
+ - M623 :    Immobility syndrome (paraplegic) (score=0.258)
+

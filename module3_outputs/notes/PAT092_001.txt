@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 65-year-old lady with a history of cirrhosis who has developed a recurrent large right pleural effusion. Chest catheter had been placed previously, and she had been draining up to 1.5 liters of serous fluid a day. Finally, this has decreased and a talc pleurodesis is being done to see her pleural effusion does not recur. The patient was assessed and found to be in good condition and a good candidate for conscious sedation. Vital signs were stable, so the patient was then given initially 0.5 mg of versed and 2 mg of morphine iv. After a couple of minutes, she was assessed and found to be awake but calm, so then the chest tube was clamped and then through the chest tube a solution of 120 ml of normal saline containing 5 g of talc and 40 mg of lidocaine were then put into her right chest taking care that no air would go in to create a pneumothorax. She was then laid on her left lateral decubitus position for 5 minutes and then turned into the right lateral decubitus position for 5 minutes and then the chest tube was unclamped. The patient was given additional 0.5 mg of versed and 0.5 mg of dilaudid iv achieving a state where the patient was comfortable but readily responsive. The patient tolerated the procedure well. She did complain of up to a 7/10 pain, but quickly this was brought under control. The chest tube was unclamped. The patient will be left to rest and she will get a chest x-ray in the morning.
+
+=== SOAP SUMMARY ===
+The patient is a 65-year-old lady with a history of cirrhosis who has developed a recurrent large right pleural effusion. Chest catheter had been placed previously, and she had been draining up to 1.5 liters of serous fluid a day. Finally, this has decreased and a talc pleurodesis is being done to see her pleuraleffusion does not recur.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT092_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+left hemothorax, rule out empyema. insertion of a 12-french pigtail catheter in the left pleural space.
+
+OBJECTIVE:
+Vitals: trestbps=132; chol=207; fbs=0; restecg=1; thalach=168; exang=1; oldpeak=0.0; slope=2; ca=0; thal=3
+Lab: pigtail catheter insertion
+
+ASSESSMENT:
+The patient is a 65-year-old lady with a history of cirrhosis who has developed a recurrent large right pleural effusion. Chest catheter had been placed previously, and she had been draining up to 1.5 liters of serous fluid a day. Finally, this has decreased and a talc pleurodesis is being done to see her pleuraleffusion does not recur.
+
+PLAN:
+preoperative diagnosis:,  large recurrent right pleural effusion.,postoperative diagnosis:,  large recurrent right pleural effusion.,procedure:,1.  conscious sedation.,2.  chest tube talc pleurodesis of the right chest.,indications: , the patient is a 65-year-old lady with a history of cirrhosis who has developed a recurrent large right pleural effusion.  chest catheter had been placed previously, and she had been draining up to 1.5 liters of serous fluid a day.  eventually, this has decreased and a talc pleurodesis is being done to see her pleural effusion does not recur.,specimens:,  none.,estimated blood loss: , zero.,narrative:,  after obtaining informed consent from the patient and her daughter, the patient was assessed and found to be in good condition and a good candidate for conscious sedation.  vital signs were taken.  these were stable, so the patient was then given initially 0.5 mg of versed and 2 mg of morphine iv.  after a couple of minutes, she was assessed and found to be awake but calm, so then the chest tube was clamped and then through the chest tube a solution of 120 ml of normal saline containing 5 g of talc and 40 mg of lidocaine were then put into her right chest taking care that no air would go in to create a pneumothorax.  she was then laid on her left lateral decubitus position for 5 minutes and then turned into the right lateral decubitus position for 5 minutes and then the chest tube was unclamped.  the patient was given additional 0.5 mg of versed and 0.5 mg of dilaudid iv achieving a state where the patient was comfortable but readily responsive.  the patient tolerated the procedure well.  she did complain of up to a 7/10 pain, but quickly this was brought under control.  the chest tube was unclamped.  now, the patient will be left to rest and she will get a chest x-ray in the morning.
+
+ICD-10 Suggestions:
+ - S2769XD : Other injury of pleura, subsequent encounter (score=0.884)
+ - R0781 :   Pleurodynia (score=0.684)
+ - Q340 :    Anomaly of pleura (score=0.520)
+ - J90 :     Pleural effusion, not elsewhere classified (score=0.343)
+ - D382 :    Neoplasm of uncertain behavior of pleura (score=0.331)
+

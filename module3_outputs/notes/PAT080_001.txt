@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+PAT080 is a patient with coughing and wheezing.
+
+=== SOAP SUMMARY ===
+PAT080 is a patient with coughing and wheezing. PAT080 is the name of a patient who has been admitted to hospital with respiratory problems. The patient has been diagnosed with asthma and is receiving treatment for the condition. For confidential support call the Samaritans in the UK on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT080_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+patient with complaint of significant coughing and wheezing.
+
+OBJECTIVE:
+Vitals: trestbps=105; chol=240; fbs=0; restecg=0; thalach=154; exang=1; oldpeak=0.6; slope=1; ca=0; thal=3
+Lab: pulmonary consultation - 2
+
+ASSESSMENT:
+PAT080 is a patient with coughing and wheezing. PAT080 is the name of a patient who has been admitted to hospital with respiratory problems. The patient has been diagnosed with asthma and is receiving treatment for the condition. For confidential support call the Samaritans in the UK on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details.
+
+PLAN:
+history:,  smoking history zero.,indication: , dyspnea with walking less than 100 yards.,procedure:,  fvc was 59%.  fev1 was 61%.  fev1/fvc ratio was 72%. the predicted was 70%.  the fef 25/75% was 45%, improved from 1.41 to 2.04 with bronchodilator, which represents a 45% improvement.  svc was 69%. inspiratory capacity was 71%.  expiratory residual volume was 61%.  the tgv was 94%.  residual volume was 113% of its predicted.  total lung capacity was 83%.  diffusion capacity was diminished.,impression:,1.  moderate restrictive lung disease.,2.  some reversible small airway obstruction with improvement with bronchodilator.,3.  diffusion capacity is diminished, which might indicate extrapulmonary restrictive lung disease.,4.  flow volume loop was consistent with the above and no upper airway obstruction.,
+
+ICD-10 Suggestions:
+ - Z710 :    Person encountering health services to consult on behalf of another person (score=0.998)
+ - R0689 :   Other abnormalities of breathing (score=0.990)
+ - R053 :    Chronic cough (score=0.988)
+ - R069 :    Unspecified abnormalities of breathing (score=0.984)
+ - J4532 :   Mild persistent asthma with status asthmaticus (score=0.878)
+

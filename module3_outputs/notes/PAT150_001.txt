@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT150 is a 42-year-old male with chest pain. He had a lexiscan nuclear myocardial perfusion scan on February 20, 2015. He had a resting heart rate of 96, blood pressure of 141/76, ekg, normal sinus rhythm, nonspecific st-t changes, left bundle branch block. Post lexiscan 0.4 mg injected intravenously by standard protocol. Peak heart rate was 105, blood pressure of 135/72. ekg remains the same. No symptoms are noted.
+
+=== SOAP SUMMARY ===
+Patient PAT150 had a lexiscan nuclear myocardial perfusion scan on February 20, 2015. He had a resting heart rate of 96, blood pressure of 141/76, ekg, normal sinus rhythm, nonspecific st-t changes, left bundle branch block.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT150_001
+Date: 2025-11-02
+
+SUBJECTIVE:
+comprehensive electrophysiology study with attempted arrhythmia induction and iv procainamide infusion for brugada syndrome.
+
+OBJECTIVE:
+Vitals: trestbps=130; chol=180; fbs=0; restecg=1; thalach=150; exang=0; oldpeak=0.0; slope=2; ca=0; thal=2
+Lab: iv procainamide infusion
+
+ASSESSMENT:
+Patient PAT150 had a lexiscan nuclear myocardial perfusion scan on February 20, 2015. He had a resting heart rate of 96, blood pressure of 141/76, ekg, normal sinus rhythm, nonspecific st-t changes, left bundle branch block.
+
+PLAN:
+exam:,  lexiscan nuclear myocardial perfusion scan.,indication:,  chest pain.,type of test:  ,lexiscan, unable to walk on a treadmill.,interpretation: , resting heart rate of 96, blood pressure of 141/76.  ekg, normal sinus rhythm, nonspecific st-t changes, left bundle branch block.  post lexiscan 0.4 mg injected intravenously by standard protocol.  peak heart rate was 105, blood pressure of 135/72.  ekg remains the same.  no symptoms are noted.,summary:,1.  nondiagnostic lexiscan.,2.  nuclear interpretation as below.,nuclear myocardial perfusion scan with standard protocol:,  resting and stress images were obtained with 10.4, 32.5 mci of tetrofosmin injected intravenously by standard protocol.  myocardial perfusion scan demonstrates homogeneous and uniform distribution of the tracer uptake.  there is no evidence of reversible or fixed defect.  gated spect revealed mild global hypokinesis, more pronounced in the septal wall possibly secondary to prior surgery.  ejection fraction calculated at 41%.  end-diastolic volume of 115, end-systolic volume of 68.,impression:,1.  normal nuclear myocardial perfusion scan.,2.  ejection fraction 41% by gated spect.
+
+ICD-10 Suggestions:
+ - R009 :    Unspecified abnormalities of heart beat (score=0.986)
+ - R931 :    Abnormal findings on diagnostic imaging of heart and coronary circulation (score=0.977)
+ - I519 :    Heart disease, unspecified (score=0.852)
+ - R011 :    Cardiac murmur, unspecified (score=0.837)
+ - I499 :    Cardiac arrhythmia, unspecified (score=0.748)
+

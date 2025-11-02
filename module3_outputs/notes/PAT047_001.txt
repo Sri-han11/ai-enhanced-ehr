@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT047 is a 44-year-old male with a sex of 1. The patient is in the cardiovascular / pulmonary department and has a history of ischemic cardiomyopathy, spect, cardiomyopathy, electrocardiogram, myocardial infarction, stress test adenosine myoview, adenosine myoview stress, myoview stress test, ptca and stenting, myoview stress, transmural scar, adenosine infusion, septal motion, adenosine myoview, myocardial perfusion, hypokinesis, inferoseptal, ischemic, myocardial, myoview, perfusion, scan, insertion of right subclavian central venous catheter. Need for intravenous access, status post fall, and status post incision and drainage of left lower extremity.
+
+=== SOAP SUMMARY ===
+Patient PAT047 is a 44-year-old male with a sex of 1. He has a history of ischemic cardiomyopathy, spect and electrocardiogram. Need for intravenous access, status post fall, and status post incision and drainage of left lower extremity.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT047_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+insertion of right subclavian central venous catheter. need for intravenous access, status post fall, and status post incision and drainage of left lower extremity.
+
+OBJECTIVE:
+Vitals: trestbps=140; chol=235; fbs=0; restecg=0; thalach=180; exang=0; oldpeak=0.0; slope=2; ca=0; thal=2
+Lab: subclavian central venous catheter insertion
+
+ASSESSMENT:
+Patient PAT047 is a 44-year-old male with a sex of 1. He has a history of ischemic cardiomyopathy, spect and electrocardiogram. Need for intravenous access, status post fall, and status post incision and drainage of left lower extremity.
+
+PLAN:
+indications:,
+
+ICD-10 Suggestions:
+ - I255 :    Ischemic cardiomyopathy (score=0.989)
+ - I259 :    Chronic ischemic heart disease, unspecified (score=0.843)
+ - S92909K : Unspecified fracture of unspecified foot, subsequent encounter for fracture with nonunion (score=0.660)
+ - M84476K : Pathological fracture, unspecified foot, subsequent encounter for fracture with nonunion (score=0.652)
+ - S92819K : Other fracture of unspecified foot, subsequent encounter for fracture with nonunion (score=0.398)
+

@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+PAT113 is a 64-year-old male patient with shortness of breath, fatigue and weakness, hypertension and hyperlipidemia. The patient had a previous abnormal stress test. The patient underwent a stress test with imaging for further classification of cad and ischemia.
+
+=== SOAP SUMMARY ===
+PAT113 is a 64-year-old male patient with shortness of breath, fatigue and weakness, hypertension and hyperlipidemia. The patient had a previous abnormal stress test. Patient underwent a stress test with imaging for further classification of cad and ischemia. Patient was diagnosed with cad and was treated with intravenous fluids.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT113_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+myocardial perfusion imaging - patient had previous abnormal stress test. stress test with imaging for further classification of cad and ischemia.
+
+OBJECTIVE:
+Vitals: trestbps=140; chol=313; fbs=0; restecg=1; thalach=133; exang=0; oldpeak=0.2; slope=2; ca=0; thal=3
+Lab: myocardial perfusion imaging - 2
+
+ASSESSMENT:
+PAT113 is a 64-year-old male patient with shortness of breath, fatigue and weakness, hypertension and hyperlipidemia. The patient had a previous abnormal stress test. Patient underwent a stress test with imaging for further classification of cad and ischemia. Patient was diagnosed with cad and was treated with intravenous fluids.
+
+PLAN:
+diagnosis:  ,shortness of breath.  fatigue and weakness.  hypertension.  hyperlipidemia.,indication: , to evaluate for coronary artery disease.,
+
+ICD-10 Suggestions:
+ - R9439 :   Abnormal result of other cardiovascular function study (score=0.477)
+ - R069 :    Unspecified abnormalities of breathing (score=0.446)
+ - I200 :    Unstable angina (score=0.247)
+ - I69992 :  Facial weakness following unspecified cerebrovascular disease (score=0.090)
+ - E8359 :   Other disorders of calcium metabolism (score=0.057)
+

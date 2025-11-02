@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+PAT134 is a 41-year-old male with a diagnosis of high-risk acute lymphoblastic leukemia. He has extensive deep vein thrombosis, and pharmacologic thrombolysis following placement of a vena caval filter. He has a subpleural firm ill-defined mass, a 1.3 x 1.1 x 0.8 cm subpleural firm ill-defined mass, 2.2 cm from the bronchial margin and 1.5 cm from the previously described staple line. There is a 12.0 cm staple line on the lateral surface, inked blue. There is a 1.3 x 1.1 x 0.8 cm subpleural firm ill-defined mass, 2.2 cm from the bronchial margin and 1.5 cm from the previously described staple line. There is a 12.0 cm staple line on the lateral surface, inked blue. There is a 1.3 x 1.1 x 0.8 cm subpleural firm ill-defined mass, 2.2 cm from the bronchial margin and 1.5 cm from the previously described staple line. There is a 12.0 cm staple line on the lateral surface, inked blue. There is a 1.3 x 1.1 x 0.8 cm subpleural firm ill-defined mass, 2.2 cm from the bronchial margin and 1.5 cm from the previously described staple line. There is a 12.0 cm staple line on the lateral surface, inked blue. There is a 1.3 x 1.1 x 0.8 cm subpleural firm ill-defined mass, 2.2 cm from the bronchial margin and 1.5 cm from the previously described staple line. The overlying pleura is puckered
+
+=== SOAP SUMMARY ===
+PAT134 is a 41-year-old male with a diagnosis of high-risk acute lymphoblastic leukemia. He has extensive deep vein thrombosis, and pharmacologic thrombolysis following placement of a vena caval filter. There is a 12.0 cm staple line on the lateral surface, inked blue.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT134_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+newly diagnosed high-risk acute lymphoblastic leukemia; extensive deep vein thrombosis, and pharmacologic thrombolysis following placement of a vena caval filter.
+
+OBJECTIVE:
+Vitals: trestbps=110; chol=235; fbs=0; restecg=1; thalach=153; exang=0; oldpeak=0.0; slope=2; ca=0; thal=2
+Lab: lymphoblastic leukemia - consult
+
+ASSESSMENT:
+PAT134 is a 41-year-old male with a diagnosis of high-risk acute lymphoblastic leukemia. He has extensive deep vein thrombosis, and pharmacologic thrombolysis following placement of a vena caval filter. There is a 12.0 cm staple line on the lateral surface, inked blue.
+
+PLAN:
+gross description:,a.  received fresh labeled with patient's name, designated 'right upper lobe wedge', is an,8.0 x 3.5 x 3.0 cm wedge of lung which has an 11.5 cm staple line.  there is a 0.8 x,0.7 x 0.5 cm sessile tumor with surrounding pleural puckering.,b.  received fresh, labeled with patient's name, designated "lymph node', is a 1.7 cm possible lymph node with anthracotic pigment.,c.  received fresh labeled with patient's name, designated 'right upper lobe', is a 16.0 x,14.5 x 6.0 cm lobe of lung.  the lung is inflated with formalin.  there is a 12.0 cm staple line on the lateral surface, inked blue.  there is a 1.3 x 1.1 x 0.8 cm subpleural firm ill-defined mass, 2.2 cm from the bronchial margin and 1.5 cm from the previously described staple line.  the overlying pleura is puckered.,d.  received fresh, labeled with patient's name, designated '4 lymph nodes', is a 2.0 x 2.0 x 2.0 cm aggregate of lymphoid material with anthracotic pigment and adipose tissue.,e.  received fresh, labeled with patient's name, designated 'subcarinal lymph node', is a,2.0 x 1.7 x 0.8 cm aggregate of lymphoid material with anthracotic pigment .,final diagnosis:,a.  right upper lobe wedge lung biopsy:  poorly differentiated non-small cell carcinoma.  tumor size:  0.8 cm.  arterial (large vessel) invasion:  not seen.  small vessel (lymphatic) invasion:  not seen.  pleural invasion:  not identified.  margins of excision:  negative for malignancy.,b.  biopsy, 10r lymph node:  anthracotically pigmented lymphoid tissue, negative for malignancy.,c.  right upper lobe, lung:  moderately differentiated non-small cell carcinoma,(adenocarcinoma).  tumor size:  1.3 cm.  arterial (large vessel) invasion:  present.  small vessel (lymphatic) invasion:  not seen.  pleural invasion:  not identified.  margins of excision:  negative for malignancy.,d.  biopsy, 4r lymph nodes:  lymphoid tissue, negative for malignancy.,e.  biopsy, subcarinal lymph node:  lymphoid tissue, negative for malignancy.,comments:,  pathologic examination reveals two separate tumors in the right upper lobe.  they appear histologically distinct, suggesting they are separate primary tumors (pt1).  the right upper lobe wedge biopsy (part a) shows a poorly differentiated non-small cell carcinoma with a solid growth pattern and without definite glandular differentiation by light microscopy.  the right upper lobe carcinoma identified in the resection (part c) is a moderately differentiated adenocarcinoma with obvious gland formation.
+
+ICD-10 Suggestions:
+ - Z856 :    Personal history of leukemia (score=0.996)
+ - I82221 :  Chronic embolism and thrombosis of inferior vena cava (score=0.878)
+ - I82220 :  Acute embolism and thrombosis of inferior vena cava (score=0.844)
+ - I82211 :  Chronic embolism and thrombosis of superior vena cava (score=0.789)
+ - I82210 :  Acute embolism and thrombosis of superior vena cava (score=0.750)
+

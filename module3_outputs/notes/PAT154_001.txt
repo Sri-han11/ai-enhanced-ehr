@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+PAT154 is a patient with hypertension, syncope, and spinal stenosis - for recheck. The predominant rhythm is sinus. Heart rate varied between 56-128 beats per minute, average heart rate of 75 beats per minute. Minimum heart rate of 50 beats per minute.,640 ventricular ectopic isolated beats noted. rare isolated apcs and supraventricular couplets.,one supraventricular triplet reported.,triplet maximum rate of 178 beats per minute noted.
+
+=== SOAP SUMMARY ===
+PAT154 is a patient with hypertension, syncope, and spinal stenosis - for recheck. The predominant rhythm is sinus. Heart rate varied between 56-128 beats per minute, average heart rate of 75 beats a minute. Minimum heart rate was 50 beats perminute.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT154_001
+Date: 2025-11-02
+
+SUBJECTIVE:
+patient with hypertension, syncope, and spinal stenosis - for recheck.
+
+OBJECTIVE:
+Vitals: trestbps=146; chol=278; fbs=0; restecg=0; thalach=152; exang=0; oldpeak=0.0; slope=1; ca=1; thal=2
+Lab: hypertension - progress note
+
+ASSESSMENT:
+PAT154 is a patient with hypertension, syncope, and spinal stenosis - for recheck. The predominant rhythm is sinus. Heart rate varied between 56-128 beats per minute, average heart rate of 75 beats a minute. Minimum heart rate was 50 beats perminute.
+
+PLAN:
+indications: , predominant rhythm is sinus.  heart rate varied between 56-128 beats per minute, average heart rate of 75 beats per minute.  minimum heart rate of 50 beats per minute.,640 ventricular ectopic isolated beats noted.  rare isolated apcs and supraventricular couplets.,one supraventricular triplet reported.,triplet maximum rate of 178 beats per minute noted.
+
+ICD-10 Suggestions:
+ - R008 :    Other abnormalities of heart beat (score=0.700)
+ - I4711 :   Inappropriate sinus tachycardia, so stated (score=0.169)
+ - I4719 :   Other supraventricular tachycardia (score=0.089)
+ - I4729 :   Other ventricular tachycardia (score=0.062)
+ - R009 :    Unspecified abnormalities of heart beat (score=0.044)
+

@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT048 is 47 years of age, sex 1 and has chest pain. The patient underwent a dobutrex stress test for abnormal ekg.
+
+=== SOAP SUMMARY ===
+Patient PAT048 is 47 years of age, sex 1 and has chest pain. The patient underwent a dobutrex stress test for abnormal ekg. Patient PAT048 was found to have a low ekg and a low body mass index (BMI) The patient was also found to be suffering from chest pain and was admitted to hospital.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT048_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+dobutrex stress test for abnormal ekg
+
+OBJECTIVE:
+Vitals: trestbps=138; chol=257; fbs=0; restecg=0; thalach=156; exang=0; oldpeak=0.0; slope=2; ca=0; thal=2
+Lab: stress test dobutrex
+
+ASSESSMENT:
+Patient PAT048 is 47 years of age, sex 1 and has chest pain. The patient underwent a dobutrex stress test for abnormal ekg. Patient PAT048 was found to have a low ekg and a low body mass index (BMI) The patient was also found to be suffering from chest pain and was admitted to hospital.
+
+PLAN:
+indications:  ,chest pain.,stress technique:,
+
+ICD-10 Suggestions:
+ - R071 :    Chest pain on breathing (score=0.965)
+ - R079 :    Chest pain, unspecified (score=0.851)
+ - R931 :    Abnormal findings on diagnostic imaging of heart and coronary circulation (score=0.842)
+ - Z136 :    Encounter for screening for cardiovascular disorders (score=0.752)
+ - R9439 :   Abnormal result of other cardiovascular function study (score=0.695)
+

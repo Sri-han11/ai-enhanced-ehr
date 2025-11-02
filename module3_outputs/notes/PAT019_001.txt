@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT019 is a 43-year-old male with atrial fibrillation with rapid ventricular rate and shortness of breath. The patient was sedated with 4 mg of versed and 50 mcg of fentanyl and transesophageal views of the heart were obtained. The left atrium is of normal size. Overall LV systolic function is preserved. Estimated ejection fraction is 60% to 65%. No wall motion abnormalities are noted. The left atrium is dilated. The right atrium is of normal size. The right ventricle is of normal size. The mitral valve shows evidence of mild mac. The aortic valve is sclerotic without significant restriction of leaflet motion. The tricuspid valve appears normal. The pulmonic valve appears normal. The pacer wires are noted in the right atrium and in the right ventricle. Doppler interrogation of moderate mitral regurgitation is present. The patient has mild-to-moderate ai.
+
+=== SOAP SUMMARY ===
+Patient PAT019 is a 43-year-old male with atrial fibrillation with rapid ventricular rate and shortness of breath. Patient was sedated with 4 mg of versed and 50 mcg of fentanyl and transesophageal views of the heart were obtained. Overall LV systolic function is preserved. Estimated ejection fraction is 60% to 65%.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT019_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+transesophageal echocardiogram and direct current cardioversion.
+
+OBJECTIVE:
+Vitals: trestbps=150; chol=247; fbs=0; restecg=1; thalach=171; exang=0; oldpeak=1.5; slope=2; ca=0; thal=2
+Lab: transesophageal echocardiogram
+
+ASSESSMENT:
+Patient PAT019 is a 43-year-old male with atrial fibrillation with rapid ventricular rate and shortness of breath. Patient was sedated with 4 mg of versed and 50 mcg of fentanyl and transesophageal views of the heart were obtained. Overall LV systolic function is preserved. Estimated ejection fraction is 60% to 65%.
+
+PLAN:
+exam: , transesophageal echocardiogram and direct current cardioversion.,reason for exam:  ,1.  atrial fibrillation with rapid ventricular rate.,2.  shortness of breath.,procedure: , after informed consent was obtained, the patient was then sedated using a total of 4 mg of versed and 50 mcg of fentanyl.  following this, transesophageal probe was placed in the esophagus.  transesophageal views of the heart were then obtained.,findings:,1.  left ventricle is of normal size.  overall lv systolic function is preserved.  estimated ejection fraction is 60% to 65%.  no wall motion abnormalities are noted.,2.  left atrium is dilated.,3.  left atrial appendage is free of clots.,4.  right atrium is of normal size.,5.  right ventricle is of normal size.,6.  mitral valve shows evidence of mild mac.,7.  aortic valve is sclerotic without significant restriction of leaflet motion.,8.  tricuspid valve appears normal.,9.  pulmonic valve appears normal.,10.  pacer wires are noted in the right atrium and in the right ventricle.,11.  doppler interrogation of moderate mitral regurgitation is present.,12.  mild-to-moderate ai is seen.,13.  no significant tr is noted.,14.  no significant ti is noted.,15.  no pericardial disease seen.,impression:,1.  preserved left ventricular systolic function.,2.  dilated left atrium.,3.  moderate mitral regurgitation.,4.  aortic valve sclerosis with mild-to-moderate aortic insufficiency.,5.  left atrial appendage is free of clots.,following these, direct current cardioversion was performed.  three biphasic shock waves of 150 and two of 200 joules were then applied to the patient's chest in anteroposterior direction without success in conversion to sinus rhythm.  the patient remained in atrial fibrillation.,plan: , plan will be to continue medical therapy.  we will consider using beta-blocker, calcium channel blockers for better ventricular rate control.
+
+ICD-10 Suggestions:
+ - I480 :    Paroxysmal atrial fibrillation (score=0.947)
+ - I4811 :   Longstanding persistent atrial fibrillation (score=0.907)
+ - I4901 :   Ventricular fibrillation (score=0.389)
+ - R009 :    Unspecified abnormalities of heart beat (score=0.364)
+ - R008 :    Other abnormalities of heart beat (score=0.313)
+

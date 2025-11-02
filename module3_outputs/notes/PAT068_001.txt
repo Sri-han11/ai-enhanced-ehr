@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+This is a follow-up visit on a 16-year-old male who is currently receiving doxycycline 150 mg by mouth twice daily as well as hydroxychloroquine 200 mg by mouth three times a day for q-fever endocarditis. He is also taking digoxin, aspirin, warfarin, and furosemide. His mother reports that he does have problems with 2-3 loose stools per day since september, but tolerates this relatively well. This has not increased in frequency recently. He recently underwent surgery at children's hospital and had on 10/15/2007, replacement of pulmonary homograft valve, resection of a pulmonary artery pseudoaneurysm, and insertion of gore-tex membrane pericardial substitute. He has been doing well at home since that time.
+
+=== SOAP SUMMARY ===
+A 16-year-old male is receiving doxycycline twice daily and hydroxychloroquine three times a day for q-fever endocarditis. He is also taking digoxin, aspirin, warfarin, and furosemide. His mother reports that he does have problems with 2-3 loose stools per day since september, but tolerates this relatively well.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT068_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+pulmonary function test. mild restrictive airflow limitation. clinical correlation is recommended.
+
+OBJECTIVE:
+Vitals: trestbps=130; chol=234; fbs=0; restecg=0; thalach=175; exang=0; oldpeak=0.6; slope=1; ca=0; thal=2
+Lab: pulmonary function test - 5
+
+ASSESSMENT:
+A 16-year-old male is receiving doxycycline twice daily and hydroxychloroquine three times a day for q-fever endocarditis. He is also taking digoxin, aspirin, warfarin, and furosemide. His mother reports that he does have problems with 2-3 loose stools per day since september, but tolerates this relatively well.
+
+PLAN:
+history of present illness: , this is a follow-up visit on this 16-year-old male who is currently receiving doxycycline 150 mg by mouth twice daily as well as hydroxychloroquine 200 mg by mouth three times a day for q-fever endocarditis.  he is also taking digoxin, aspirin, warfarin, and furosemide.  mother reports that he does have problems with 2-3 loose stools per day since september, but tolerates this relatively well.  this has not increased in frequency recently.,mark recently underwent surgery at children's hospital and had on 10/15/2007, replacement of pulmonary homograft valve, resection of a pulmonary artery pseudoaneurysm, and insertion of gore-tex membrane pericardial substitute.  he tolerated this procedure well.  he has been doing well at home since that time.,physical examination:,vital signs:  temperature is 98.5, pulse 84, respirations 19, blood pressure 101/57, weight 77.7 kg, and height 159.9 cm.,general appearance:  well-developed, well-nourished, slightly obese, slightly dysmorphic male in no obvious distress.,heent:  remarkable for the badly degenerated left lower molar.  funduscopic exam is unremarkable.,neck:  supple without adenopathy.,chest:  clear including the sternal wound.,cardiovascular:  a 3/6 systolic murmur heard best over the upper left sternal border.,abdomen:  soft.  he does have an enlarged spleen, however, given his obesity, i cannot accurately measure its size.,gu:  deferred.,extremities:  examination of extremities reveals no embolic phenomenon.,skin:  free of lesions.,neurologic:  grossly within normal limits.,laboratory data: , doxycycline level obtained on 10/05/2007 as an outpatient was less than 0.5.  hydroxychloroquine level obtained at that time was undetectable.  of note is that doxycycline level obtained while in the hospital on 10/21/2007 was 6.5 mcg/ml.  q-fever serology obtained on 10/05/2007 was positive for phase i antibodies in 1/2/6 and phase ii antibodies at 1/128, which is an improvement over previous elevated titers.  studies on the pulmonary valve tissue removed at surgery are pending.,impression: , q-fever endocarditis.,plan:  ,1.  continue doxycycline and hydroxychloroquine.  i carefully questioned mother about compliance and concomitant use of dairy products while taking these medications.  she assures me that he is compliant with his medications.  we will however repeat his hydroxychloroquine and doxycycline levels.,2.  repeat q-fever serology.,3.  comprehensive metabolic panel and cbc.,4.  return to clinic in 4 weeks.,5.  clotting times are being followed by dr. x.
+
+ICD-10 Suggestions:
+ - A78 :     Q fever (score=0.977)
+ - T3695XD : Adverse effect of unspecified systemic antibiotic, subsequent encounter (score=0.885)
+ - T36AX5D : Adverse effect of fluoroquinolone antibiotics, subsequent encounter (score=0.848)
+ - T462X5D : Adverse effect of other antidysrhythmic drugs, subsequent encounter (score=0.789)
+ - T368X5D : Adverse effect of other systemic antibiotics, subsequent encounter (score=0.737)
+

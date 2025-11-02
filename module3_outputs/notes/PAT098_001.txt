@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is an 84-year-old female with shortness of breath, fatigue, and tiredness. Low-grade fever was noted last few weeks. The patient also had chest pain described a dull aching type in precordial region. no relation to exertion or activity. no aggravating or relieving factors.
+
+=== SOAP SUMMARY ===
+The patient is an 84-year-old female with shortness of breath, fatigue, and tiredness. Low-grade fever was noted last few weeks. The patient also had chest pain described a dull aching type in precordial region. no relation to exertion or activity. no aggravating or relieving factors.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT098_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+the patient is an 84-year-old female presented to emergency room with shortness of breath, fatigue, and tiredness. low-grade fever wa noted last few weeks. the patient also ha chest pain described a dull aching type in precordial region. no relation to exertion or activity. no aggravating or relieving factors.
+
+OBJECTIVE:
+Vitals: trestbps=108; chol=233; fbs=1; restecg=1; thalach=147; exang=0; oldpeak=0.1; slope=2; ca=3; thal=3
+Lab: pericardial effusion
+
+ASSESSMENT:
+The patient is an 84-year-old female with shortness of breath, fatigue, and tiredness. Low-grade fever was noted last few weeks. The patient also had chest pain described a dull aching type in precordial region. no relation to exertion or activity. no aggravating or relieving factors.
+
+PLAN:
+title of operation: , ligation (clip interruption) of patent ductus arteriosus.,indication for surgery: , this premature baby with operative weight of 600 grams and evidence of persistent pulmonary over circulation and failure to thrive has been diagnosed with a large patent ductus arteriosus originating in the left-sided aortic arch.  she has now been put forward for operative intervention.,preop diagnosis:  ,1.  patent ductus arteriosus.,2.  severe prematurity.,3.  operative weight less than 4 kg (600 grams).,complications: , none.,findings: , large patent ductus arteriosus with evidence of pulmonary over circulation.  after completion of the procedure, left recurrent laryngeal nerve visualized and preserved.  substantial rise in diastolic blood pressure.,details of the procedure: , after obtaining information consent, the patient was positioned in the neonatal intensive care unit, cribbed in the right lateral decubitus, and general endotracheal anesthesia was induced.  the left chest was then prepped and draped in the usual sterile fashion and a posterolateral thoracotomy incision was performed.  dissection was carried through the deeper planes until the second intercostal space was entered freely with no damage to the underlying lung parenchyma.  the lung was quite edematous and was retracted anteriorly exposing the area of the isthmus.  the pleura overlying the ductus arteriosus was inside and the duct dissected in a nearly circumferential fashion.  it was then test occluded and then interrupted with a medium titanium clip.  there was preserved pulsatile flow in the descending aorta.  the left recurrent laryngeal nerve was identified and preserved.  with excellent hemostasis, the intercostal space was closed with 4-0 vicryl sutures and the muscular planes were reapproximated with 5-0 caprosyn running suture in two layers.  the skin was closed with a running 6-0 caprosyn suture.  a sterile dressing was placed.  sponge and needle counts were correct times 2 at the end of the procedure.  the patient was returned to the supine position in which palpable bilateral femoral pulses were noted.,i was the surgical attending present in the neonatal intensive care unit and in-charge of the surgical procedure throughout the entire length of the case.
+
+ICD-10 Suggestions:
+ - R079 :    Chest pain, unspecified (score=0.994)
+ - R071 :    Chest pain on breathing (score=0.991)
+ - R0602 :   Shortness of breath (score=0.990)
+ - R072 :    Precordial pain (score=0.975)
+ - R0989 :   Other specified symptoms and signs involving the circulatory and respiratory systems (score=0.967)
+

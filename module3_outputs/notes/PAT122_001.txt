@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 59-year-old man with a right pleural effusion and suspected malignant mesothelioma. He was transferred from an outside hospital after a pleural effusion had been drained and biopsies taken from the right chest that were thought to be consistent with mesothelioma. The risks, benefits, and alternatives to right vats pleurodesis and pleural biopsy were discussed with the patient and his family and they wished to proceed. The patient was brought to the operating room and placed in supine position. a double-lumen endotracheal tube was placed. scds were also placed and he was given preoperative kefzol. the patient was then brought into the right side up, left decubitus position, and the area was prepped and draped in the usual fashion. a needle was inserted in the axillary line to determine position of the effusion. at this time, a 10-mm port was placed using the knife and bovie cautery. the effusion was drained by placing a sucker into this port site. upon feeling the surface of the pleura, there were multiple firm nodules. an additional anterior port was then placed in similar fashion. the effusion was then drained with a sucker. multiple pleural biopsies were taken with the biopsy device in all areas of the pleura. of note, feeling the diaphragmatic surface, it appeared that it was quite nodular, but these nodules felt as though they were on the other side of the diaphragm and not on the pleural surface of the diaphragm
+
+=== SOAP SUMMARY ===
+The patient is a 59-year-old man with a right pleural effusion and suspected malignant mesothelioma. The risks, benefits, and alternatives to right vats pleurodesis and pleural biopsy were discussed with the patient and his family and they wished to proceed. The patient was brought to the operating room and placed in supine position.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT122_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+suspension microlaryngoscopy, rigid bronchoscopy, dilation of tracheal stenosis.
+
+OBJECTIVE:
+Vitals: trestbps=138; chol=271; fbs=0; restecg=0; thalach=182; exang=0; oldpeak=0.0; slope=2; ca=0; thal=2
+Lab: microlaryngoscopy
+
+ASSESSMENT:
+The patient is a 59-year-old man with a right pleural effusion and suspected malignant mesothelioma. The risks, benefits, and alternatives to right vats pleurodesis and pleural biopsy were discussed with the patient and his family and they wished to proceed. The patient was brought to the operating room and placed in supine position.
+
+PLAN:
+preoperative diagnosis: , right pleural effusion and suspected malignant mesothelioma.,postoperative diagnosis:,  right pleural effusion, suspected malignant mesothelioma.,procedure: , right vats pleurodesis and pleural biopsy.,anesthesia:,  general double-lumen endotracheal.,description of findings: , right pleural effusion, firm nodules, diffuse scattered throughout the right pleura and diaphragmatic surface.,specimen: , pleural biopsies for pathology and microbiology.,estimated blood loss: , minimal.,fluids: , crystalloid 1.2 l and 1.9 l of pleural effusion drained.,indications: , briefly, this is a 66-year-old gentleman who has been transferred from an outside hospital after a pleural effusion had been drained and biopsies taken from the right chest that were thought to be consistent with mesothelioma.  upon transfer, he had a right pleural effusion demonstrated on x-ray as well as some shortness of breath and dyspnea on exertion.  the risks, benefits, and alternatives to right vats pleurodesis and pleural biopsy were discussed with the patient and his family and they wished to proceed.,procedure in detail:  ,after informed consent was obtained, the patient was brought to the operating room and placed in supine position.  a double-lumen endotracheal tube was placed.  scds were also placed and he was given preoperative kefzol.  the patient was then brought into the right side up, left decubitus position, and the area was prepped and draped in the usual fashion.  a needle was inserted in the axillary line to determine position of the effusion.  at this time, a 10-mm port was placed using the knife and bovie cautery.  the effusion was drained by placing a sucker into this port site.  upon feeling the surface of the pleura, there were multiple firm nodules.  an additional anterior port was then placed in similar fashion.  the effusion was then drained with a sucker.  multiple pleural biopsies were taken with the biopsy device in all areas of the pleura.  of note, feeling the diaphragmatic surface, it appeared that it was quite nodular, but these nodules felt as though they were on the other side of the diaphragm and not on the pleural surface of the diaphragm concerning for a possibly metastatic disease.  this will be worked up with further imaging study later in his hospitalization.  after the effusion had been drained, 2 cans of talc pleurodesis aerosol were used to cover the lung and pleural surface with talc.  the lungs were then inflated and noted to inflate well.  a 32 curved chest tube chest tube was placed and secured with nylon.  the other port site was closed at the level of the fascia with 2-0 vicryl and then 4-0 monocryl for the skin.  the patient was then brought in the supine position and extubated and brought to recovery room in stable condition.,dr. x was present for the entire procedure which was right vats pleurodesis and pleural biopsies.,the counts were correct x2 at the end of the case.
+
+ICD-10 Suggestions:
+ - C3491 :   Malignant neoplasm of unspecified part of right bronchus or lung (score=0.984)
+ - J910 :    Malignant pleural effusion (score=0.984)
+ - C384 :    Malignant neoplasm of pleura (score=0.980)
+ - C450 :    Mesothelioma of pleura (score=0.965)
+ - C7801 :   Secondary malignant neoplasm of right lung (score=0.940)
+

@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 68-year-old man who has a history of ischemic cardiac disease. He has a history of facial tic. He has a history of hypercholesterolemia treated with diet and medication. He has a history of cancer of the lung and ischemic cardiac disease. His mother died in her 80s from congestive heart failure. He has two brothers and six sisters living who remain in good health. He had tonsillectomy at the age of 8. He was hospitalized in 1996 with myocardial infarction and subsequently underwent cardiac catheterization and coronary artery bypass grafting procedure. He did have lima to the lad and had three saphenous vein grafting performed otherwise. His medications are kerlone 10 mg 1/2 pill daily, gemfibrozil 600 mg twice daily, crestor 80 mg 1/2 pill daily, aspirin 325 mg daily, vitamin e 400 units daily, crestor 80 mg 1/2 pill daily, aspirin 325 mg daily, vitamin e 400 units daily, and citrucel one daily.
+
+=== SOAP SUMMARY ===
+The patient is a 68-year-old man who has a history of ischemic cardiac disease. He had tonsillectomy at the age of 8. His mother died in her 80s from congestive heart failure. He has two brothers and six sisters living who remain in good health.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT147_001
+Date: 2025-11-02
+
+SUBJECTIVE:
+laparoscopic lysis of adhesion and laparoscopic left adrenalectomy. left adrenal mass, 5.5 cm and intraabdominal adhesions.
+
+OBJECTIVE:
+Vitals: trestbps=118; chol=242; fbs=0; restecg=1; thalach=149; exang=0; oldpeak=0.3; slope=1; ca=1; thal=2
+Lab: laparoscopic adrenalectomy
+
+ASSESSMENT:
+The patient is a 68-year-old man who has a history of ischemic cardiac disease. He had tonsillectomy at the age of 8. His mother died in her 80s from congestive heart failure. He has two brothers and six sisters living who remain in good health.
+
+PLAN:
+history of present illness:,  the patient is a 68-year-old man who returns for recheck.  he has a history of ischemic cardiac disease, he did see dr. xyz in february 2004 and had a thallium treadmill test.  he did walk for 8 minutes.  the scan showed some mild inferior wall scar and ejection fraction was well preserved.  he has not had difficulty with chest pain, palpitations, orthopnea, nocturnal dyspnea, or edema.,past medical history/surgeries/hospitalizations: , he had tonsillectomy at the age of 8.  he was hospitalized in 1996 with myocardial infarction and subsequently underwent cardiac catheterization and coronary artery bypass grafting procedure.  he did have lima to the lad and had three saphenous vein grafts performed otherwise.,medications:,  kerlone 10 mg 1/2 pill daily, gemfibrozil 600 mg twice daily, crestor 80 mg 1/2 pill daily, aspirin 325 mg daily, vitamin e 400 units daily, and citrucel one daily.,allergies: , none known.,family history:  ,father died at the age of 84.  he had a prior history of cancer of the lung and ischemic cardiac disease.  mother died in her 80s from congestive heart failure.  he has two brothers and six sisters living who remain in good health.,personal history:  ,quit smoking in 1996.  he occasionally drinks alcoholic beverages.,review of systems:,endocrine:  he has hypercholesterolemia treated with diet and medication.  he reports that he did lose 10 pounds this year.,neurologic:  denies any tia symptoms.,genitourinary:  he has occasional nocturia.  denies any difficulty emptying his bladder.,gastrointestinal:  he has a history of asymptomatic cholelithiasis.,physical examination:,vital signs:  weight:  225 pounds.  blood pressure:  130/82.  pulse:  83.  temperature:  96.4 degrees.,general appearance:  he is a middle-aged man who is not in any acute distress.,heent:  mouth:  the posterior pharynx is clear.,neck:  without adenopathy or thyromegaly.,chest:  lungs are resonant to percussion.  auscultation reveals normal breath sounds.,heart:  normal s1, s2, without gallops or rubs.,abdomen:  without tenderness or masses.,extremities:  without edema.,impression/plan:,1.  ischemic cardiac disease.  this remains stable.  he will continue on the same medication.  he reports he has had some laboratory studies today.,2.  hypercholesterolemia.  he will continue on the same medication.,3.  facial tic.  we also discussed having difficulty with the facial tic at the left orbital region.  this occurs mainly when he is under stress.  he has apparently had numerous studies in the past and has seen several doctors in wichita about this.  at one time was being considered for some type of operation.  his description, however, suggests that they were considering an operation for tic douloureux.  he does not have any pain with this tic and this is mainly a muscle spasm that causes his eye to close.  repeat neurology evaluation was advised.  he will be scheduled to see dr. xyz in newton on 09/15/2004.,4.  immunization.  addition of pneumococcal vaccination was discussed with him but had been decided by him at the end of the appointment.  we will have this discussed with him further when his laboratory results are back.
+
+ICD-10 Suggestions:
+ - I255 :    Ischemic cardiomyopathy (score=0.960)
+ - Z8249 :   Family history of ischemic heart disease and other diseases of the circulatory system (score=0.816)
+ - T889XXD : Complication of surgical and medical care, unspecified, subsequent encounter (score=0.357)
+ - J351 :    Hypertrophy of tonsils (score=0.339)
+ - I259 :    Chronic ischemic heart disease, unspecified (score=0.297)
+

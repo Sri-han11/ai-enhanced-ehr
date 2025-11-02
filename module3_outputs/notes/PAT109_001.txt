@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Single chamber pacemaker implantation with left subclavian approach and venogram to assess the subclavian access site and the right atrial or right ventricle with asystole that resolved spontaneously during the procedure. The patient is a pleasant 52-year-old gentleman with a history of diabetes mellitus, hypertension, and renal failure, on dialysis, who presents with emesis, dizziness, and nausea for the last few weeks. The patient denies hematemesis or melena. The rest of systems review is negative.
+
+=== SOAP SUMMARY ===
+The patient is a pleasant 52-year-old gentleman with a history of diabetes mellitus, hypertension, and renal failure, on dialysis. He presents with emesis, dizziness, and nausea for the last few weeks. The patient denies hematemesis or melena. The rest of systems review is negative.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT109_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+single chamber pacemaker implantation. successful single-chamber pacemaker implantation with left subclavian approach and venogram to assess the subclavian access site and the right atrial or right ventricle with asystole that resolved spontaneously during the procedure.
+
+OBJECTIVE:
+Vitals: trestbps=120; chol=244; fbs=0; restecg=1; thalach=162; exang=0; oldpeak=1.1; slope=2; ca=0; thal=2
+Lab: pacemaker (single chamber)
+
+ASSESSMENT:
+The patient is a pleasant 52-year-old gentleman with a history of diabetes mellitus, hypertension, and renal failure, on dialysis. He presents with emesis, dizziness, and nausea for the last few weeks. The patient denies hematemesis or melena. The rest of systems review is negative.
+
+PLAN:
+reason for consult: , a patient with non-q-wave myocardial infarction.,history of present illness: , the patient is a pleasant 52-year-old gentleman with a history of diabetes mellitus, hypertension, and renal failure, on dialysis, who presented with emesis, dizziness, and nausea for the last few weeks.  the patient reports having worsening emesis and emesis a few times.  no definite chest pains.  the patient is breathing okay.  the patient denies orthopnea or pnd.,past medical history:,1.  diabetes mellitus.,2.  hypertension.,3.  renal failure, on dialysis.,medications:,  aspirin, coreg, doxazosin, insulin, metoclopramide, simvastatin, and starlix.,allergies:  ,no known drug allergies.,social history: , the patient denies tobacco, alcohol or drug use.,family history: , negative for early atherosclerotic heart disease.,review of systems: , general:  the patient denies fever or chills.  pulmonary:  the patient denies hemoptysis.  cardiovascular:  refer to hpi.  gi:  the patient denies hematemesis or melena.  the rest of systems review is negative.,physical examination:,vital signs:  pulse 71, blood pressure 120/70, and respiratory rate 18.,general:  a well-nourished, well-developed male in no acute distress.,heent:  normocephalic, atraumatic.  pupils seem to be equal, round, and reactive.  extraocular muscles are full, but the patient has left eye ptosis.,neck:  supple without jvd or lymphadenopathy.,lungs:  clear to auscultation bilaterally.,cardiovascular:  pmi is displaced 0.5 cm lateral to the midclavicular line.  regular rate and rhythm, s1, s2.  no definite s3, 2/6 holosystolic murmur at the apex radiating to the axilla.,abdomen:  positive bowel sounds, nondistended and nontender.  no hepatosplenomegaly.,extremities:  trace pedal edema.,ekg shows atrial fibrillation with rapid ventricular response at 164 with old anteroseptal myocardial infarction and old inferior wall myocardial infarction.  subsequent ekg in sinus rhythm shows sinus rhythm with old inferior wall myocardial infarction and probable anteroseptal myocardial infarction with q-waves in v1, v2, and up to v3.,laboratory exam: , wbc 28,800, hemoglobin 13.6, hematocrit 40, and platelets 266,000.  pt 11.3, inr 1.1, and ptt 24.1.  sodium 126, potassium 4.3, chloride 86, co2 26, glucose 371, bun 80, and creatinine 8.4.  ck was 261, then 315, and then 529 with ck-mb of 8.06, then 8.69, and then 24.6.  troponin was 0.051, then 0.46, and then 19.8 this morning.,impression:,1.  paroxysmal atrial fibrillation.  the heart rate was slowed down with iv cardizem, the patient converted to sinus rhythm.  the patient is currently in sinus rhythm.,2.  emesis.  the etiology is unclear.  the patient reports that the emesis is better.  the patient is just having some nausea.,3.  non-q-wave myocardial infarction.  ekg shows atrial fibrillation with old anteroseptal myocardial infarction and old inferior wall myocardial infarction.,4.  diabetes mellitus.,5.  renal failure.,6.  hypertension.,7.  hypercholesterolemia.,plan:,1.  we will start amiodarone to keep from going back into atrial fibrillation.,2.  echocardiogram.,3.  aspirin and iv heparin.,4.  serial ck-mb and troponin.,5.  cardiac catheterization, possible percutaneous coronary intervention.  the risks, benefits, and alternatives were explained to the patient through a translator.  the patient understands and wishes to proceed.,6.  iv integrilin.
+
+ICD-10 Suggestions:
+ - E0829 :   Diabetes mellitus due to underlying condition with other diabetic kidney complication (score=0.999)
+ - E0822 :   Diabetes mellitus due to underlying condition with diabetic chronic kidney disease (score=0.996)
+ - E1359 :   Other specified diabetes mellitus with other circulatory complications (score=0.995)
+ - E1122 :   Type 2 diabetes mellitus with diabetic chronic kidney disease (score=0.988)
+ - E1129 :   Type 2 diabetes mellitus with other diabetic kidney complication (score=0.988)
+

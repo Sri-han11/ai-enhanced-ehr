@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 70-year-old female with above clinical and cardiovascular history who has angiographic evidence of a large anterior apical and inferior apical wall motion abnormality with angiographically patent coronary arteries with two segments of myocardial bridging involving the mid and distal left anterior descending artery. These angiographic findings are consistent with takasubo syndrome, aka apical ballooning syndrome.
+
+=== SOAP SUMMARY ===
+The patient is a 70-year-old female with above clinical and cardiovascular history. Angiographic evidence of a large anterior apical and inferior apical wall motion abnormality with angiographically patent coronary arteries. These angiographic findings are consistent with takasubo syndrome, aka apical ballooning syndrome.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT165_001
+Date: 2025-11-02
+
+SUBJECTIVE:
+left heart catheterization, selective bilateral coronary angiography and left ventriculography. revascularization of the left anterior descending with angioplasty and implantation of a drug-eluting stent. right heart catheterization and swan-ganz catheter placement for monitoring.
+
+OBJECTIVE:
+Vitals: trestbps=138; chol=175; fbs=0; restecg=1; thalach=173; exang=0; oldpeak=0.0; slope=2; ca=4; thal=2
+Lab: heart catheterization, ventriculography, & angiography - 5
+
+ASSESSMENT:
+The patient is a 70-year-old female with above clinical and cardiovascular history. Angiographic evidence of a large anterior apical and inferior apical wall motion abnormality with angiographically patent coronary arteries. These angiographic findings are consistent with takasubo syndrome, aka apical ballooning syndrome.
+
+PLAN:
+procedure: , cardiac catheterization by:,a.  left heart catheterization.,b.  left ventriculography.,c.  selective coronary angiography.,d.  right femoral artery approach.,complications:,  none.,medications,1.  iv versed.,2.  iv fentanyl.,3.  intravenous fluid administration.,4.  heparin 3000 units iv.,indications: , this 70-year-old asian-american presents with chest pain syndrome, abnormal ekg suggesting an acute st elevation, anterior myocardial infarction, being taken urgently to cardiac catheterization laboratory with possible coronary intervention.,narrative: , after detailed informed consent had been obtained.  usual benefits, alternatives, and risks of the procedure had been discussed with the patient, she was agreeable to proceed.  the patient was prepped, draped, and anesthetized in the usual manner.  using modified seldinger technique a 6 french introducer sheath inserted into the right femoral artery.  next, 6 french 3d right coronary catheter was inserted and right coronary angiogram was obtained in various projections.  next, a 6 french jl4.0 left coronary catheter was inserted and left coronary angiogram was obtained in various projections.  next, 4 french pigtail catheter was inserted into left ventricle under fluoroscopic guidance.  left ventricular angiogram was performed.  pre and post angiogram lvedp, lv, and aortic pressures were obtained.  at the end of the procedure catheters were removed and the introducer sheath was secured.  the patient was admitted to the tcu in stable condition.,findings,hemodynamics,left heart pressures:,  lvedp of 5, left ventricular systolic pressure of 81, central aortic pressure systolic 70, diastolic 20.,left ventriculography: , left ventricular chamber size is normal.  the distal half of the anterior wall of the entire apex and the distal half of the inferior wall are completely akinetic with hypercontractility of the basilar segments of the anterior and inferior wall.  calculated ejection fraction of 51%, which probably overestimates the overall effective ejection fraction.  no lv thrombus or mitral regurgitation present.,coronary arteriography,1.  ,right coronary artery: , the rca gives rise to a posterior descending artery and a small posterolateral branch.  angiographically the right coronary artery is normal.,2.  ,left main artery:,  the left main vessel is angiographically normal, bifurcates into left anterior descending artery and circumflex system.,3.  ,left anterior descending artery: , the lad gives rise to a normal complement of septal branches, diagonal branches, and extends around the apex.  angiographically the mid left anterior descending artery and distal left anterior descending artery demonstrates systolic compression of the vessel lumen, consistent with myocardial bridging.  the degree of myocardial bridging appears moderate in the mid vessel and mild in the distal segment.  otherwise, there is no evidence of atherosclerotic obstruction.,4.  ,circumflex artery: , the circumflex gives rise to two large extremely tortuous marginal vessels that extend towards the apex.  angiographically, the circumflex artery is normal.,conclusion: , this is a 70-year-old female with above clinical and cardiovascular history, who has angiographic evidence of a large anterior apical and inferior apical wall motion abnormality with angiographically patent coronary arteries with two segments of myocardial bridging involving the mid and distal left anterior descending artery.  these angiographic findings are consistent with takasubo syndrome, aka apical ballooning syndrome.  the patient will be treated medically.
+
+ICD-10 Suggestions:
+ - I5181 :   Takotsubo syndrome (score=0.993)
+ - R931 :    Abnormal findings on diagnostic imaging of heart and coronary circulation (score=0.993)
+ - Q245 :    Malformation of coronary vessels (score=0.667)
+ - M314 :    Aortic arch syndrome [Takayasu] (score=0.232)
+ - R9439 :   Abnormal result of other cardiovascular function study (score=0.199)
+

@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT044 is a 53-year-old male with a history of chest pain, ecg stress, thallium stress test, aerobic capacity, ejection fraction, gated tomographic spect system, myocardial perfusion, thallous chloride, ventricle, wall motion, stress test, stress. The patient had the appropriate inflammatory workup for pericardial effusion, however, it was nondiagnostic. The patient was brought to the operating room emergently. After adequate general endotracheal anesthesia, his chest was prepped and draped in the routine sterile fashion. a small incision was made at the bottom of the previous sternotomy incision. the subcutaneous sutures were removed. the dissection was carried down into the pericardial space. blood was evacuated without any difficulty. pericardial blake drain was then placed. the fascia was then reclosed with interrupted vicryl sutures. the subcutaneous tissues were closed with a running monocryl suture. a subdermal pds followed by a subcuticular monocryl suture were all performed. the wound was closed with dermabond dressing. the procedure was terminated at this point. the patient tolerated the procedure well and was returned back to the intensive care unit in stable condition.
+
+=== SOAP SUMMARY ===
+Patient PAT044 is a 53-year-old male with a history of chest pain, ecg stress, thallium stress test, aerobic capacity, ejection fraction, gated tomographic spect system, myocardial perfusion. The patient had the appropriate inflammatory workup for pericardial effusion, but it was nondiagnostic.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT044_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+subxiphoid pericardiotomy. symptomatic pericardial effusion. the patient had the appropriate inflammatory workup for pericardial effusion, however, it wa nondiagnostic.
+
+OBJECTIVE:
+Vitals: trestbps=130; chol=264; fbs=0; restecg=0; thalach=143; exang=0; oldpeak=0.4; slope=1; ca=0; thal=2
+Lab: subxiphoid pericardiotomy
+
+ASSESSMENT:
+Patient PAT044 is a 53-year-old male with a history of chest pain, ecg stress, thallium stress test, aerobic capacity, ejection fraction, gated tomographic spect system, myocardial perfusion. The patient had the appropriate inflammatory workup for pericardial effusion, but it was nondiagnostic.
+
+PLAN:
+preoperative diagnosis (es):,1. endocarditis.,2. status post aortic valve replacement with st. jude mechanical valve.,3. pericardial tamponade.,postoperative diagnosis (es):,1. endocarditis.,2. status post aortic valve replacement with st. jude mechanical valve.,3. pericardial tamponade.,procedure:,1. emergent subxiphoid pericardial window.,2. transesophageal echocardiogram.,anesthesia:, general endotracheal.,findings:, the patient was noted to have 600 ml of dark bloody fluid around the pericardium. we could see the effusion resolve on echocardiogram. the aortic valve appeared to have good movement in the leaflets with no perivalvular leaks. there was no evidence of endocarditis. the mitral valve leaflets moved normally with some mild mitral insufficiency.,description of the operation:, the patient was brought to the operating room emergently. after adequate general endotracheal anesthesia, his chest was prepped and draped in the routine sterile fashion. a small incision was made at the bottom of the previous sternotomy incision. the subcutaneous sutures were removed. the dissection was carried down into the pericardial space. blood was evacuated without any difficulty. pericardial blake drain was then placed. the fascia was then reclosed with interrupted vicryl sutures. the subcutaneous tissues were closed with a running monocryl suture. a subdermal pds followed by a subcuticular monocryl suture were all performed. the wound was closed with dermabond dressing. the procedure was terminated at this point. the patient tolerated the procedure well and was returned back to the intensive care unit in stable condition.
+
+ICD-10 Suggestions:
+ - R931 :    Abnormal findings on diagnostic imaging of heart and coronary circulation (score=0.992)
+ - R9430 :   Abnormal result of cardiovascular function study, unspecified (score=0.986)
+ - I319 :    Disease of pericardium, unspecified (score=0.980)
+ - I519 :    Heart disease, unspecified (score=0.973)
+ - R011 :    Cardiac murmur, unspecified (score=0.960)
+

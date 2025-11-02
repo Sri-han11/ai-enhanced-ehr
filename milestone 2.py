@@ -8,9 +8,7 @@ from tensorflow.keras.optimizers import legacy
 from skimage.metrics import peak_signal_noise_ratio as psnr, structural_similarity as ssim
 import matplotlib.pyplot as plt
 
-# -------------------------
 # Settings
-# -------------------------
 IMG_SIZE = (64, 64)     # Resize all images to 64x64
 CHANNELS = 1            # Grayscale images
 BATCH_SIZE = 8
@@ -20,11 +18,11 @@ EPOCHS = 20
 TRAIN_DIR = r"C:\Users\Srimathi\ai-ehr-project\gen-ai_img_model\chest_xray\train"
 VAL_DIR = r"C:\Users\Srimathi\ai-ehr-project\gen-ai_img_model\chest_xray\val"
 TEST_DIR = r"C:\Users\Srimathi\ai-ehr-project\gen-ai_img_model\chest_xray\test"
-MODEL_PATH = "medgan_generator_m2.h5"   # Saved model file name
 
-# -------------------------
-# Dataset loader
-# -------------------------
+# Model save path
+MODEL_PATH = "medgan_generator_m2.h5"
+
+# Dataset Loader
 def load_dataset(folder):
     """Loads and preprocesses grayscale images from folder."""
     images = []
@@ -53,9 +51,7 @@ val_imgs = load_dataset(VAL_DIR)
 test_imgs = load_dataset(TEST_DIR)
 print(f"Train: {len(train_imgs)}, Val: {len(val_imgs)}, Test: {len(test_imgs)}")
 
-# -------------------------
-# Generator
-# -------------------------
+# Generator Network
 def build_generator():
     """Builds CNN generator for image enhancement."""
     input_img = Input(shape=(*IMG_SIZE, CHANNELS))
@@ -68,9 +64,7 @@ def build_generator():
     x = Conv2D(CHANNELS, 3, padding='same', activation='sigmoid')(x)
     return Model(input_img, x, name="Generator")
 
-# -------------------------
-# Discriminator
-# -------------------------
+# Discriminator Network
 def build_discriminator():
     """Builds CNN discriminator to classify real vs generated images."""
     model = Sequential(name="Discriminator")
@@ -82,9 +76,7 @@ def build_discriminator():
     model.add(Conv2D(1, 3, padding='same', activation='sigmoid'))
     return model
 
-# -------------------------
-# Training function
-# -------------------------
+# GAN Training Function
 def train(train_data):
     """Trains GAN model (Generator + Discriminator)."""
     generator = build_generator()
@@ -93,7 +85,7 @@ def train(train_data):
 
     discriminator.compile(loss='binary_crossentropy', optimizer=optimizer, metrics=['accuracy'])
 
-    # Combine generator + frozen discriminator
+    # Combined model (Generator + frozen Discriminator)
     input_noisy = Input(shape=(*IMG_SIZE, CHANNELS))
     generated_img = generator(input_noisy)
     discriminator.trainable = False
@@ -127,24 +119,23 @@ def train(train_data):
                 print(f"[Batch {i}/{batch_count}] D loss: {d_loss[0]:.4f}, D acc: {d_loss[1]:.4f}, G loss: {g_loss[0]:.4f}")
 
     generator.save(MODEL_PATH)
-    print(f"\n✅ Training complete. Model saved as: {MODEL_PATH}")
+    print(f"\nTraining complete. Model saved as: {MODEL_PATH}")
     return generator
 
-# -------------------------
-# Check if trained model exists
-# -------------------------
+# Load or Train Model
 if os.path.exists(MODEL_PATH):
-    print(f"✅ Found existing model: {MODEL_PATH}. Skipping training...")
+    print(f"Found existing model: {MODEL_PATH}. Skipping training...")
     generator = load_model(MODEL_PATH, compile=False)
 else:
-    print("⚙️ No trained model found. Starting training process...")
+    print("No trained model found. Starting training process...")
     generator = train(train_imgs)
 
-# -------------------------
-# Test the trained generator
-# -------------------------
+# Testing and Saving Results
+OUTPUT_DIR = "enhanced_results"
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
 def test_generator(generator, test_data, num_samples=5):
-    """Evaluates and visualizes generator performance."""
+    """Evaluates and saves generator results to disk."""
     noisy_test = test_data + 0.1 * np.random.normal(loc=0.0, scale=1.0, size=test_data.shape)
     noisy_test = np.clip(noisy_test, 0., 1.)
     generated_imgs = generator.predict(noisy_test)
@@ -152,28 +143,41 @@ def test_generator(generator, test_data, num_samples=5):
     psnr_vals, ssim_vals = [], []
     for i in range(len(test_data)):
         psnr_vals.append(psnr(test_data[i], generated_imgs[i]))
-        ssim_vals.append(ssim(test_data[i].squeeze(), generated_imgs[i].squeeze()))
+        ssim_vals.append(ssim(test_data[i].squeeze(), generated_imgs[i].squeeze(), data_range=1.0))
 
-    print(f"\n📊 Average PSNR: {np.mean(psnr_vals):.2f}, Average SSIM: {np.mean(ssim_vals):.4f}")
+    print(f"\nAverage PSNR: {np.mean(psnr_vals):.2f}, Average SSIM: {np.mean(ssim_vals):.4f}")
+    print(f"Saving generated images to folder: {OUTPUT_DIR}\n")
 
-    # Show a few examples
     for i in range(num_samples):
+        orig = (test_data[i].squeeze() * 255).astype(np.uint8)
+        noisy = (noisy_test[i].squeeze() * 255).astype(np.uint8)
+        enhanced = (generated_imgs[i].squeeze() * 255).astype(np.uint8)
+
+        sample_dir = os.path.join(OUTPUT_DIR, f"sample_{i+1}")
+        os.makedirs(sample_dir, exist_ok=True)
+
+        cv2.imwrite(os.path.join(sample_dir, "original.png"), orig)
+        cv2.imwrite(os.path.join(sample_dir, "noisy.png"), noisy)
+        cv2.imwrite(os.path.join(sample_dir, "enhanced.png"), enhanced)
+
         plt.figure(figsize=(8, 3))
         plt.subplot(1, 3, 1)
         plt.title("Original")
-        plt.imshow(test_data[i].squeeze(), cmap="gray")
+        plt.imshow(orig, cmap="gray")
         plt.axis("off")
 
         plt.subplot(1, 3, 2)
         plt.title("Noisy")
-        plt.imshow(noisy_test[i].squeeze(), cmap="gray")
+        plt.imshow(noisy, cmap="gray")
         plt.axis("off")
 
         plt.subplot(1, 3, 3)
-        plt.title("Enhanced (Generated)")
-        plt.imshow(generated_imgs[i].squeeze(), cmap="gray")
+        plt.title("Enhanced")
+        plt.imshow(enhanced, cmap="gray")
         plt.axis("off")
         plt.show()
+
+    print("Image results saved successfully!")
 
 # Run testing
 test_generator(generator, test_imgs)

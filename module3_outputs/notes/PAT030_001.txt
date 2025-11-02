@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT030 is a 53-year-old male with a supine blood pressure of 153/88 with heart rate of 54 beats per minute. There was no significant change in heart rate or blood pressure on 80-degree tilt. There were no symptoms reported during the tilt study. The tilt table test is negative for any evidence of vasovagal, orthostasis or vasodepressor syndrome.
+
+=== SOAP SUMMARY ===
+Patient PAT030 is a 53-year-old male with a supine blood pressure of 153/88 with heart rate of 54 beats per minute. There was no significant change in heart rate or blood pressure on 80-degree tilt. The tilt table test is negative for any evidence of vasovagal, orthostasis or vasodepressor syndrome.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT030_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+tilt table test. tilt table test is negative for any evidence of vasovagal, orthostasis or vasodepressor syndrome.
+
+OBJECTIVE:
+Vitals: trestbps=130; chol=197; fbs=1; restecg=0; thalach=152; exang=0; oldpeak=1.2; slope=0; ca=0; thal=2
+Lab: tilt table test
+
+ASSESSMENT:
+Patient PAT030 is a 53-year-old male with a supine blood pressure of 153/88 with heart rate of 54 beats per minute. There was no significant change in heart rate or blood pressure on 80-degree tilt. The tilt table test is negative for any evidence of vasovagal, orthostasis or vasodepressor syndrome.
+
+PLAN:
+findings:,1.  the patient's supine blood pressure was 153/88 with heart rate of 54 beats per minute.,2.  there was no significant change in heart rate or blood pressure on 80-degree tilt.,3.  no symptoms reported during the tilt study.,conclusion: , tilt table test is negative for any evidence of vasovagal, orthostasis or vasodepressor syndrome.
+
+ICD-10 Suggestions:
+ - Z0130 :   Encounter for examination of blood pressure without abnormal findings (score=0.996)
+ - R030 :    Elevated blood-pressure reading, without diagnosis of hypertension (score=0.985)
+ - R031 :    Nonspecific low blood-pressure reading (score=0.975)
+ - Z0131 :   Encounter for examination of blood pressure with abnormal findings (score=0.940)
+ - R9439 :   Abnormal result of other cardiovascular function study (score=0.902)
+

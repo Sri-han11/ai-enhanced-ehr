@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is 58 years of age, 1 sex, 1 sex, and has a history of elevated cardiac enzymes, fullness in chest, abnormal ekg, and risk factors. The patient was prescribed femara, verapamil, dyazide, hyzaar, glyburide, and metformin. The patient exercised for 3 minutes stopping due to fatigue. No chest pain. The patient's heart rate increased from 84 to 138 or 93% of maximum predicted heart rate. Blood pressure rose from 150/88 to 210/100. There was a slight increase in her repolorization abnormalities in a non-specific pattern. Nuclear perfusion imaging was utilized with 11 mci for the rest dose and 33 mci for the stress test. The gated spect shows moderate lvh with slightly low ef of 48%. This essentially excludes obstructive cad as a cause of her elevated troponin.
+
+=== SOAP SUMMARY ===
+The patient was prescribed femara, verapamil, dyazide, hyzaar, glyburide, and metformin. The patient's heart rate increased from 84 to 138 or 93% of maximum predicted heart rate. Blood pressure rose from 150/88 to 210/100.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT065_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+selective coronary angiography, coronary angioplasty. acute non-st-elevation mi.
+
+OBJECTIVE:
+Vitals: trestbps=140; chol=211; fbs=1; restecg=0; thalach=165; exang=0; oldpeak=0.0; slope=2; ca=0; thal=2
+Lab: selective coronary angiography & angioplasty
+
+ASSESSMENT:
+The patient was prescribed femara, verapamil, dyazide, hyzaar, glyburide, and metformin. The patient's heart rate increased from 84 to 138 or 93% of maximum predicted heart rate. Blood pressure rose from 150/88 to 210/100.
+
+PLAN:
+indication for study: , elevated cardiac enzymes, fullness in chest, abnormal ekg, and risk factors.,medications:,  femara, verapamil, dyazide, hyzaar, glyburide, and metformin.,baseline ekg: , sinus rhythm at 84 beats per minute, poor anteroseptal r-wave progression, mild lateral st abnormalities.,exercise results:,1.  the patient exercised for 3 minutes stopping due to fatigue.  no chest pain.,2.  heart rate increased from 84 to 138 or 93% of maximum predicted heart rate.  blood pressure rose from 150/88 to 210/100.  there was a slight increase in her repolorization abnormalities in a non-specific pattern.,nuclear protocol:  ,same day rest/stress protocol was utilized with 11 mci for the rest dose and 33 mci for the stress test.,nuclear results:,1.  nuclear perfusion imaging, review of the raw projection data reveals adequate image acquisition.  the resting images showed decreased uptake in the anterior wall.  however the apex is spared of this defect.  there is no significant change between rest and stress images.  the sum score is 0.,2.  the gated spect shows moderate lvh with slightly low ef of 48%.,impression:,1.  no evidence of exercise induced ischemia at a high myocardial workload.  this essentially excludes obstructive cad as a cause of her elevated troponin.,2.  mild hypertensive cardiomyopathy with an ef of 48%.,3.  poor exercise capacity due to cardiovascular deconditioning.,4.  suboptimally controlled blood pressure on today's exam.
+
+ICD-10 Suggestions:
+ - T460X5D : Adverse effect of cardiac-stimulant glycosides and drugs of similar action, subsequent encounter (score=0.988)
+ - T460X5A : Adverse effect of cardiac-stimulant glycosides and drugs of similar action, initial encounter (score=0.985)
+ - T46995D : Adverse effect of other agents primarily affecting the cardiovascular system, subsequent encounter (score=0.956)
+ - Z0131 :   Encounter for examination of blood pressure with abnormal findings (score=0.953)
+ - T465X5D : Adverse effect of other antihypertensive drugs, subsequent encounter (score=0.946)
+

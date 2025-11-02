@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+A 23-month-old girl with a history of reactive airway disease is being treated on an outpatient basis for pneumonia, present with cough and fever. The patient's trestbps is 100, chol is 222, fbs is 0, thalach is 143, exang is 1, oldpeak is 1.2, slope is 1, ca is 0 and thal is 2.
+
+=== SOAP SUMMARY ===
+A 23-month-old girl with a history of reactive airway disease is being treated on an outpatient basis for pneumonia. The patient's trestbps is 100, chol is 222, fbs is 0, thalach is 143, exang is 1, oldpeak is 1.2, slope is 1 and ca is 0.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT067_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+a 23-month-old girl ha a history of reactive airway disease, is being treated on an outpatient basis for pneumonia, present with cough and fever.
+
+OBJECTIVE:
+Vitals: trestbps=100; chol=222; fbs=0; restecg=1; thalach=143; exang=1; oldpeak=1.2; slope=1; ca=0; thal=2
+Lab: reactive airway disease
+
+ASSESSMENT:
+A 23-month-old girl with a history of reactive airway disease is being treated on an outpatient basis for pneumonia. The patient's trestbps is 100, chol is 222, fbs is 0, thalach is 143, exang is 1, oldpeak is 1.2, slope is 1 and ca is 0.
+
+PLAN:
+observations: , fev1 is 3.76, 103% predicted.  fvc is 4.98, 110% predicted.  ratio is 75.  fef 25-75 is 3.053, 82% predicted, postbronchodilator improves by 35%.  dlco is 35, 121% predicted.  residual volume is 3.04, 139% predicted.  total lung capacity is 8.34, 120% predicted.,flow volume loop reviewed.,interpretation:,  mild restrictive airflow limitation.  clinical correlation is recommended.
+
+ICD-10 Suggestions:
+ - J851 :    Abscess of lung with pneumonia (score=0.932)
+ - P279 :    Unspecified chronic respiratory disease originating in the perinatal period (score=0.811)
+ - J22 :     Unspecified acute lower respiratory infection (score=0.652)
+ - J159 :    Unspecified bacterial pneumonia (score=0.576)
+ - J440 :    Chronic obstructive pulmonary disease with (acute) lower respiratory infection (score=0.514)
+

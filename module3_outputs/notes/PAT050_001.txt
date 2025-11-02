@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT050 is a 53-year-old male with chest pain, hypertension, and a stress test negative for dobutamine-induced myocardial ischemia. The pericardium was opened with bovie electrocautery. Serous fluid was drained. A pericardial biopsy was obtained. A #24 blake chest drain was brought out through the skin and placed in the posterior pericardium. The fascia was closed with #1 vicryl followed by 2-0 vicryl followed by 4-0 pds in a running subcuticular fashion. sterile dressing was applied.
+
+=== SOAP SUMMARY ===
+Patient PAT050 is a 53-year-old male with chest pain, hypertension, and a stress test negative for dobutamine-induced myocardial ischemia. A #24 blake chest drain was brought out through the skin and placed in the posterior pericardium. The fascia was closed with #1 vicryl. sterile dressing was applied.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT050_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+chest pain, hypertension. stress test negative for dobutamine-induced myocardial ischemia. normal left ventricular size, regional wall motion, and ejection fraction.
+
+OBJECTIVE:
+Vitals: trestbps=138; chol=234; fbs=0; restecg=0; thalach=160; exang=0; oldpeak=0.0; slope=2; ca=0; thal=2
+Lab: stress test dobutamine myoview
+
+ASSESSMENT:
+Patient PAT050 is a 53-year-old male with chest pain, hypertension, and a stress test negative for dobutamine-induced myocardial ischemia. A #24 blake chest drain was brought out through the skin and placed in the posterior pericardium. The fascia was closed with #1 vicryl. sterile dressing was applied.
+
+PLAN:
+operation: , subxiphoid pericardial window.,anesthesia: , general endotracheal anesthesia.,operative procedure in detail:  ,after obtaining informed consent from the patient's family, including a thorough explanation of the risks and benefits of the aforementioned procedure, patient was taken to the operating room and general endotracheal anesthesia was administered.  next, the neck and chest were prepped and draped in the standard surgical fashion.  a #10-blade scalpel was used to make an incision in the area of the xiphoid process.  dissection was carried down to the level of the fascia using bovie electrocautery.  the xiphoid process was elevated, and the diaphragmatic attachments to it were dissected free.  next the pericardium was identified.,the pericardium was opened with bovie electrocautery.  upon entering the pericardium, serous fluid was expressed.  in total, ** cc of fluid was drained.  a pericardial biopsy was obtained.  the fluid was sent off for cytologic examination as well as for culture.  a #24 blake chest drain was brought out through the skin and placed in the posterior pericardium.  the fascia was closed with #1 vicryl followed by 2-0 vicryl followed by 4-0 pds in a running subcuticular fashion.  sterile dressing was applied.
+
+ICD-10 Suggestions:
+ - I5A :     Non-ischemic myocardial injury (non-traumatic) (score=0.644)
+ - O903 :    Peripartum cardiomyopathy (score=0.516)
+ - R9439 :   Abnormal result of other cardiovascular function study (score=0.440)
+ - R52 :     Pain, unspecified (score=0.297)
+ - S2690XS : Unspecified injury of heart, unspecified with or without hemopericardium, sequela (score=0.291)
+

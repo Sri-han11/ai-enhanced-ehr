@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+PAT125 is a 39-year-old patient with a posterior mediastinal mass with possible neural foraminal involvement (benign nerve sheath tumor by frozen section). Left thoracotomy with resection of posterior mediastinal mass. The patient exercised according to the lexiscan nuclear stress study, received a total of 0.4 mg of lexiscan. at peak hyperemic effect, 25.8 mci of myoview injected for the stress imaging and earlier 8.1 mci of myoview injected for the resting and the usual spect and gated spect protocol was followed in the rest-stress sequence. The data analyzed using cedars-sinai software.
+
+=== SOAP SUMMARY ===
+PAT125 is a 39-year-old patient with a posterior mediastinal mass with possible neural foraminal involvement. Left thoracotomy with resection of the mass was performed. The patient exercised according to the lexiscan nuclear stress study. The data were analyzed using cedars-sinai software.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT125_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+posterior mediastinal mass with possible neural foraminal involvement (benign nerve sheath tumor by frozen section). left thoracotomy with resection of posterior mediastinal mass.
+
+OBJECTIVE:
+Vitals: trestbps=94; chol=199; fbs=0; restecg=1; thalach=179; exang=0; oldpeak=0.0; slope=2; ca=0; thal=2
+Lab: mediastinal mass resection
+
+ASSESSMENT:
+PAT125 is a 39-year-old patient with a posterior mediastinal mass with possible neural foraminal involvement. Left thoracotomy with resection of the mass was performed. The patient exercised according to the lexiscan nuclear stress study. The data were analyzed using cedars-sinai software.
+
+PLAN:
+myoview nuclear stress study,reason for the test:,  angina, coronary artery disease.,findings: , the patient exercised according to the lexiscan nuclear stress study, received a total of 0.4 mg of lexiscan.  at peak hyperemic effect, 25.8 mci of myoview injected for the stress imaging and earlier 8.1 mci of myoview injected for the resting and the usual spect and gated spect protocol was followed in the rest-stress sequence.,the data analyzed using cedars-sinai software.,the resting heart rate was 49 with the resting blood pressure of 149/86.  maximum heart rate achieved was 69 with a maximum blood pressure achieved of 172/76.,ekg at rest showed to be abnormal with sinus rhythm, left atrial enlargement, and inverted t-wave in 1, 2, and avl as well as from v4 to v6 with lvh.  maximal stress test ekg showed no change from baseline.,impression:  ,maximal lexiscan stress test with abnormal ekg at baseline maximal stress test, please refer to the myoview interpretation.,myoview interpretations,findings: , the left ventricle appears to be dilated on both stress and rest with no significant change between stress and rest with left ventricular end-diastolic volume of 227, end-systolic volume of 154 with moderately to severely reduced lv function with akinesis of the inferior and inferoseptal wall.  ef was calculated at 32%, estimated 35% to 40%.,cardiac perfusion reviewed, showed a large area of moderate-to-severe intensity in the inferior wall and small-to-medium area of severe intensity at the apex and inferoapical wall.  both defects showed no change on the resting indicative of a fixed defect in the inferior and inferoapical wall consistent with old inferior inferoapical mi.  no reversible defects indicative of myocardium at risk.  the lateral walls as well as the septum and most of the anterior wall showed no reversibility and near-normal perfusion.,impression:,1.  large fixed defect, inferior and apical wall, related to old myocardial infarction.,2.  no reversible ischemia identified.,3.  moderately reduced left ventricular function with ejection fraction of about 35% consistent with ischemic cardiomyopathy.
+
+ICD-10 Suggestions:
+ - D383 :    Neoplasm of uncertain behavior of mediastinum (score=0.865)
+ - C781 :    Secondary malignant neoplasm of mediastinum (score=0.860)
+ - C383 :    Malignant neoplasm of mediastinum, part unspecified (score=0.513)
+ - C382 :    Malignant neoplasm of posterior mediastinum (score=0.379)
+ - S24154D : Other incomplete lesion at T11-T12 level of thoracic spinal cord, subsequent encounter (score=0.293)
+

@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT085 was a 42-year-old male with a history of pneumonia and chronic obstructive pulmonary disease (COPD) exacerbation. The patient was admitted to the Pacu in good condition. The patient underwent a procedure to insert a dual-port port-a-cath into the subclavian vein. A #18-gauge spinal needle was used to aspirate blood from the subclavian vein. A #15-blade scalpel was used to make an incision in the skin. Dissection was carried down to the level of the pectoralis muscle. A pocket was created. A dual-port port-a-cath was lowered into the pocket and secured with #2-0 prolene. Both ports were flushed and aspirated without difficulty. The distal tip was pulled through to the wire exit site with a kelly clamp. It was cut to the appropriate length. Next a dilator and sheath were threaded over the j wire. The j wire and dilator were removed, and the distal tip of the dual-port port-a-cath was threaded over the sheath, which was simultaneously withdrawn. Both ports of the dual-port port-a-cath were flushed and aspirated without difficulty. The distal tip was confirmed to be in adequate position with surgeon-interpreted fluoroscopy. The wire access site was closed with a 4-0 monocryl. The port pocket was closed in 2 layers with 2-0 vicryl followed by 4-0 monocryl in a running subcuticular fashion. The patient tolerated the procedure well and was transferred to the pacu in good condition.
+
+=== SOAP SUMMARY ===
+Patient PAT085 was a 42-year-old male with a history of pneumonia and chronic obstructive pulmonary disease (COPD) exacerbation. He was admitted to the Pacu in good condition. The patient underwent a procedure to insert a dual-port port-a-cath into the subclavian vein. Both ports were flushed and aspirated without difficulty.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT085_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+aspiration pneumonia and chronic obstructive pulmonary disease (copd) exacerbation. acute respiratory on chronic respiratory failure secondary to chronic obstructive pulmonary disease exacerbation. systemic inflammatory response syndrome secondary to aspiration pneumonia. no bacteria identified with blood culture or sputum culture.
+
+OBJECTIVE:
+Vitals: trestbps=102; chol=265; fbs=0; restecg=0; thalach=122; exang=0; oldpeak=0.6; slope=1; ca=0; thal=2
+Lab: pneumonia & copd - discharge summary
+
+ASSESSMENT:
+Patient PAT085 was a 42-year-old male with a history of pneumonia and chronic obstructive pulmonary disease (COPD) exacerbation. He was admitted to the Pacu in good condition. The patient underwent a procedure to insert a dual-port port-a-cath into the subclavian vein. Both ports were flushed and aspirated without difficulty.
+
+PLAN:
+procedures performed,1.  insertion of subclavian dual-port port-a-cath.,2.  surgeon-interpreted fluoroscopy.,operative procedure in detail: , after obtaining informed consent from the patient, including a thorough explanation of the risks and benefits of the aforementioned procedure, patient was taken to the operating room and general endotracheal anesthesia was administered.  next, the chest was prepped and draped in a standard surgical fashion.  a #18-gauge spinal needle was used to aspirate blood from the subclavian vein.  after aspiration of venous blood, seldinger technique was used to thread a j wire.  the distal tip of the j wire was confirmed to be in adequate position with surgeon-interpreted fluoroscopy.  next a #15-blade scalpel was used to make an incision in the skin.  dissection was carried down to the level of the pectoralis muscle.  a pocket was created.  a dual-port port-a-cath was lowered into the pocket and secured with #2-0 prolene.  both ports were flushed.  the distal tip was pulled through to the wire exit site with a kelly clamp.  it was cut to the appropriate length.  next a dilator and sheath were threaded over the j wire.  the j wire and dilator were removed, and the distal tip of the dual-port port-a-cath was threaded over the sheath, which was simultaneously withdrawn.  both ports of the dual-port port-a-cath were flushed and aspirated without difficulty.  the distal tip was confirmed to be in adequate position with surgeon-interpreted fluoroscopy.  the wire access site was closed with a 4-0 monocryl.  the port pocket was closed in 2 layers with 2-0 vicryl followed by 4-0 monocryl in a running subcuticular fashion.  sterile dressing was applied.  the patient tolerated the procedure well and was transferred to the pacu in good condition
+
+ICD-10 Suggestions:
+ - J441 :    Chronic obstructive pulmonary disease with (acute) exacerbation (score=0.993)
+ - J440 :    Chronic obstructive pulmonary disease with (acute) lower respiratory infection (score=0.993)
+ - Q263 :    Partial anomalous pulmonary venous connection (score=0.793)
+ - J4489 :   Other specified chronic obstructive pulmonary disease (score=0.593)
+ - J953 :    Chronic pulmonary insufficiency following surgery (score=0.466)
+

@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient has aortic stenosis, severe. The patient has chronic atrial fibrillation, on anticoagulation, inr of 1.72. The patient did undergo echocardiogram, which shows aortic stenosis, severe. The patient would like to follow with her cardiologist regarding aortic stenosis. She may need a surgical intervention in this regard, which i explained to her. The patient will be discharged home on medical management and she has an appointment to see her cardiologist in the next few days.
+
+=== SOAP SUMMARY ===
+The patient has chronic atrial fibrillation, on anticoagulation, inr of 1.72. The patient did undergo echocardiogram, which shows aortic stenosis, severe. She may need a surgical intervention in this regard, which i explained to her.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT056_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+successful stenting of the left anterior descending. angina pectoris, tight lesion in left anterior descending.
+
+OBJECTIVE:
+Vitals: trestbps=134; chol=201; fbs=0; restecg=1; thalach=158; exang=0; oldpeak=0.8; slope=2; ca=1; thal=2
+Lab: stenting
+
+ASSESSMENT:
+The patient has chronic atrial fibrillation, on anticoagulation, inr of 1.72. The patient did undergo echocardiogram, which shows aortic stenosis, severe. She may need a surgical intervention in this regard, which i explained to her.
+
+PLAN:
+subjective: , the patient is admitted for shortness of breath, continues to do fairly well.  the patient has chronic atrial fibrillation, on anticoagulation, inr of 1.72.  the patient did undergo echocardiogram, which shows aortic stenosis, severe.  the patient does have an outside cardiologist.  i understand she was scheduled to undergo workup in this regard.,physical examination,vital signs:  pulse of 78 and blood pressure 130/60.,lungs:  clear.,heart:  a soft systolic murmur in the aortic area.,abdomen:  soft and nontender.,extremities:  no edema.,impression:,1.  status shortness of breath responding well to medical management.,2.  atrial fibrillation, chronic, on anticoagulation.,3.  aortic stenosis.,recommendations:,1.  continue medications as above.,2.  the patient would like to follow with her cardiologist regarding aortic stenosis.  she may need a surgical intervention in this regard, which i explained to her.  the patient will be discharged home on medical management and she has an appointment to see her cardiologist in the next few days.,in the interim, if she changes her mind or if she has any concerns, i have requested to call me back.
+
+ICD-10 Suggestions:
+ - I4811 :   Longstanding persistent atrial fibrillation (score=0.998)
+ - I4821 :   Permanent atrial fibrillation (score=0.964)
+ - T45515D : Adverse effect of anticoagulants, subsequent encounter (score=0.959)
+ - I4819 :   Other persistent atrial fibrillation (score=0.885)
+ - Q253 :    Supravalvular aortic stenosis (score=0.765)
+

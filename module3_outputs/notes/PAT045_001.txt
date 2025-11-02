@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT045 is a 39-year-old male with chest pain. The patient was stressed by continuous graded treadmill testing for nine minutes of the standard Bruce protocol. The heart rate increased from 68 beats per minute to 178 beats per minute, which is 100% of the maximum predicted target heart rate. The blood pressure increased from 120/70 to 130/80. The baseline resting electrocardiogram reveals a regular sinus rhythm. The tracing is within normal limits. Symptoms of chest pain occurred with exercise. The pain persisted during the recovery process and was aggravated by deep inspiration. There were no ischemic st segment changes seen during exercise or during the recovery process. The stress test is negative for ischemia.
+
+=== SOAP SUMMARY ===
+Patient PAT045 is a 39-year-old male with chest pain. The pain persisted during the recovery process and was aggravated by deep inspiration. There were no ischemic st segment changes seen during exercise. The stress test is negative for ischemia. The baseline resting electrocardiogram reveals a regular sinus rhythm.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT045_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+emergent subxiphoid pericardial window, transesophageal echocardiogram.
+
+OBJECTIVE:
+Vitals: trestbps=140; chol=321; fbs=0; restecg=0; thalach=182; exang=0; oldpeak=0.0; slope=2; ca=0; thal=2
+Lab: subxiphoid pericardial window
+
+ASSESSMENT:
+Patient PAT045 is a 39-year-old male with chest pain. The pain persisted during the recovery process and was aggravated by deep inspiration. There were no ischemic st segment changes seen during exercise. The stress test is negative for ischemia. The baseline resting electrocardiogram reveals a regular sinus rhythm.
+
+PLAN:
+indications:,  chest pain.,procedure done:,  graded exercise treadmill stress test.,stress ecg results:,  the patient was stressed by continuous graded treadmill testing for nine minutes of the standard bruce protocol.  the heart rate increased from 68 beats per minute to 178 beats per minute, which is 100% of the maximum predicted target heart rate.  the blood pressure increased from 120/70 to 130/80.  the baseline resting electrocardiogram reveals a regular sinus rhythm.  the tracing is within normal limits.  symptoms of chest pain occurred with exercise.  the pain persisted during the recovery process and was aggravated by deep inspiration.  marked chest wall tenderness noted.  there were no ischemic st segment changes seen during exercise or during the recovery process.,conclusions,:,1.  stress test is negative for ischemia.,2.  chest wall tenderness occurred with exercise.,3.  blood pressure response to exercise is normal.
+
+ICD-10 Suggestions:
+ - R079 :    Chest pain, unspecified (score=0.964)
+ - R071 :    Chest pain on breathing (score=0.907)
+ - G8928 :   Other chronic postprocedural pain (score=0.858)
+ - G894 :    Chronic pain syndrome (score=0.837)
+ - G8918 :   Other acute postprocedural pain (score=0.741)
+

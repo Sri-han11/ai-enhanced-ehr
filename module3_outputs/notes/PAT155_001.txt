@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+PAT155 is a 39-year-old male with a history of syncope. The patient's holter monitor report shows a predominant sinus rhythm with occasional premature ventricular contraction, occasional atrial premature contractions and mobitz type 1 wenckebach, several episodes, mobitz type ii, 3 to 2 av conduction disease noted as well approximately two episodes and one episode of atrial bigeminy noted.
+
+=== SOAP SUMMARY ===
+PAT155 is a 39-year-old male with a history of syncope. The patient's holter monitor report shows a predominant sinus rhythm with occasional premature ventricular contraction, occasional atrial premature contractions and mobitz type 1 wenckebach. PAT155 has 3 to 2 av conduction disease noted as well approximately two episodes.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT155_001
+Date: 2025-11-02
+
+SUBJECTIVE:
+holter monitor report. predominant rhythm is sinus. triplet maximum rate of 178 beat per minute noted.
+
+OBJECTIVE:
+Vitals: trestbps=138; chol=220; fbs=0; restecg=1; thalach=152; exang=0; oldpeak=0.0; slope=1; ca=0; thal=2
+Lab: holter monitor report - 1
+
+ASSESSMENT:
+PAT155 is a 39-year-old male with a history of syncope. The patient's holter monitor report shows a predominant sinus rhythm with occasional premature ventricular contraction, occasional atrial premature contractions and mobitz type 1 wenckebach. PAT155 has 3 to 2 av conduction disease noted as well approximately two episodes.
+
+PLAN:
+indication: , syncope.,holter monitor summary analysis: , analyzed for approximately 23 hours 57 minutes and artefact noted for approximately 23 seconds.  total beats of 108,489, heart rate minimum of approximately 54 beats per minutes at 7 a.m. and maximum of 106 beats per minute at approximately 4 p.m.  average heart rate is approximately 75 beats per minute, total of 31 to bradycardia, longest being 225 beats at approximately 7 in the morning, minimum rate of 43 beats per minute at approximately 01:40 a.m.  total ventricular events of 64, primarily premature ventricular contraction and supraventricular events total beats of 9 atrial premature contractions.  no significant st elevation noted and st depression noted only in one channel for approximately three minutes for a maximum of 2.7 mm.,impression of the findings: , predominant sinus rhythm with occasional premature ventricular contraction, occasional atrial premature contractions and mobitz type 1 wenckebach, several episodes, mobitz type ii, 3 to 2 av conduction disease noted as well approximately two episodes and one episode of atrial bigeminy noted.  no significant pauses noted.
+
+ICD-10 Suggestions:
+ - R008 :    Other abnormalities of heart beat (score=0.988)
+ - R009 :    Unspecified abnormalities of heart beat (score=0.920)
+ - I4711 :   Inappropriate sinus tachycardia, so stated (score=0.917)
+ - I459 :    Conduction disorder, unspecified (score=0.876)
+ - I4729 :   Other ventricular tachycardia (score=0.650)
+

@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 60-year-old woman with a history of lupus pneumonitis. She was last seen in the pulmonary medicine clinic in january 2004. Her respiratory status has been quite good. She has had no major respiratory difficulties; however, starting yesterday she began with increasing back and joint pain and as a result a deep breath has caused some back discomfort. She denies any problems with cough or sputum production. No fevers or chills. Recently, she has had a bit more problems with fatigue. For the most part, she has had no pulmonary limitations to her activity. Her current medications are: synthroid 0.112 mg daily; prilosec 20 mg daily; prednisone, she was 2.5 mg daily, but discontinued this on 06/16/2004; plaquenil 200 mg b.i.d.; imuran 100 mg daily; advair one puff b.i.d.; premarin 0.3 mg daily; lipitor 10 mg monday through friday; actonel 35 mg weekly; and aspirin 81 mg daily. She is also on calcium, vitamin d, vitamin e, vitamin c and a multivitamin. Allergies:, penicillin and also intolerance to shellfish.
+
+=== SOAP SUMMARY ===
+The patient is a 60-year-old woman with a history of lupus pneumonitis. She was last seen in the pulmonary medicine clinic in january 2004. She denies any problems with cough or sputum production. No fevers or chills. Recently, she has had a bit more problems with fatigue.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT083_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+port-a-cath insertion template. catheter wa inserted after subcutaneous pocket wa created, the sheath dilator were advanced, and the wire and dilator were removed.
+
+OBJECTIVE:
+Vitals: trestbps=102; chol=318; fbs=0; restecg=1; thalach=160; exang=0; oldpeak=0.0; slope=2; ca=1; thal=2
+Lab: port-a-cath insertion
+
+ASSESSMENT:
+The patient is a 60-year-old woman with a history of lupus pneumonitis. She was last seen in the pulmonary medicine clinic in january 2004. She denies any problems with cough or sputum production. No fevers or chills. Recently, she has had a bit more problems with fatigue.
+
+PLAN:
+subjective:,  the patient returns to the pulmonary medicine clinic for followup evaluation of interstitial disease secondary to lupus pneumonitis.  she was last seen in the pulmonary medicine clinic in january 2004.  since that time, her respiratory status has been quite good.  she has had no major respiratory difficulties; however, starting yesterday she began with increasing back and joint pain and as a result a deep breath has caused some back discomfort.  she denies any problems with cough or sputum production.  no fevers or chills.  recently, she has had a bit more problems with fatigue.  for the most part, she has had no pulmonary limitations to her activity.,current medications:,  synthroid 0.112 mg daily; prilosec 20 mg daily; prednisone, she was 2.5 mg daily, but discontinued this on 06/16/2004; plaquenil 200 mg b.i.d.; imuran 100 mg daily; advair one puff b.i.d.; premarin 0.3 mg daily; lipitor 10 mg monday through friday; actonel 35 mg weekly; and aspirin 81 mg daily.  she is also on calcium, vitamin d, vitamin e, vitamin c and a multivitamin.,allergies:,  penicillin and also intolerance to shellfish.,review of systems:,  noncontributory except as outlined above.,examination:,general:  the patient was in no acute distress.,vital signs:  blood pressure 122/60, pulse 72 and respiratory rate 16.,heent:  nasal mucosa was mild-to-moderately erythematous and edematous.  oropharynx was clear.,neck:  supple without palpable lymphadenopathy.,chest:  chest demonstrates decreased breath sounds, but clear.,cardiovascular:  regular rate and rhythm.,abdomen:  soft and nontender.,extremities:  without edema.  no skin lesions.,o2 saturation was checked at rest.  on room air it was 96% and on ambulation it varied between 94% and 96%.  chest x-ray obtained today showed mild increased interstitial markings consistent with a history of lupus pneumonitis.  she has not had the previous chest x-ray with which to compare; however, i did compare the markings was less prominent when compared with previous ct scan.,assessment:,1.  lupus with mild pneumonitis.,2.  respiratory status is stable.,3.  increasing back and joint pain, possibly related to patient’s lupus, however, in fact may be related to recent discontinuation of prednisone.,plan:,  at this time, i have recommended to continue her current medications.  we would like to see her back in approximately four to five months, at which time i would like to recheck her pulmonary function test as well as check cat scan.  at that point, it may be reasonable to consider weaning her imuran if her pulmonary status is stable and the lupus appears to be under control.
+
+ICD-10 Suggestions:
+ - R093 :    Abnormal sputum (score=0.740)
+ - J64 :     Unspecified pneumoconiosis (score=0.391)
+ - J984 :    Other disorders of lung (score=0.376)
+ - R69 :     Illness, unspecified (score=0.338)
+ - Z711 :    Person with feared health complaint in whom no diagnosis is made (score=0.334)
+

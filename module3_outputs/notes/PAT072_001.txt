@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT072 is a 51-year-old male with a history of COPD and emphysema. He returned to the pulmonary medicine clinic for followup evaluation on March 13, 2015.
+
+=== SOAP SUMMARY ===
+Patient PAT072 is a 51-year-old male with a history of COPD and emphysema. He returned to the pulmonary medicine clinic for followup evaluation on March 13, 2015. He was diagnosed with COPD, emphyssma, and pulmonary fibrosis.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT072_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+patient return to pulmonary medicine clinic for followup evaluation of copd and emphysema.
+
+OBJECTIVE:
+Vitals: trestbps=94; chol=227; fbs=0; restecg=1; thalach=154; exang=1; oldpeak=0.0; slope=2; ca=1; thal=3
+Lab: pulmonary medicine clinic followup
+
+ASSESSMENT:
+Patient PAT072 is a 51-year-old male with a history of COPD and emphysema. He returned to the pulmonary medicine clinic for followup evaluation on March 13, 2015. He was diagnosed with COPD, emphyssma, and pulmonary fibrosis.
+
+PLAN:
+spirometry:,  spirometry reveals the fvc to be adequate.,fev1 is also adequate 93% predicted.  fev1/fvc ratio is 114% predicted which is normal and fef25 75% is 126% predicted.,after the use of bronchodilator, there is no significant improvement of the abovementioned parameters.,mvv is also normal.,lung volumes: , reveal a tlc to be 80% predicted.  frc is mildly decreased and rv is also mildly decreased.  rv/tlc ratio is also normal 97% predicted.,diffusion capacity:,  after correction for alveolar ventilation, is 112% predicted which is normal.,oxygen saturation on room air:,  98%.,final interpretation: , pulmonary function test shows mild restrictive pulmonary disease.  there is no significant obstructive disease present.  there is no improvement after the use of bronchodilator and diffusion capacity is normal.  oxygen saturation on room air is also adequate.  clinical correlation will be necessary in this case.,
+
+ICD-10 Suggestions:
+ - J441 :    Chronic obstructive pulmonary disease with (acute) exacerbation (score=0.972)
+ - J984 :    Other disorders of lung (score=0.955)
+ - J4489 :   Other specified chronic obstructive pulmonary disease (score=0.951)
+ - J440 :    Chronic obstructive pulmonary disease with (acute) lower respiratory infection (score=0.951)
+ - J84170 :  Interstitial lung disease with progressive fibrotic phenotype in diseases classified elsewhere (score=0.892)
+

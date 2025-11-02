@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT102 is a 59-year-old male with recurrent angina pectoris and a history of ischemic heart disease and ischemic cardiomyopathy. The patient was studied in the resting state following intravenous delivery of adenosine triphosphate at 140 mcg/kg/min delivered over a total of 4 minutes. At completion of the second minute of infusion, the patient received technetium cardiolite per protocol. During this interval, the blood pressure 150/86 dropped to near 136/80 and returned to near 166/84 at completion. No diagnostic electrocardiographic abnormalities were elaborated during this study. Regional myocardial perfusion with adenosine provocation reveals at this time multiple fixed defects in perfusion suggesting indeed multivessel coronary artery disease, yet no active ischemia at this time.
+
+=== SOAP SUMMARY ===
+Patient PAT102 is a 59-year-old male with recurrent angina pectoris and a history of ischemic heart disease. The patient was studied in the resting state following intravenous delivery of adenosine triphosphate at 140 mcg/kg/min delivered over a total of 4 minutes.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT102_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+sinus bradycardia, sick-sinus syndrome, poor threshold on the ventricular lead and chronic lead. right ventricular pacemaker lead placement and lead revision.
+
+OBJECTIVE:
+Vitals: trestbps=178; chol=270; fbs=0; restecg=0; thalach=145; exang=0; oldpeak=4.2; slope=0; ca=0; thal=3
+Lab: pacemaker lead placement & rrevision.
+
+ASSESSMENT:
+Patient PAT102 is a 59-year-old male with recurrent angina pectoris and a history of ischemic heart disease. The patient was studied in the resting state following intravenous delivery of adenosine triphosphate at 140 mcg/kg/min delivered over a total of 4 minutes.
+
+PLAN:
+nuclear cardiology/cardiac stress report,indication for study: , recurrent angina pectoris in a patient with documented ischemic heart disease and underlying ischemic cardiomyopathy.,procedure: , the patient was studied in the resting state following intravenous delivery of adenosine triphosphate at 140 mcg/kg/min delivered over a total of 4 minutes.  at completion of the second minute of infusion, the patient received technetium cardiolite per protocol.  during this interval, the blood pressure 150/86 dropped to near 136/80 and returned to near 166/84 at completion.  no diagnostic electrocardiographic abnormalities were elaborated during this study.,regional myocardial perfusion with adenosine provocation: , scintigraphic study reveals at this time multiple fixed defects in perfusion suggesting indeed multivessel coronary artery disease, yet no active ischemia at this time.  a fixed defect is seen in the high anterolateral segment.  a further fixed perfusion defect is seen in the inferoapical wall extending from close to the septum.  there is no evidence for active ischemia in either distribution.  lateral wall moving towards the apex of the left ventricle is further involved from midway through the ventricle moving upward and into the high anterolateral vicinity.  when viewed from the vertical projection, the high septal wall is preserved with significant loss of the mid anteroapical wall moving to the apex and in a wraparound fashion in the inferoapical wall.  a limited segment of apical myocardium is still viable.,no gated wall motion study was obtained.,conclusions:  ,cardiolite perfusion findings support multivessel coronary artery disease and likely previous multivessel infarct as has been elaborated above.  there is no indication for active ischemia at this time.
+
+ICD-10 Suggestions:
+ - I25112 :  Atherosclerotic heart disease of native coronary artery with refractory angina pectoris (score=0.999)
+ - I25118 :  Atherosclerotic heart disease of native coronary artery with other forms of angina pectoris (score=0.999)
+ - I202 :    Refractory angina pectoris (score=0.997)
+ - I25110 :  Atherosclerotic heart disease of native coronary artery with unstable angina pectoris (score=0.997)
+ - I2081 :   Angina pectoris with coronary microvascular dysfunction (score=0.987)
+

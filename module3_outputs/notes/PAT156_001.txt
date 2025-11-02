@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+PAT156 is a 58-year-old male with a history of syncope. He was admitted to the operating room and anesthesia was administered. A #18-gauge needle was used to locate the subclavian vein. After aspiration of venous blood, a j wire was inserted through the needle using seldinger technique. The needle was withdrawn. The distal tip location of the j wire was confirmed to be in adequate position with surgeon-interpreted fluoroscopy. Next, a separate stab incision was made approximately 3 fingerbreadths below the wire exit site. A subcutaneous tunnel was created, and the distal tip of the hickman catheter was pulled through the tunnel to the level of the cuff. The catheter was flushed and aspirated without difficulty. The distal tip was confirmed to be in good location with surgeon-interpreted fluoroscopy. A 2-0 nylon was used to secure the cuff down to the catheter at the skin level. The instrument and sponge count was correct at the end of the case. The patient tolerated the procedure well and was transferred to the postanesthesia recovery area in good condition.
+
+=== SOAP SUMMARY ===
+A 58-year-old male with a history of syncope was admitted to the operating room. A #18-gauge needle was used to locate the subclavian vein. A j wire was inserted through the needle using seldinger technique. The patient tolerated the procedure well and was transferred to the postanesthesia recovery area in good condition.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT156_001
+Date: 2025-11-02
+
+SUBJECTIVE:
+holter monitoring for syncope. analyzed for approximately 23 hour 57 minute and artefact noted for approximately 23 seconds.
+
+OBJECTIVE:
+Vitals: trestbps=130; chol=197; fbs=0; restecg=1; thalach=131; exang=0; oldpeak=0.6; slope=1; ca=0; thal=2
+Lab: holter monitor report - 2
+
+ASSESSMENT:
+A 58-year-old male with a history of syncope was admitted to the operating room. A #18-gauge needle was used to locate the subclavian vein. A j wire was inserted through the needle using seldinger technique. The patient tolerated the procedure well and was transferred to the postanesthesia recovery area in good condition.
+
+PLAN:
+procedure performed,1.  placement of a subclavian single-lumen tunneled hickman central venous catheter.,2.  surgeon-interpreted fluoroscopy.,operation in detail:,  after obtaining informed consent from the patient, including a thorough explanation of the risks and benefits of the aforementioned procedure, the patient was taken to the operating room and anesthesia was administered.  next, a #18-gauge needle was used to locate the subclavian vein.  after aspiration of venous blood, a j wire was inserted through the needle using seldinger technique.  the needle was withdrawn.  the distal tip location of the j wire was confirmed to be in adequate position with surgeon-interpreted fluoroscopy.  next, a separate stab incision was made approximately 3 fingerbreadths below the wire exit site.  a subcutaneous tunnel was created, and the distal tip of the hickman catheter was pulled through the tunnel to the level of the cuff.  the catheter was cut to the appropriate length.  a dilator and sheath were passed over the j wire.  the dilator and j wire were removed, and the distal tip of the hickman catheter was threaded through the sheath, which was simultaneously withdrawn.  the catheter was flushed and aspirated without difficulty.  the distal tip was confirmed to be in good location with surgeon-interpreted fluoroscopy.  a 2-0 nylon was used to secure the cuff down to the catheter at the skin level.  the skin stab site was closed with a 4-0 monocryl.  the instrument and sponge count was correct at the end of the case.  the patient tolerated the procedure well and was transferred to the postanesthesia recovery area in good condition.
+
+ICD-10 Suggestions:
+ - S25309D : Unspecified injury of unspecified innominate or subclavian vein, subsequent encounter (score=0.927)
+ - S25302D : Unspecified injury of left innominate or subclavian vein, subsequent encounter (score=0.920)
+ - S25301D : Unspecified injury of right innominate or subclavian vein, subsequent encounter (score=0.915)
+ - S25319D : Minor laceration of unspecified innominate or subclavian vein, subsequent encounter (score=0.907)
+ - S25311D : Minor laceration of right innominate or subclavian vein, subsequent encounter (score=0.898)
+

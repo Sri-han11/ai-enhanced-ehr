@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is 61 years of age. He has chest pain and non-q-wave mi with elevation of troponin I only. The patient was sedated with sevoflurane and propofol. One ml of 1% lidocaine was used for airway anesthesia. The 2.8-mm flexible pediatric bronchoscope was passed through the left naris. The upper airway was visualized. The epiglottis, arytenoids, and vocal cords were all normal. The scope was passed below the cords. The subglottic space was normal. The patient had normal tracheal rings and a normal membranous portion of the trachea. There was noted to be slight deviation of the trachea to the right. At the carina, the right and left mainstem were evaluated. The right upper lobe and right middle lobe were all anatomically normal. The scope was wedged in the right middle lobe, 10 ml of saline was infused, 10 was returned. This was sent for cell count, cytology, lipid index, and quantitative bacterial cultures. The left side was then evaluated and there was also noted to be some dynamic collapse of the left mainstem during the respiratory cycle. The left upper lobe and left lower lobe were all anatomically normal. The scope was wedged in the right middle lobe, 10 ml of saline was infused, 10 was returned. This was sent for cell count, cytology, lipid index, and quantitative bacterial cultures. The left side was then evaluated and there was also noted to be some dynamic collapse of the left mainstem during the respiratory cycle.
+
+=== SOAP SUMMARY ===
+The patient is 61 years of age. He has chest pain and non-q-wave mi with elevation of troponin I only. He was sedated with sevoflurane and propofol. One ml of 1% lidocaine was used for airway anesthesia. The 2.8-mm flexible pediatric bronchoscope was passed through the left naris.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT183_001
+Date: 2025-11-02
+
+SUBJECTIVE:
+chest pain and non-q-wave mi with elevation of troponin i only. left heart catheterization, left ventriculography, and left and right coronary arteriography.
+
+OBJECTIVE:
+Vitals: trestbps=130; chol=330; fbs=0; restecg=0; thalach=169; exang=0; oldpeak=0.0; slope=2; ca=0; thal=2
+Lab: heart catheterization - 1
+
+ASSESSMENT:
+The patient is 61 years of age. He has chest pain and non-q-wave mi with elevation of troponin I only. He was sedated with sevoflurane and propofol. One ml of 1% lidocaine was used for airway anesthesia. The 2.8-mm flexible pediatric bronchoscope was passed through the left naris.
+
+PLAN:
+procedure:, flexible bronchoscopy.,preoperative diagnosis (es):, chronic wheezing.,indications for procedure:, evaluate the airway.,description of procedure: ,this was done in the pediatric endoscopy suite with the aid of anesthesia. the patient was sedated with sevoflurane and propofol. one ml of 1% lidocaine was used for airway anesthesia. the 2.8-mm flexible pediatric bronchoscope was passed through the left naris. the upper airway was visualized. the epiglottis, arytenoids, and vocal cords were all normal. the scope was passed below the cords. the subglottic space was normal. the patient had normal tracheal rings and a normal membranous portion of the trachea. there was noted to be slight deviation of the trachea to the right. at the carina, the right and left mainstem were evaluated. the right upper lobe, right middle lobe, and right lower lobe were all anatomically normal. the scope was wedged in the right middle lobe, 10 ml of saline was infused, 10 was returned. this was sent for cell count, cytology, lipid index, and quantitative bacterial cultures. the left side was then evaluated and there was noted to be the normal cardiac pulsations on the left. there was also noted to be some dynamic collapse of the left mainstem during the respiratory cycle. the left upper lobe and left lower lobe were normal. the scope was withdrawn. the patient tolerated the procedure well.,endoscopic diagnosis:, left mainstem bronchomalacia.
+
+ICD-10 Suggestions:
+ - T410X5D : Adverse effect of inhaled anesthetics, subsequent encounter (score=0.775)
+ - T410X5A : Adverse effect of inhaled anesthetics, initial encounter (score=0.769)
+ - T410X5S : Adverse effect of inhaled anesthetics, sequela (score=0.652)
+ - S27409D : Unspecified injury of bronchus, unspecified, subsequent encounter (score=0.385)
+ - S27402D : Unspecified injury of bronchus, bilateral, subsequent encounter (score=0.374)
+

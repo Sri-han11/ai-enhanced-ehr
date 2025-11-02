@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 9-year-old born with pulmonary atresia, intact ventricular septum with coronary sinusoids. The patient was prepped and draped in sterile fashion. The left subclavian vein was cannulated with a wire. Fluoroscopic confirmation of the wire in appropriate position was performed. then catheter was inserted after subcutaneous pocket was created, the sheath dilators were advanced, and the wire and dilator were removed. once the catheter was advanced through the sheath, the sheath was peeled away. catheter was left in place, which was attached to hub, placed in the subcutaneous pocket, sewn in place with 2-0 silk sutures, and then all hemostasis was further reconfirmed. no hemorrhage was identified. the port was in appropriate position with fluoroscopic confirmation. the wound was closed in 2 layers, the 1st layer being 3-0 vicryl, the 2nd layer being 4-0 monocryl subcuticular stitch. dressed with steri-strips and 4 x 4's. port was checked. had good blood return, flushed readily with heparinized saline.
+
+=== SOAP SUMMARY ===
+The patient is a 9-year-old born with pulmonary atresia, intact ventricular septum with coronary sinusoids. The left subclavian vein was cannulated with a wire. The wound was closed in 2 layers, the 1st layer being 3-0 vicryl, the 2nd layer being 4-0 monocryl subcuticular stitch.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT082_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+the patient is a 9-year-old born with pulmonary atresia, intact ventricular septum with coronary sinusoids.
+
+OBJECTIVE:
+Vitals: trestbps=128; chol=308; fbs=0; restecg=0; thalach=170; exang=0; oldpeak=0.0; slope=2; ca=0; thal=2
+Lab: pulmonary atresia
+
+ASSESSMENT:
+The patient is a 9-year-old born with pulmonary atresia, intact ventricular septum with coronary sinusoids. The left subclavian vein was cannulated with a wire. The wound was closed in 2 layers, the 1st layer being 3-0 vicryl, the 2nd layer being 4-0 monocryl subcuticular stitch.
+
+PLAN:
+procedure performed: , port-a-cath insertion.,anesthesia: , mac.,complications: , none.,estimated blood loss:  ,minimal.,procedure in detail:  ,patient was prepped and draped in sterile fashion.  the left subclavian vein was cannulated with a wire.  fluoroscopic confirmation of the wire in appropriate position was performed.  then catheter was inserted after subcutaneous pocket was created, the sheath dilators were advanced, and the wire and dilator were removed.  once the catheter was advanced through the sheath, the sheath was peeled away.  catheter was left in place, which was attached to hub, placed in the subcutaneous pocket, sewn in place with 2-0 silk sutures, and then all hemostasis was further reconfirmed.  no hemorrhage was identified.  the port was in appropriate position with fluoroscopic confirmation.  the wound was closed in 2 layers, the 1st layer being 3-0 vicryl, the 2nd layer being 4-0 monocryl subcuticular stitch.  dressed with steri-strips and 4 x 4's.  port was checked.  had good blood return, flushed readily with heparinized saline.
+
+ICD-10 Suggestions:
+ - Q255 :    Atresia of pulmonary artery (score=0.931)
+ - S25302D : Unspecified injury of left innominate or subclavian vein, subsequent encounter (score=0.729)
+ - Q2113 :   Coronary sinus atrial septal defect (score=0.705)
+ - S25302A : Unspecified injury of left innominate or subclavian vein, initial encounter (score=0.687)
+ - S25309D : Unspecified injury of unspecified innominate or subclavian vein, subsequent encounter (score=0.643)
+

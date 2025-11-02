@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT049 is a 53-year-old male with chest pain, hypertension, type ii diabetes mellitus, and aortic stenosis. The patient was stressed by dobutamine infusion at a rate of 10 mcg/kg/minute for three minutes, 20 mcg/kg/minute for three minutes, and 30 mcg/kg/minute for three additional minutes. Atropine 0.25 mg was given intravenously eight minutes into the dobutamine infusion. The resting electrocardiogram reveals a regular sinus rhythm with heart rate of 86 beats per minute, qs pattern in leads v1 and v2, and diffuse nonspecific t wave abnormality. The heart rate increased from 86 beats per minute to 155 beats per minute, which is about 90% of the maximum predicted target heart rate. The blood pressure increased from 130/80 to 160/70. a maximum of 1 mm j-junctional depression was seen with fast up sloping st segments during dobutamine infusion or during the recovery process.
+
+=== SOAP SUMMARY ===
+Patient PAT049 is a 53-year-old male with chest pain, hypertension, type ii diabetes mellitus, and aortic stenosis. The patient was stressed by dobutamine infusion at a rate of 10 mcg/kg/minute for three minutes. Atropine 0.25 mg was given intravenously eight minutes into the dobutamines infusion. A maximum of 1 mm j-junctional depression was seen.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT049_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+thallium stress test for chest pain.
+
+OBJECTIVE:
+Vitals: trestbps=128; chol=216; fbs=0; restecg=0; thalach=115; exang=0; oldpeak=0.0; slope=2; ca=0; thal=0
+Lab: stress test thallium
+
+ASSESSMENT:
+Patient PAT049 is a 53-year-old male with chest pain, hypertension, type ii diabetes mellitus, and aortic stenosis. The patient was stressed by dobutamine infusion at a rate of 10 mcg/kg/minute for three minutes. Atropine 0.25 mg was given intravenously eight minutes into the dobutamines infusion. A maximum of 1 mm j-junctional depression was seen.
+
+PLAN:
+indications:  ,chest pain, hypertension, type ii diabetes mellitus.,procedure done:,  dobutamine myoview stress test.,stress ecg results:,  the patient was stressed by dobutamine infusion at a rate of 10 mcg/kg/minute for three minutes, 20 mcg/kg/minute for three minutes, and 30 mcg/kg/minute for three additional minutes.  atropine 0.25 mg was given intravenously eight minutes into the dobutamine infusion.  the resting electrocardiogram reveals a regular sinus rhythm with heart rate of 86 beats per minute, qs pattern in leads v1 and v2, and diffuse nonspecific t wave abnormality.  the heart rate increased from 86 beats per minute to 155 beats per minute, which is about 90% of the maximum predicted target heart rate.  the blood pressure increased from 130/80 to 160/70.  a maximum of 1 mm j-junctional depression was seen with fast up sloping st segments during dobutamine infusion.  no ischemic st segment changes were seen during dobutamine infusion or during the recovery process.,myocardial perfusion imaging:,  resting myocardial perfusion spect imaging was carried out with 10.9 mci of tc-99m myoview.  dobutamine infusion myocardial perfusion imaging and gated scan were carried out with 29.2 mci of tc-99m myoview.  the lung heart ratio is 0.36.  myocardial perfusion images were normal both at rest and with stress.  gated myocardial scan revealed normal regional wall motion and ejection fraction of 67%.,conclusions:,1.  stress test is negative for dobutamine-induced myocardial ischemia.,2.  normal left ventricular size, regional wall motion, and ejection fraction.
+
+ICD-10 Suggestions:
+ - I952 :    Hypotension due to drugs (score=0.928)
+ - T45625D : Adverse effect of hemostatic drug, subsequent encounter (score=0.912)
+ - F430 :    Acute stress reaction (score=0.883)
+ - T45625A : Adverse effect of hemostatic drug, initial encounter (score=0.871)
+ - T8090XD : Unspecified complication following infusion and therapeutic injection, subsequent encounter (score=0.836)
+

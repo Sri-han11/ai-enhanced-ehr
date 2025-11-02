@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT169 is a 63-year-old male with a history of respiratory failure, hypotension, anemia, anasarca, end-stage liver disease, drawn out process, bowel obstruction, blood pressure, dopamine, and discharge. The patient underwent left heart catheterization with ventriculography, selective coronary arteriographies, and successful stenting of the left anterior descending diagonal.
+
+=== SOAP SUMMARY ===
+Patient PAT169 has a history of respiratory failure, hypotension, anemia, anasarca, end-stage liver disease, drawn out process, bowel obstruction, blood pressure, dopamine, and discharge. The patient underwent left heart catheterization with ventriculography, selective coronary arteriographies, and successful stenting of the left anterior descending diagonal.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT169_001
+Date: 2025-11-02
+
+SUBJECTIVE:
+left heart catheterization with ventriculography, selective coronary arteriographies, successful stenting of the left anterior descending diagonal.
+
+OBJECTIVE:
+Vitals: trestbps=130; chol=254; fbs=0; restecg=0; thalach=147; exang=0; oldpeak=1.4; slope=1; ca=1; thal=3
+Lab: heart catheterization, ventriculography, & angiography - 2
+
+ASSESSMENT:
+Patient PAT169 has a history of respiratory failure, hypotension, anemia, anasarca, end-stage liver disease, drawn out process, bowel obstruction, blood pressure, dopamine, and discharge. The patient underwent left heart catheterization with ventriculography, selective coronary arteriographies, and successful stenting of the left anterior descending diagonal.
+
+PLAN:
+name of procedures,1.  selective coronary angiography.,2.  left heart catheterization.,3.  left ventriculography.,procedure in detail:  ,the right groin was sterilely prepped and draped in the usual fashion.  the area of the right coronary artery was anesthetized with 2% lidocaine and a 4-french sheath was placed.  conscious sedation was obtained using a combination of versed 1 mg and fentanyl 50 mcg.  a left #4, 4-french, judkins catheter was placed and advanced through the ostium of the left main coronary artery.  because of difficulty positioning the catheter, the catheter was removed and a 6-french sheath was placed and a 6-french #4 left judkins catheter was placed.  this was advanced through the ostium of the left main coronary artery where selective angiograms were performed.  following this, the 4-french right judkins catheter was placed and angiograms of the right coronary were performed.  a pigtail catheter was placed and a left heart catheterization was performed, followed by a left ventriculogram.  the left heart pullback was performed.  the catheter was removed and a small injection of contrast was given to the sheath.  the sheath was removed over a wire and an angio-seal was placed.  there were no complications.  total contrast media was 200 ml of optiray 350.  fluoroscopy time 5.3 minutes.  total x-ray dose is 1783 mgy.,hemodynamics:  ,rhythm is sinus throughout the procedure.  lv pressure of 155/22 mmhg, aortic pressure of 160/80 mmhg.  lv pullback demonstrates no gradient.,the right coronary artery is a nondominant vessel and free of disease.  this also gives rise to the conus branch and two rv free wall branches.  the left main has minor plaquing in the inferior aspect measuring no more than 10% to 15%.  this vessel then bifurcates into the lad and circumflex.  the circumflex is a large caliber vessel and is dominant.  this vessel gives rise to a large first marginal artery, a moderate sized second marginal branch, and additionally gives rise to a large third marginal artery and the pda.  there was a very eccentric and severe stenosis in the proximal circumflex measuring approximately 90% in severity.  the origin of the first marginal artery has a severe stenosis measuring approximately 90% in severity.  the distal circumflex has a 60% lesion just prior to the origin of the third marginal branch and pda.,the proximal lad is ectatic.  the lad gives rise to a large first diagonal artery that has a 90% lesion in its origin and a subtotal occlusion midway down the diagonal.  distal to the origin of this diagonal branch, there is another area of ectasia in the lad, followed by an area of stenosis that in some views is approximately 50% in severity.,the left ventriculogram demonstrates hypokinesis of the distal half of the inferior wall.  the overall ejection fraction is preserved.  there is moderate dilatation of the aortic root.  the calculated ejection fraction is 63%.,impression,1.  left ventricular dysfunction as evidenced by increased left ventricular end diastolic pressure and hypokinesis of the distal inferior wall.,2.  coronary artery disease with high-grade and complex lesion in the proximal portion of the dominant large circumflex coronary artery.  there is subtotal stenosis at the origin of the first obtuse marginal artery.,3.  a 60% stenosis in the distal circumflex.,4.  ectasia of the proximal left anterior descending with 50% stenosis in the mid left anterior descending.,5.  severe stenosis at the origin of the large diagonal artery and subtotal stenosis in the mid segment of this diagonal branch.
+
+ICD-10 Suggestions:
+ - K7681 :   Hepatopulmonary syndrome (score=0.503)
+ - S36118S : Other injury of liver, sequela (score=0.481)
+ - B572 :    Chagas' disease (chronic) with heart involvement (score=0.474)
+ - Y840 :    Cardiac catheterization as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure (score=0.370)
+ - K9183 :   Postprocedural hepatorenal syndrome (score=0.285)
+

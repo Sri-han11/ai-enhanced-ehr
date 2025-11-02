@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is 45 years old and has a history of lung mass and pleural effusion. The patient had a chest tube placement, which has been taken out. The patient has chronic atrial fibrillation, on anticoagulation. The patient is doing fairly well. This afternoon, she called me because heart rate was in the range of 120 to 140. The patient is lying down. She does have shortness of breath, but denies any other significant symptoms.
+
+=== SOAP SUMMARY ===
+The patient is 45 years old and has a history of lung mass and pleural effusion. The patient had a chest tube placement, which has been taken out. She has chronic atrial fibrillation, on anticoagulation. This afternoon, she called me because heart rate was in the range of 120 to 140.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT058_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+chest, single view post op for asd (atrial septal defect).
+
+OBJECTIVE:
+Vitals: trestbps=115; chol=260; fbs=0; restecg=0; thalach=185; exang=0; oldpeak=0.0; slope=2; ca=0; thal=2
+Lab: single frontal view of chest
+
+ASSESSMENT:
+The patient is 45 years old and has a history of lung mass and pleural effusion. The patient had a chest tube placement, which has been taken out. She has chronic atrial fibrillation, on anticoagulation. This afternoon, she called me because heart rate was in the range of 120 to 140.
+
+PLAN:
+subjective:,  the patient is admitted for lung mass and also pleural effusion.  the patient had a chest tube placement, which has been taken out.  the patient has chronic atrial fibrillation, on anticoagulation.  the patient is doing fairly well.  this afternoon, she called me because heart rate was in the range of 120 to 140.  the patient is lying down.  she does have shortness of breath, but denies any other significant symptoms.,past medical history:,  history of mastectomy, chest tube placement, and atrial fibrillation; chronic.,medications:,1.  cardizem, which is changed to 60 mg p.o. t.i.d.,2.  digoxin 0.25 mg daily.,3.  coumadin, adjusted dose.,4.  clindamycin.,physical examination,vital signs:  pulse 122 and blood pressure 102/68.,lungs:  air entry decreased.,heart:  pmi is displaced.  s1 and s2 are irregular.,abdomen:  soft and nontender.,impression:,1.  pulmonary disorder with lung mass.,2.  pleural effusion.,3.  chronic uncontrolled atrial fibrillation secondary to pulmonary disorder.,recommendations:,1.  from cardiac standpoint, follow with pulmonary treatment.,2.  the patient has an inr of 2.09.  she is on anticoagulation.  atrial fibrillation is chronic with the rate increased.,adjust the medications accordingly as above.
+
+ICD-10 Suggestions:
+ - R009 :    Unspecified abnormalities of heart beat (score=0.971)
+ - I253 :    Aneurysm of heart (score=0.694)
+ - I4820 :   Chronic atrial fibrillation, unspecified (score=0.659)
+ - J9381 :   Chronic pneumothorax (score=0.572)
+ - I2722 :   Pulmonary hypertension due to left heart disease (score=0.531)
+

@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 38-year-old female with a history of rheumatoid arthritis and preeclampsia. She was admitted following a cesarean section. She was diagnosed with pneumonia, failed outpatient treatment, hypoxia, and rheumatoid arthritis. She is on 20 mg of methotrexate every week as well as remicade every eight weeks. Her fever broke 18 hours prior to discharge, and o2 saturations improved, as did her overall strength and clinical status. She was instructed to finish azithromycin. She has two pills left at home. She is to follow up with dr. x in two to three days. Because she is on chronic prednisone therapy, it was suspected that she was mildly adrenal insufficient from the stress of her pneumonia. She is to continue the increased dose of prednisone at 20 mg (up from 5 mg per day). We will consult her rheumatologist as to whether to continue her methotrexate, which we held this past friday. methotrexate is known on some occasions to cause pneumonitis.
+
+=== SOAP SUMMARY ===
+The patient is a 38-year-old female with a history of rheumatoid arthritis and preeclampsia. She was admitted following a cesarean section and diagnosed with pneumonia, failed outpatient treatment, and hypoxia. Her fever broke 18 hours prior to discharge, and o2 saturations improved, as did her overall strength.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT088_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+preeclampsia, status post delivery with cesarean section with uncontrolled blood pressure. the patient is a 38-year-old female admitted following a delivery. the patient had a cesarean section. following this, the patient wa treated for her blood pressure. she wa sent home and she came back again apparently with uncontrolled blood pressure.
+
+OBJECTIVE:
+Vitals: trestbps=101; chol=197; fbs=1; restecg=1; thalach=156; exang=0; oldpeak=0.0; slope=2; ca=0; thal=3
+Lab: preeclampsia
+
+ASSESSMENT:
+The patient is a 38-year-old female with a history of rheumatoid arthritis and preeclampsia. She was admitted following a cesarean section and diagnosed with pneumonia, failed outpatient treatment, and hypoxia. Her fever broke 18 hours prior to discharge, and o2 saturations improved, as did her overall strength.
+
+PLAN:
+admission diagnoses:,1.  pneumonia, failed outpatient treatment.,2.  hypoxia.,3.  rheumatoid arthritis.,discharge diagnoses:,1.  atypical pneumonia, suspected viral.,2.  hypoxia.,3.  rheumatoid arthritis.,4.  suspected mild stress-induced adrenal insufficiency.,hospital course: , this very independent 79-year old had struggled with cough, fevers, weakness, and chills for the week prior to admission.  she was seen on multiple occasions at urgent care and in her physician's office.  initial x-ray showed some mild diffuse patchy infiltrates.  she was first started on avelox, but had a reaction, switched to augmentin, which caused loose stools, and then three days prior to admission was given daily 1 g rocephin and started on azithromycin.  her o2 saturations drifted downward.  they were less than 88% when active; at rest, varied between 88% and 92%.  decision was made because of failed outpatient treatment of pneumonia.  her medical history is significant for rheumatoid arthritis.  she is on 20 mg of methotrexate every week as well as remicade every eight weeks.  her last dose of remicade was in the month of june.  hospital course was relatively unremarkable.  ct scan was performed and no specific focal pathology was seen.  dr. x, pulmonologist was consulted.  he also was uncertain as to the exact etiology, but viral etiology was most highly suspected.  because of her loose stools, c. difficile toxin was ordered, although that is pending at the time of discharge.  she was continued on rocephin iv and azithromycin.  her fever broke 18 hours prior to discharge, and o2 saturations improved, as did her overall strength and clinical status.  she was instructed to finish azithromycin.  she has two pills left at home.  she is to follow up with dr. x in two to three days.  because she is on chronic prednisone therapy, it was suspected that she was mildly adrenal insufficient from the stress of her pneumonia.  she is to continue the increased dose of prednisone at 20 mg (up from 5 mg per day).  we will consult her rheumatologist as to whether to continue her methotrexate, which we held this past friday.  methotrexate is known on some occasions to cause pneumonitis.
+
+ICD-10 Suggestions:
+ - R5082 :   Postprocedural fever (score=0.568)
+ - M06842 :  Other specified rheumatoid arthritis, left hand (score=0.134)
+ - M059 :    Rheumatoid arthritis with rheumatoid factor, unspecified (score=0.123)
+ - J182 :    Hypostatic pneumonia, unspecified organism (score=0.122)
+ - M0520 :   Rheumatoid vasculitis with rheumatoid arthritis of unspecified site (score=0.090)
+

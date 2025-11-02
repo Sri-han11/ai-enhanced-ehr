@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT148 is a 60-year-old female with a history of ischemic cardiac disease and hypercholesterolemia. She had a left lower lobe resection.
+
+=== SOAP SUMMARY ===
+Patient PAT148 is a 60-year-old female with a history of ischemic cardiac disease and hypercholesterolemia. She had a left lower lobe resection. She was admitted to the hospital with a low blood pressure and a low heart rate. She is now recovering in stable condition.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT148_001
+Date: 2025-11-02
+
+SUBJECTIVE:
+patient with a history of ischemic cardiac disease and hypercholesterolemia.
+
+OBJECTIVE:
+Vitals: trestbps=150; chol=240; fbs=0; restecg=1; thalach=171; exang=0; oldpeak=0.9; slope=2; ca=0; thal=2
+Lab: ischemic cardiac disease - progress note
+
+ASSESSMENT:
+Patient PAT148 is a 60-year-old female with a history of ischemic cardiac disease and hypercholesterolemia. She had a left lower lobe resection. She was admitted to the hospital with a low blood pressure and a low heart rate. She is now recovering in stable condition.
+
+PLAN:
+clinical history: , patient is a 37-year-old female with a history of colectomy for adenoma.  during her preop evaluation it was noted that she had a lesion on her chest x-ray.  ct scan of the chest confirmed a left lower mass.,specimen: , lung, left lower lobe resection.,immunohistochemical studies:,  tumor cells show no reactivity with cytokeratin ae1/ae3.  no significant reactivity with cam5.2 and no reactivity with cytokeratin-20 are seen.  tumor cells show partial reactivity with cytokeratin-7.  pas with diastase demonstrates no convincing intracytoplasmic mucin.  no neuroendocrine differentiation is demonstrated with synaptophysin and chromogranin stains.  tumor cells show cytoplasmic and nuclear reactivity with s100 antibody.  no significant reactivity is demonstrated with melanoma marker hmb-45 or melan-a.  tumor cell nuclei (spindle cell and pleomorphic/giant cell carcinoma components) show nuclear reactivity with thyroid transcription factor marker (ttf-1).  the immunohistochemical studies are consistent with primary lung sarcomatoid carcinoma with pleomorphic/giant cell carcinoma and spindle cell carcinoma components.,final diagnosis:,histologic tumor type:  sarcomatoid carcinoma with areas of pleomorphic/giant cell carcinoma and spindle cell carcinoma.,tumor size:  2.7 x 2.0 x 1.4 cm.,visceral pleura involvement:  the tumor closely approaches the pleural surface but does not invade the pleura.,vascular invasion:  present.,margins:  bronchial resection margins and vascular margins are free of tumor.,lymph nodes:  metastatic sarcomatoid carcinoma into one of four hilar lymph nodes.,pathologic stage:  pt1n1mx.
+
+ICD-10 Suggestions:
+ - I255 :    Ischemic cardiomyopathy (score=0.953)
+ - Z83430 :  Family history of elevated lipoprotein(a) (score=0.552)
+ - I252 :    Old myocardial infarction (score=0.290)
+ - I259 :    Chronic ischemic heart disease, unspecified (score=0.259)
+ - E7889 :   Other lipoprotein metabolism disorders (score=0.258)
+

@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+                                                                                                                                                                                               
+
+=== SOAP SUMMARY ===
+Mr. and Mrs. Smith have been married for more than 30 years. The couple have two children, a son and a daughter. Mr. Smith has been married to his wife for 30 years, and the couple have three children. They have been together since the early 1990s. The family has been through a lot of changes.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT111_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+implantation of a dual chamber permanent pacemaker
+
+OBJECTIVE:
+Vitals: trestbps=180; chol=325; fbs=0; restecg=1; thalach=154; exang=1; oldpeak=0.0; slope=2; ca=0; thal=2
+Lab: pacemaker (dual chamber)
+
+ASSESSMENT:
+Mr. and Mrs. Smith have been married for more than 30 years. The couple have two children, a son and a daughter. Mr. Smith has been married to his wife for 30 years, and the couple have three children. They have been together since the early 1990s. The family has been through a lot of changes.
+
+PLAN:
+medications: , plavix, atenolol, lipitor, and folic acid.,clinical history:  ,this is a 41-year-old male patient who comes in with chest pain, had had a previous mi in 07/2003 and stents placement in 2003, who comes in for a stress myocardial perfusion scan.,with the patient at rest, 10.3 mci of cardiolite technetium-99 m sestamibi was injected and myocardial perfusion imaging was obtained.,procedure and interpretation:  ,the patient exercised for a total of 12 minutes on the standard bruce protocol.  the peak workload was 12.8 mets.  the resting heart rate was 57 beats per minute and the peak heart rate was 123 beats per minute, which was 69% of the age-predicted maximum heart rate response.  the blood pressure response was normal with a resting blood pressure of 130/100 and a peak blood pressure of 158/90.  the test was stopped due to fatigue and leg pain.  ekg at rest showed normal sinus rhythm.  the peak stress ekg did not reveal any ischemic st-t wave abnormalities.  there was ventricular bigeminy seen during exercise, but no sustained tachycardia was seen.  at peak, there was no chest pain noted.  the test was stopped due to fatigue and left pain.  at peak stress, the patient was injected with 30.3 mci of cardiolite technetium-99 m sestamibi and myocardial perfusion imaging was obtained, and was compared to resting myocardial perfusion imaging.,myocardial perfusion imaging:,1.  the overall quality of the scan was good.,2.  there was no diagnostic abnormality on the rest and stress myocardial perfusion imaging.,3.  the left ventricular cavity appeared normal in size.,4.  gated spect images revealed mild septal hypokinesis and mild apical hypokinesis.  overall left ventricular systolic function was low normal with calculated ejection fraction of 46% at rest.,conclusions:,1.  good exercise tolerance.,2.  less than adequate cardiac stress.  the patient was on beta-blocker therapy.,3.  no ekg evidence of stress induced ischemia.,4.  no chest pain with stress.,5.  mild ventricular bigeminy with exercise.,6.  no diagnostic abnormality on the rest and stress myocardial perfusion imaging.,7.  gated spect images revealed septal and apical hypokinesis with overall low normal left ventricular systolic function with calculated ejection fraction of 46% at rest.
+
+ICD-10 Suggestions:
+ - Z630 :    Problems in relationship with spouse or partner (score=0.763)
+ - Z843 :    Family history of consanguinity (score=0.742)
+ - Z62831 :  Non-parental relative-child conflict (score=0.642)
+ - Z8489 :   Family history of other specified conditions (score=0.542)
+ - S52549H : Smith's fracture of unspecified radius, subsequent encounter for open fracture type I or II with delayed healing (score=0.538)
+

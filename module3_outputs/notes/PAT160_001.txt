@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 56-year-old male with a history of metastatic osteogenic sarcoma, respiratory failure, bowel obstruction, blood pressure, endotracheal intubation, endotracheal, sarcoma. The patient has a right coronary artery with an unusual high anterior takeoff. The right coronary artery is nondominant, has diffuse mild-to-moderate disease. The left main trunk has a 30% to 40% distal narrowing. The left anterior descending has a large obtuse marginal branch. The small posterior lateral branch has diffuse mild disease and then the vessel gives rise to a fairly large posterior ventricular branch, which has 70% ostial narrowing, and then after this the posterior descending has 80% narrowing at its origin. The left ventriculogram is normal volume in diastole and systole. Normal systolic function is present. There is no mitral insufficiency or left ventricular outflow obstruction. The patient will be reviewed with a cardiac surgeon.
+
+=== SOAP SUMMARY ===
+The patient is a 56-year-old male with a history of metastatic osteogenic sarcoma. The right coronary artery is nondominant, has diffuse mild-to-moderate disease. The left main trunk has a 30% to 40% distal narrowing. There is no mitral insufficiency or left ventricular outflow obstruction.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT160_001
+Date: 2025-11-02
+
+SUBJECTIVE:
+left heart catheterization, coronary angiography, and left ventriculogram. no angiographic evidence of coronary artery disease. normal left ventricular systolic function. normal left ventricular end diastolic pressure.
+
+OBJECTIVE:
+Vitals: trestbps=130; chol=221; fbs=0; restecg=0; thalach=163; exang=0; oldpeak=0.0; slope=2; ca=0; thal=3
+Lab: heart catheterization, ventriculography, & angiography - 8
+
+ASSESSMENT:
+The patient is a 56-year-old male with a history of metastatic osteogenic sarcoma. The right coronary artery is nondominant, has diffuse mild-to-moderate disease. The left main trunk has a 30% to 40% distal narrowing. There is no mitral insufficiency or left ventricular outflow obstruction.
+
+PLAN:
+procedure: , left heart catheterization, coronary angiography, left ventriculography.,complications: , none.,procedure detail: , the right femoral area was draped and prepped in the usual fashion after xylocaine infiltration.  a 6-french arterial sheath was placed in the usual fashion.  left and right coronary angiograms were then performed in various projections after heparin was given 2000 units intraaortic.  the right coronary artery was difficult to cannulate because of its high anterior takeoff.  this was nondominant.  several catheters were used.  ultimately, an al1 diagnostic catheter was used.  a pigtail catheter was advanced across the aortic valve.  left ventriculogram was then done in the rao view using 30 ml of contrast.  pullback gradient was obtained across the aortic valve.  femoral angiogram was performed through the sheath which was above the bifurcation, was removed with a perclose device with good results.  there were no complications.  he tolerated this procedure well and returned to his room in good condition.,findings,1.  right coronary artery:  this has an unusual high anterior takeoff.  the vessel is nondominant, has diffuse mild-to-moderate disease.,2.  left main trunk:  a 30% to 40% distal narrowing is present.,3.  left anterior descending:  just at the ostium of the vessel and up to and including the bifurcation of the first large diagonal branch, there is 80 to 90% narrowing.  the diagonal is a large vessel about 3 mm in size.,4.  circumflex:  dominant vessel, 50% narrowing at the origin of the obtuse marginal.  after this, there is 40% narrowing in the av trunk.  the small posterior lateral branch has diffuse mild disease and then the vessel gives rise to a fairly large posterior ventricular branch, which has 70% ostial narrowing, and then after this the posterior descending has 80% narrowing at its origin.,5.  left ventriculogram:  normal volume in diastole and systole.  normal systolic function is present.  there is no mitral insufficiency or left ventricular outflow obstruction.,diagnoses,1.  severe complex left anterior descending and distal circumflex disease with borderline, probably moderate narrowing of a large obtuse marginal branch.  dominant circumflex system.  severe disease of the posterior descending.  mild left main trunk disease.,2.  normal left ventricular systolic function.,given the complex anatomy of the predominant problem which is the left anterior descending; given its ostial stenosis and involvement of the bifurcation of the diagonal, would recommend coronary bypass surgery.  the patient also has severe disease of the circumflex which is dominant.  this anatomy is not appropriate for percutaneous intervention.  the case will be reviewed with a cardiac surgeon.
+
+ICD-10 Suggestions:
+ - R931 :    Abnormal findings on diagnostic imaging of heart and coronary circulation (score=0.907)
+ - S25892D : Other specified injury of other blood vessels of thorax, left side, subsequent encounter (score=0.730)
+ - S25892S : Other specified injury of other blood vessels of thorax, left side, sequela (score=0.541)
+ - S25892A : Other specified injury of other blood vessels of thorax, left side, initial encounter (score=0.507)
+ - S25891S : Other specified injury of other blood vessels of thorax, right side, sequela (score=0.363)
+

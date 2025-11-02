@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is an 84-year-old female with chest pain and shortness of breath, possibly secondary to pulmonary disorder. She has elevated white count, possible infection, and pericardial effusion without any hemodynamic compromise.
+
+=== SOAP SUMMARY ===
+The patient is an 84-year-old female with chest pain and shortness of breath, possibly secondary to pulmonary disorder. She has elevated white count, possible infection, and pericardial effusion without any hemodynamic compromise. For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT097_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+six-month follow-up visit for paroxysmal atrial fibrillation (paf). she report that she is getting occasional chest pain with activity. sometimes she feel that at night when she is lying in bed and it concern her.
+
+OBJECTIVE:
+Vitals: trestbps=140; chol=394; fbs=0; restecg=0; thalach=157; exang=0; oldpeak=1.2; slope=1; ca=0; thal=2
+Lab: paf - 6-month followup
+
+ASSESSMENT:
+The patient is an 84-year-old female with chest pain and shortness of breath, possibly secondary to pulmonary disorder. She has elevated white count, possible infection, and pericardial effusion without any hemodynamic compromise. For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.
+
+PLAN:
+reason for consultation:,  pericardial effusion.,history of present illness: , the patient is an 84-year-old female presented to emergency room with shortness of breath, fatigue, and tiredness.  low-grade fever was noted last few weeks.  the patient also has chest pain described as dull aching type in precordial region.  no relation to exertion or activity.  no aggravating or relieving factors.  a ct of the chest was done, which shows pericardial effusion.  this consultation is for the same.  the patient denies any lightheadedness or dizziness.  no presyncope or syncope.  activity is fairly stable.,coronary risk factors: , history of borderline hypertension.  no history of diabetes mellitus.  nonsmoker.  cholesterol status is within normal limits.  no history of established coronary artery disease.  family history noncontributory.,family history: , nonsignificant.,past surgical history:  ,hysterectomy and bladder surgery.,medications at home:  ,aspirin and thyroid supplementation.,allergies:,  none.,personal history:,  she is a nonsmoker.  she does not consume alcohol.  no history of recreational drug use.,past medical history:,1.  hypothyroidism.,2.  borderline hypertension.,3.  arthritis.,4.  presentation at this time with chest pain and shortness of breath.,review of systems,constitutional:  weakness, fatigue, and tiredness.,heent:  no history of cataract, blurring of vision, or glaucoma.,cardiovascular:  chest pain.  no congestive heart failure.  no arrhythmia.,respiratory:  no history of pneumonia in the past, valley fever.,gastrointestinal:  epigastric discomfort.  no hematemesis or melena.,urological:  frequency.  no urgency.  no hematuria.,musculoskeletal:  arthritis and muscle weakness.,cns:  no tia.  no cva.  no seizure disorder.,endocrine:  nonsignificant.,hematological:  nonsignificant.,physical examination,vital signs:  pulse of 86, blood pressure 93/54, afebrile, respiratory rate 16 per minute.,heent:  atraumatic and normocephalic.,neck:  supple.  neck veins flat.  no significant carotid bruit.,lungs:  air entry bilaterally fair.,heart:  pmi displaced.  s1 and s2 regular.,abdomen:  soft and nontender.,extremities:  no edema.  pulses palpable.  no clubbing or cyanosis.,cns:  grossly intact.,laboratory data:  ,white count of 20 and h&h 13 and 39.  bun and creatinine within normal limits.  cardiac enzyme profile negative.,radiographic studies: , ct of the chest preliminary report, pericardial effusion.  echocardiogram shows pericardial effusion, which appears to be chronic.  there is no evidence of hemodynamic compromise.,impression:,1.  the patient is an 84-year-old female admitted with chest pain and shortness of breath, possibly secondary to pulmonary disorder.  she has elevated white count, possible infection.,2.  pericardial effusion without any hemodynamic compromise, could be chronic.
+
+ICD-10 Suggestions:
+ - R071 :    Chest pain on breathing (score=0.994)
+ - R069 :    Unspecified abnormalities of breathing (score=0.989)
+ - J989 :    Respiratory disorder, unspecified (score=0.984)
+ - I279 :    Pulmonary heart disease, unspecified (score=0.980)
+ - I289 :    Disease of pulmonary vessels, unspecified (score=0.966)
+

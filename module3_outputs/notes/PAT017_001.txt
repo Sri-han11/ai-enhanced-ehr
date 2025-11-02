@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 60-year-old female with exacerbation of copd and chf who presented to the operating room by department of otolaryngology and a direct laryngoscope. The patient was noted at that time to have transglottic edema. biopsies were taken. at the time of surgery, it was decided that the patient required a tracheostomy for maintenance of continued ventilation and airway protection. The patient is currently postop day #6 and appears to be unable to be weaned from ventilator at this time and may require prolonged ventricular support. a decision was made to perform tracheostomy change.
+
+=== SOAP SUMMARY ===
+The patient is a 60-year-old female with exacerbation of copd and chf who presented to the operating room by department of otolaryngology and a direct laryngoscope. The patient is currently postop day #6 and appears to be unable to be weaned from ventilator at this time and may require prolonged ventricular support.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT017_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+tracheostomy change. a #6 shiley with proximal extension wa changed to a #6 shiley with proximal extension. ventilator-dependent respiratory failure and laryngeal edema.
+
+OBJECTIVE:
+Vitals: trestbps=120; chol=340; fbs=0; restecg=1; thalach=172; exang=0; oldpeak=0.0; slope=2; ca=0; thal=2
+Lab: tracheostomy change
+
+ASSESSMENT:
+The patient is a 60-year-old female with exacerbation of copd and chf who presented to the operating room by department of otolaryngology and a direct laryngoscope. The patient is currently postop day #6 and appears to be unable to be weaned from ventilator at this time and may require prolonged ventricular support.
+
+PLAN:
+preoperative diagnoses:,1.  ventilator-dependent respiratory failure.,2.  laryngeal edema.,postoperative diagnoses:,1.  ventilator-dependent respiratory failure.,2.  laryngeal edema.,procedure performed: , tracheostomy change.  a #6 shiley with proximal extension was changed to a #6 shiley with proximal extension.,indications: , the patient is a 60-year-old caucasian female who presented to abcd general hospital with exacerbation of copd and chf.  the patient had subsequently been taken to the operating room by department of otolaryngology and a direct laryngoscope was performed.  the patient was noted at that time to have transglottic edema.  biopsies were taken.  at the time of surgery, it was decided that the patient required a tracheostomy for maintenance of continued ventilation and airway protection.  the patient is currently postop day #6 and appears to be unable to be weaned from ventilator at this time and may require prolonged ventricular support.  a decision was made to perform tracheostomy change.,description of procedure: , the patient was seen in the intensive care unit.  the patient was placed in a supine position.  the neck was then extended.  the sutures that were previously in place in the #6 shiley with proximal extension were removed.  the patient was preoxygenated to 100%.  after several minutes, the patient was noted to have a pulse oximetry of 100%.  the iv tubing that was supporting the patient's trache was then cut.  the tracheostomy tube was then suctioned.,the inner cannula was then removed from the tracheostomy and a nasogastric tube was placed down the lumen of the tracheostomy tube as a guidewire.  the tracheostomy tube was then removed over the nasogastric tube and the operative field was suctioned.  with the guidewire in place and with adequate visualization, a new #6 shiley with proximal extension was then passed over the nasogastric tube guidewire and carefully inserted into the trachea.  the guidewire was then removed and the inner cannula was then placed into the tracheostomy.  the patient was then reconnected to the ventilator and was noted to have normal tidal volumes.  the patient had a tidal volume of 500 and was returning 500 cc to 510 cc.  the patient continued to saturate well with saturations 99%.  the patient appeared comfortable and her vital signs were stable.  a soft trache collar was then connected to the trachesotomy.  a drain sponge was then inserted underneath the new trache site.  the patient was observed for several minutes and was found to be in no distress and continued to maintain adequate saturations and continued to return normal tidal volumes.,complications: , none.,disposition: , the patient tolerated the procedure well.  0.25% acetic acid soaks were ordered to the drain sponge every shift.
+
+ICD-10 Suggestions:
+ - J441 :    Chronic obstructive pulmonary disease with (acute) exacerbation (score=0.995)
+ - J4489 :   Other specified chronic obstructive pulmonary disease (score=0.948)
+ - J811 :    Chronic pulmonary edema (score=0.933)
+ - J95822 :  Acute and chronic postprocedural respiratory failure (score=0.899)
+ - J95821 :  Acute postprocedural respiratory failure (score=0.870)
+

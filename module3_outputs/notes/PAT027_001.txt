@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT027 was a 59-year-old male with a venous anastomotic stenosis. The patient underwent thrombectomy av shunt, left forearm and patch angioplasty of the venous anastomosis.
+
+=== SOAP SUMMARY ===
+Patient PAT027 was a 59-year-old male with a venous anastomotic stenosis. He underwent thrombectomy av shunt, left forearm and patch angioplasty of the venousAnastomosis. The patient is now recovering in hospital.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT027_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+thrombectomy av shunt, left forearm and patch angioplasty of the venous anastomosis. thrombosed arteriovenous shunt, left forearm with venous anastomotic stenosis.
+
+OBJECTIVE:
+Vitals: trestbps=150; chol=212; fbs=1; restecg=1; thalach=157; exang=0; oldpeak=1.6; slope=2; ca=0; thal=2
+Lab: thrombectomy av shunt
+
+ASSESSMENT:
+Patient PAT027 was a 59-year-old male with a venous anastomotic stenosis. He underwent thrombectomy av shunt, left forearm and patch angioplasty of the venousAnastomosis. The patient is now recovering in hospital.
+
+PLAN:
+preoperative diagnosis: , thrombosed arteriovenous shunt left forearm.,postoperative diagnosis:  ,thrombosed arteriovenous shunt, left forearm with venous anastomotic stenosis.,procedure:  ,thrombectomy av shunt, left forearm and patch angioplasty of the venous anastomosis.,anesthesia: , local.,skin prep: , betadine.,drains: , none.,procedure technique:  ,the left arm was prepped and draped.  xylocaine 1% was administered and a transverse antecubital incision was made over the venous limb of the graft, which was dissected out and encircled with a vessel loop.  the runoff vein was dissected out and encircled with the vessel loop as well.  a longitudinal incision was made over the venous anastomosis.  there was a narrowing in the area and slightly the incision was extended more proximally.  there was good back bleeding from the vein as well as bleeding from the more distal vein.  these were occluded with noncrushing debakey clamps and the patient was given 5000 units of heparin intravenously.  a #4 fogarty was used to extract thrombus from the graft systematically until the arterial plug was removed and excellent inflow was established.  there was a narrowing in the mid portion of the venous limb of the graft, which was dilated with a #5 coronary dilator.  the fogarty catheter was then passed up the vein, but no clot was obtained.  a patch ptfe material was fashioned and was sutured over the graftotomy with running 6-0 gore-tex suture.  clamps were removed and flow established.  a thrill was easily palpable.  hemostasis was achieved and the wound was irrigated and closed with 3-0 vicryl subcutaneous suture followed by 4-0 nylon on the skin.  a sterile dressing was applied.  the patient was taken to the recovery room in satisfactory condition having tolerated the procedure well.  sponge, instrument and needle counts were reported as correct.
+
+ICD-10 Suggestions:
+ - Z9862 :   Peripheral vascular angioplasty status (score=0.992)
+ - S55212S : Laceration of vein at forearm level, left arm, sequela (score=0.552)
+ - I82220 :  Acute embolism and thrombosis of inferior vena cava (score=0.387)
+ - I67841 :  Reversible cerebrovascular vasoconstriction syndrome (score=0.340)
+ - T8172XD : Complication of vein following a procedure, not elsewhere classified, subsequent encounter (score=0.282)
+

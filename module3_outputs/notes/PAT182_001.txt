@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+PAT182 is a 65-year-old female with angina pectoris. The patient was brought to the procedure room in satisfactory condition. The right groin was prepped and draped in routine fashion. An arterial sheath was inserted into the right femoral artery. Left and right coronary arteries were studied with a 6fl4 and 6fr4 judkins catheters respectively. cine coronary angiograms were done in multiple views. Left heart catheterization was done using the 6-french pigtail catheter. appropriate pressures were obtained before and after the left ventriculogram, which was done in the rao view. Left heart catheterization was done using the 6-french pigtail catheter. appropriate pressures were obtained before and after the left ventriculogram, which was done in the rao view. left heart catheterization was done using the 6-french pigtail catheter. appropriate pressures were obtained before and after the left ventriculogram, which was done in the rao view. left heart catheterization was done using the 6-french pigtail catheter. appropriate pressures were obtained before and after the left ventriculogram, which was done in the rao view. left heart catheterization was done using the 6-french pigtail catheter. appropriate pressures were obtained before and after the left ventriculogram, which was done in the rao view. left heart catheterization was done using the 6-french pigtail catheter. appropriate pressures were obtained before and after the left ventriculogram, which was done in the rao view. left heart catheterization was done using the 6-french pigtail catheter. appropriate pressures
+
+=== SOAP SUMMARY ===
+PAT182 is a 65-year-old female with angina pectoris. The right groin was prepped and draped in routine fashion. An arterial sheath was inserted into the right femoral artery. Left and right coronary arteries were studied with a 6fl4 and 6fr4 judkins catheters.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT182_001
+Date: 2025-11-02
+
+SUBJECTIVE:
+h&p for a female with angina pectoris.
+
+OBJECTIVE:
+Vitals: trestbps=150; chol=225; fbs=0; restecg=0; thalach=114; exang=0; oldpeak=1.0; slope=1; ca=3; thal=3
+Lab: h&p - cardio (angina)
+
+ASSESSMENT:
+PAT182 is a 65-year-old female with angina pectoris. The right groin was prepped and draped in routine fashion. An arterial sheath was inserted into the right femoral artery. Left and right coronary arteries were studied with a 6fl4 and 6fr4 judkins catheters.
+
+PLAN:
+procedures: , left heart catheterization, left ventriculography, and left and right coronary arteriography.,indications: , chest pain and non-q-wave mi with elevation of troponin i only.,technique:  ,the patient was brought to the procedure room in satisfactory condition.  the right groin was prepped and draped in routine fashion.  an arterial sheath was inserted into the right femoral artery.,left and right coronary arteries were studied with a 6fl4 and 6fr4 judkins catheters respectively.  cine coronary angiograms were done in multiple views.,left heart catheterization was done using the 6-french pigtail catheter.  appropriate pressures were obtained before and after the left ventriculogram, which was done in the rao view.,at the end of the procedure, the femoral catheter was removed and angio-seal was applied without any complications.,findings:,1.  lv is normal in size and shape with good contractility, ef of 60%.,2.  lmca normal.,3.  lad has 20% to 30% stenosis at the origin.,4.  lcx is normal.,5.  rca is dominant and normal.,recommendations: , medical management, diet, and exercise.  aspirin 81 mg p.o. daily, p.r.n. nitroglycerin for chest pain.  follow up in the clinic.
+
+ICD-10 Suggestions:
+ - I2081 :   Angina pectoris with coronary microvascular dysfunction (score=0.969)
+ - I25112 :  Atherosclerotic heart disease of native coronary artery with refractory angina pectoris (score=0.920)
+ - I25110 :  Atherosclerotic heart disease of native coronary artery with unstable angina pectoris (score=0.915)
+ - I25118 :  Atherosclerotic heart disease of native coronary artery with other forms of angina pectoris (score=0.860)
+ - I70201 :  Unspecified atherosclerosis of native arteries of extremities, right leg (score=0.732)
+

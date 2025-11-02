@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 52-year-old female with severe pancreatitis. She was admitted with severe dehydration and necessitated some fluid boluses. The patient became hypotensive, required many fluid boluses, became very anasarcic and had difficulty with breathing and became hypoxic. She required intubation and has been ventilator-dependent in the intensive care since that time. The patient developed very high temperatures as well as leukocytosis. Her lines required being changed.
+
+=== SOAP SUMMARY ===
+The patient is a 52-year-old female with severe pancreatitis. She was admitted with severe dehydration and necessitated some fluid boluses. The patient became hypotensive, required many fluid bolus, became very anasarcic and had difficulty with breathing. She required intubation and has been ventilator-dependent in the intensive care since that time.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT009_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+insertion of a right brachial artery arterial catheter and a right subclavian vein triple lumen catheter. hyperpyrexia/leukocytosis, ventilator-dependent respiratory failure, and acute pancreatitis.
+
+OBJECTIVE:
+Vitals: trestbps=172; chol=199; fbs=1; restecg=1; thalach=162; exang=0; oldpeak=0.5; slope=2; ca=0; thal=3
+Lab: triple lumen catheter insertion
+
+ASSESSMENT:
+The patient is a 52-year-old female with severe pancreatitis. She was admitted with severe dehydration and necessitated some fluid boluses. The patient became hypotensive, required many fluid bolus, became very anasarcic and had difficulty with breathing. She required intubation and has been ventilator-dependent in the intensive care since that time.
+
+PLAN:
+preoperative diagnoses:,1.  hyperpyrexia/leukocytosis.,2.  ventilator-dependent respiratory failure.,3.  acute pancreatitis.,postoperative diagnoses:,1.  hyperpyrexia/leukocytosis.,2.  ventilator-dependent respiratory failure.,3.  acute pancreatitis.,procedure performed:,1.  insertion of a right brachial artery arterial catheter.,2.  insertion of a right subclavian vein triple lumen catheter.,anesthesia: , local, 1% lidocaine.,blood loss:,  less than 5 cc.,complications: , none.,indications: , the patient is a 46-year-old caucasian female admitted with severe pancreatitis.  she was severely dehydrated and necessitated some fluid boluses.  the patient became hypotensive, required many fluid boluses, became very anasarcic and had difficulty with breathing and became hypoxic.  she required intubation and has been ventilator-dependent in the intensive care since that time.  the patient developed very high temperatures as well as leukocytosis.  her lines required being changed.,procedure:,1.  right brachial arterial line:  ,the patient's right arm was prepped and draped in the usual sterile fashion.  there was a good brachial pulse palpated.  the artery was cannulated with the provided needle and the kit.  there was good arterial blood return noted immediately.  on the first stick, the seldinger wire was inserted through the needle to cannulate the right brachial artery without difficulty.  the needle was removed and a catheter was inserted over the seldinger wire to cannulate the brachial artery.  the femoral catheter was used in this case secondary to the patient's severe edema and anasarca.  we did not feel that the shorter catheter would provide enough length.  the catheter was connected to the system and flushed without difficulty.  a good waveform was noted.  the catheter was sutured into place with #3-0 silk suture and opsite dressing was placed over this.,2.  right subclavian triple lumen catheter:  ,the patient was prepped and draped in the usual sterile fashion.  1% xylocaine was used to anesthetize an area just inferior and lateral to the angle of the clavicle.  using the anesthetic needle, we checked down to the soft tissues anesthetizing, as we proceeded to the angle of the clavicle, this was also anesthetized.  next, a #18 gauge thin walled needle was used following the same track to the angle of clavicle.  we roughed the needle down off the clavicle and directed it towards the sternal notch.  there was good venous return noted immediately.  the syringe was removed and a seldinger guidewire was inserted through the needle to cannulate the vein.  the needle was then removed.  a small skin nick was made with a #11 blade scalpel and the provided dilator was used to dilate the skin, soft tissue and vein.  next, the triple lumen catheter was inserted over the guidewire without difficulty.  the guidewire was removed.  all the ports aspirated and flushed without difficulty.  the catheter was sutured into place with #3-0 silk suture and a sterile opsite dressing was also applied.  the patient tolerated the above procedures well.  a chest x-ray has been ordered, however, it has not been completed at this time, this will be checked and documented in the progress notes.
+
+ICD-10 Suggestions:
+ - S36221D : Contusion of body of pancreas, subsequent encounter (score=0.703)
+ - K8592 :   Acute pancreatitis with infected necrosis, unspecified (score=0.537)
+ - S36291D : Other injury of body of pancreas, subsequent encounter (score=0.440)
+ - S36221A : Contusion of body of pancreas, initial encounter (score=0.400)
+ - S36221S : Contusion of body of pancreas, sequela (score=0.331)
+

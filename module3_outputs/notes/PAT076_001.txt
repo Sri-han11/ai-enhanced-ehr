@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT076 is a 55-year-old male with a history of smoking. Pulmonary function test showed no evidence of obstructive or restrictive pulmonary disease. There is some improvement after the use of bronchodilator. Diffusion capacity is within normal limits. Oxygen saturation on room air is 98%. Clinical correlation will be necessary in this case.
+
+=== SOAP SUMMARY ===
+Patient PAT076 is a 55-year-old male with a history of smoking. Pulmonary function test showed no evidence of obstructive or restrictive pulmonary disease. There is some improvement after the use of bronchodilator. Diffusion capacity is within normal limits. Oxygen saturation on room air is 98%.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT076_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+pulmonary function test in a patient with smoking history.
+
+OBJECTIVE:
+Vitals: trestbps=135; chol=250; fbs=0; restecg=0; thalach=161; exang=0; oldpeak=1.4; slope=1; ca=0; thal=2
+Lab: pulmonary function test - 1
+
+ASSESSMENT:
+Patient PAT076 is a 55-year-old male with a history of smoking. Pulmonary function test showed no evidence of obstructive or restrictive pulmonary disease. There is some improvement after the use of bronchodilator. Diffusion capacity is within normal limits. Oxygen saturation on room air is 98%.
+
+PLAN:
+spirometry: , spirometry reveals the fvc to be adequate.,fev1 is also normal at 98% predicted and fvc is 90.5% predicted.  fef25-75% is also within normal limits at 110% predicted.  fev1/fvc ratio is within normal limits at 108% predicted.,after the use of bronchodilator, there is some improvement with 10%.  mvv is within normal limits.,lung volumes:,  shows total lung capacity to be normal.  rv as well as rv/tlc ratio they are within normal limits.,diffusion capacity:,  shows that after correction for alveolar ventilation, is also normal.,oxygen saturation on room air:  98%.,final interpretation:,  pulmonary function test shows no evidence of obstructive or restrictive pulmonary disease.  there is some improvement after the use bronchodilator.  diffusion capacity is within normal limits.  oxygen saturation on room air is also normal.  clinical correlation will be necessary in this case.
+
+ICD-10 Suggestions:
+ - J705 :    Respiratory conditions due to smoke inhalation (score=0.921)
+ - Z7722 :   Contact with and (suspected) exposure to environmental tobacco smoke (acute) (chronic) (score=0.909)
+ - R069 :    Unspecified abnormalities of breathing (score=0.832)
+ - F1820 :   Inhalant dependence, uncomplicated (score=0.617)
+ - J989 :    Respiratory disorder, unspecified (score=0.524)
+

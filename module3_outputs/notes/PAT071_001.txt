@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 54-year-old woman with a baby boy who has significant pulmonary hypertension. She was last seen in the pulmonary medicine clinic in March 2004. She has been hospitalized for psychiatric problems and now is in a nursing facility. She is very frustrated with her living situation and would like to return to her own apartment, however, some believes she is too ill to care for herself. She has occasional cough and a small amount of sputum production. No fever or chills. No chest pains. Her respiratory status is relatively stable. She is still short of breath with activity, but all-in-all her pulmonary disease has not changed significantly since her last visit. She does have occasional cough and a small amount of sputum production. No fever or chills. No chest pains. Her current medications are as outlined. Her allergies to medications:, erythromycin. Review of systems:, significant for problems with agitated depression. her respiratory status is unchanged as noted above. She does have occasional cough and a small amount of sputum production. No fever or chills. No chest pains. Her respiratory status is relatively stable. She is still short of breath with activity, but all-in-all her pulmonary disease has not changed significantly since her last visit. She does have occasional cough and a small amount of sputum production. No fever or chills. No chest pains. Her respiratory status is relatively stable. She is still short of breath with activity, but all-in-all her pulmonary disease has not changed significantly since her last visit. She does have occasional cough and a small amount of sputum production. No fever or chills. No chest pains. Her current medications are as outlined
+
+=== SOAP SUMMARY ===
+The patient is a 54-year-old woman with a baby boy who has significant pulmonary hypertension. She was last seen in the pulmonary medicine clinic in March 2004. She has been hospitalized for psychiatric problems and now is in a nursing facility. She is very frustrated with her living situation and would like to return to her own apartment.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT071_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+increasing oxygen requirement. baby boy ha significant pulmonary hypertension.
+
+OBJECTIVE:
+Vitals: trestbps=120; chol=258; fbs=0; restecg=0; thalach=147; exang=0; oldpeak=0.4; slope=1; ca=0; thal=3
+Lab: pulmonary hypertension - pediatric consult
+
+ASSESSMENT:
+The patient is a 54-year-old woman with a baby boy who has significant pulmonary hypertension. She was last seen in the pulmonary medicine clinic in March 2004. She has been hospitalized for psychiatric problems and now is in a nursing facility. She is very frustrated with her living situation and would like to return to her own apartment.
+
+PLAN:
+subjective:,  the patient returns to the pulmonary medicine clinic for followup evaluation of copd and emphysema.  she was last seen in the clinic in march 2004.  since that time, she has been hospitalized for psychiatric problems and now is in a nursing facility.  she is very frustrated with her living situation and would like to return to her own apartment, however, some believes she is to ill to care for herself.,at the present time, respiratory status is relatively stable.  she is still short of breath with activity, but all-in-all her pulmonary disease has not changed significantly since her last visit.  she does have occasional cough and a small amount of sputum production.  no fever or chills.  no chest pains.,current medications:,  the patient’s current medications are as outlined.,allergies to medications:,  erythromycin.,review of systems:,  significant for problems with agitated depression.  her respiratory status is unchanged as noted above.,examination:,general:  the patient is in no acute distress.,vital signs:  blood pressure is 152/80, pulse 80 and respiratory rate 16.,heent:  nasal mucosa was mild-to-moderately erythematous and edematous.  oropharynx was clear.,neck:  supple without palpable lymphadenopathy.,chest:  chest demonstrates decreased breath sounds throughout all lung fields, coarse but relatively clear.,cardiovascular:  distant heart tones.  regular rate and rhythm.,abdomen:  soft and nontender.,extremities:  without edema.,oxygen saturation was checked today on room air, at rest it was 90%.,assessment:,1.  chronic obstructive pulmonary disease/emphysema, severe but stable.,2.  mild hypoxemia, however, oxygen saturation at rest is stable without supplemental oxygen.,3.  history of depression and schizophrenia.,plan:,  at this point, i have recommended that she continue current respiratory medicine.  i did suggest that she would not use her oxygen when she is simply sitting, watching television or reading.  i have recommended that she use it with activity and at night.  i spoke with her about her living situation.  encouraged her to speak with her family, as well as primary care physician about making efforts for her to return to her apartment.  follow up evaluation is planned in pulmonary medicine clinic in approximately three months or sooner if need be.
+
+ICD-10 Suggestions:
+ - I2723 :   Pulmonary hypertension due to lung diseases and hypoxia (score=0.489)
+ - P2930 :   Pulmonary hypertension of newborn (score=0.454)
+ - I2724 :   Chronic thromboembolic pulmonary hypertension (score=0.270)
+ - P279 :    Unspecified chronic respiratory disease originating in the perinatal period (score=0.226)
+ - T7601XS : Adult neglect or abandonment, suspected, sequela (score=0.189)
+

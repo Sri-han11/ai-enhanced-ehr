@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 63 year-old white male with sick sinus syndrome, atrial fibrillation, pacemaker dependent, mild cardiomyopathy with ejection fraction 40% and no significant decompensation, and dementia of alzheimer's disease with short and long term memory dysfunction. The patient was on aspirin and plavix, received 3000 of heparin and was begun on integrilin.
+
+=== SOAP SUMMARY ===
+The patient is a 63 year-old white male with sick sinus syndrome, atrial fibrillation, pacemaker dependent, mild cardiomyopathy with ejection fraction 40% and no significant decompensation. The patient was on aspirin and plavix, received 3000 of heparin and was begun on integrilin.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT055_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+sick sinus syndrome, atrial fibrillation, pacemaker dependent, mild cardiomyopathy with ejection fraction 40% and no significant decompensation, and dementia of alzheimer's disease with short and long term memory dysfunction
+
+OBJECTIVE:
+Vitals: trestbps=135; chol=252; fbs=0; restecg=0; thalach=172; exang=0; oldpeak=0.0; slope=2; ca=0; thal=2
+Lab: sick sinus syndrome
+
+ASSESSMENT:
+The patient is a 63 year-old white male with sick sinus syndrome, atrial fibrillation, pacemaker dependent, mild cardiomyopathy with ejection fraction 40% and no significant decompensation. The patient was on aspirin and plavix, received 3000 of heparin and was begun on integrilin.
+
+PLAN:
+name of procedure:,  successful stenting of the left anterior descending.,description of procedure:,  angina pectoris, tight lesion in left anterior descending.,technique of procedure:,  standard judkins, right groin.,catheters used: , 6 french judkins, right; wire, 14 bmw; balloon for predilatation, 25 x 15 crosssail; stent 2.5 x 18 cypher drug-eluting stent.,anticoagulation:  ,the patient was on aspirin and plavix, received 3000 of heparin and was begun on integrilin.,complications: , none.,informed consent: , i reviewed with the patient the pros, cons, alternatives and risks of catheter and sedation exactly as i had done before during his diagnostic catheterization, plus i reviewed the risks of intervention including lack of success, need for emergency surgery, need for later restenosis and further procedures.,hemodynamic data: , the aortic pressure was in the physiologic range.,angiographic data: , left coronary artery:  the left main coronary artery showed insignificant disease.  the left anterior descending showed fairly extensive calcification.  there was 90% stenosis in the proximal to midportion of the vessel.  insignificant disease in the circumflex.,successful stenting: , a wire crossed the lesion.  we first predilated with a balloon, then advanced, deployed and post dilated the stent.  final angiography showed 0% stenosis, no tears or thrombi, excellent intimal appearance.,physical examination,vital signs:  blood pressure 160/88, temperature 98.6, pulse 83, respirations 30.  he is saturating at 96% on 4 l nonrebreather.,general:  the patient is a 74 year-old white male who is cooperative with the examination and alert and oriented x3.  the patient cannot speak and communicates through writing.,heent:  very small moles on face.  however, pupils equal, round and regular and reactive to light and accommodation.  extraocular movements are intact.  oropharynx is moist.,neck:  supple.  tracheostomy site is clean without blood or discharge.,heart:  regular rate and rhythm.  no gallop, murmur or rub.,chest:  respirations congested.  mild crackles in the left lower quadrant and left lower base.,abdomen:  soft, nontender and nondistended.  positive bowel sounds.,extremities:  no clubbing, cyanosis or edema.,neurologic:  cranial nerves ii-xii grossly intact.  no focal deficit.,genitalia:  the patient does have a right scrotal swelling, very much larger than the other side, not reproducible and mobile to touch.,conclusions,1. successful stenting of the left anterior descending.  initially, there was 90% stenosis.  after stenting with a drug-eluting stent, there was 0% residual.,2. insignificant disease in the other coronaries.,plan:,  the patient will be treated with aspirin, plavix, integrilin, beta blockers and statins.  i have discussed this with him, and i have answered his questions.
+
+ICD-10 Suggestions:
+ - I495 :    Sick sinus syndrome (score=0.998)
+ - I427 :    Cardiomyopathy due to drug and external agent (score=0.920)
+ - J329 :    Chronic sinusitis, unspecified (score=0.826)
+ - I420 :    Dilated cardiomyopathy (score=0.799)
+ - D75822 :  Immune-mediated heparin-induced thrombocytopenia (score=0.596)
+

@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is 62 years old and has a history of coronary artery disease. The patient will receive a course of aspirin, plavix, integrilin, and statin therapy. The patient will receive a course of aspirin, plavix, integrilin, and statin therapy. The patient will receive a course of aspirin, plavix, integrilin, and statin therapy. The patient will receive a course of aspirin, plavix, integrilin, and statin therapy. The patient will receive a course of aspirin, plavix, integrilin, and statin therapy. The patient will receive a course of aspirin, plavix, integrilin, and statin therapy. The patient will receive a course of aspirin, plavix, integrilin, and statin therapy. The patient will receive a course of aspirin, plavix, integrilin, and statin therapy. The patient will receive a course of aspirin, plavix, integrilin, and statin therapy. The patient will receive a course of aspirin, plavix, integrilin, and statin therapy. The patient will receive a course of aspirin, plavix, integrilin, and statin therapy. The patient will receive a course of aspirin, plavix, integrilin, and statin therapy. The patient will receive a course of aspirin, plavix, integrilin, and statin therapy. The patient will receive a course of aspirin, plavix, integrilin, and statin therapy.
+
+=== SOAP SUMMARY ===
+The patient is 62 years old and has a history of coronary artery disease. The patient will receive a course of aspirin, plavix, integrilin, and statin therapy. The patients will also receive aspirin-based painkillers and anti-depressants. They will also be given aspirin- and aspirin-like drugs to treat pain.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT168_001
+Date: 2025-11-02
+
+SUBJECTIVE:
+left heart catheterization with left ventriculography and selective coronary angiography. percutaneous transluminal coronary angioplasty and stent placement of the right coronary artery.
+
+OBJECTIVE:
+Vitals: trestbps=140; chol=268; fbs=0; restecg=0; thalach=160; exang=0; oldpeak=3.6; slope=0; ca=2; thal=2
+Lab: heart catheterization, ventriculography, & angiography - 4
+
+ASSESSMENT:
+The patient is 62 years old and has a history of coronary artery disease. The patient will receive a course of aspirin, plavix, integrilin, and statin therapy. The patients will also receive aspirin-based painkillers and anti-depressants. They will also be given aspirin- and aspirin-like drugs to treat pain.
+
+PLAN:
+name of procedure: , left heart catheterization with ventriculography, selective coronary arteriographies, successful stenting of the left anterior descending diagonal.,indication:,  recurrent angina.  history of coronary disease.,technical procedure: , standard judkins, right groin.,catheters used:,  6-french pigtail, 6-french jl4, 6-french jr4.,anticoagulation: , 2000 of heparin, 300 of plavix, was begun on integrilin.,complications: , none.,stent: , for stenting we used a 6-french left judkins guide.  stent was a 275 x 13 zeta.,description of procedure: , i reviewed with the patient the pros, cons, alternatives and risks of catheterization and sedation including myocardial infarction, stroke, death, damage to nerve, artery or vein in the leg, perforation of cardiac chamber, resection of an artery, arrhythmia requiring countershock, infection, bleeding, allergy, and need for vascular surgery.  all questions were answered and the patient decided to proceed.,hemodynamic data: , aortic pressure was within physiologic range.  there was no significant gradient across the aortic valve.,angiographic data,1.  ventriculogram:  left ventricle was of normal size and shape with normal wall motion, normal ejection fraction.,2.  right coronary artery:  dominant.  there was a lesion in the proximal portion in the 60% range, insignificant disease distally.,3.  left coronary artery:  the left main coronary artery showed insignificant disease.  the circumflex arose, showed about 30% proximally.  left anterior descending arose and the previously placed stent was perfectly patent.  there was a large diagonal branch which showed 90% stenosis in its proximal portion.  there was a lesion in the 30% to 40% range even more proximal.,i reviewed with the patient the options of medical therapy, intervention on the culprit versus bypass surgery.  he desired that we intervene.,successful stenting of the left anterior descending, diagonal.  the guide was placed in the left main.  we easily crossed the lesion in the diagonal branch of the left anterior descending.  we advanced, applied and post-dilated the 275 x 13 stent.  final angiography showed 0% residual at the site of previous 90% stenosis.  the more proximal 30% to 40% lesion was unchanged.,conclusion,1.  successful stenting of the left anterior descending/diagonal.  initially there was 90% in the diagonal after stenting.  there was 0% residual.  there was a lesion a bit more proximal in the 40% range.,2.  left anterior descending stent remains patent.,3.  30% in the circumflex.,4.  60% in the right coronary.,5.  ejection fraction and wall motion are normal.,plan: , we have stented the culprit lesion.  the patient will receive a course of aspirin, plavix, integrilin, and statin therapy.  we used 6-french angio-seal in the groin.  all questions have been answered.  i have discussed the possibility of restenosis, need for further procedures.
+
+ICD-10 Suggestions:
+ - I25118 :  Atherosclerotic heart disease of native coronary artery with other forms of angina pectoris (score=0.970)
+ - T46995D : Adverse effect of other agents primarily affecting the cardiovascular system, subsequent encounter (score=0.965)
+ - T46995A : Adverse effect of other agents primarily affecting the cardiovascular system, initial encounter (score=0.934)
+ - T46905D : Adverse effect of unspecified agents primarily affecting the cardiovascular system, subsequent encounter (score=0.925)
+ - I2583 :   Coronary atherosclerosis due to lipid rich plaque (score=0.898)
+

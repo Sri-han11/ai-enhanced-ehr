@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT038 is a 54-year-old male with a left pleural effusion and left hemothorax. He was admitted to the emergency department on 7 February 2015 with a preoperative diagnosis of left pleural effusion and left hemothorax. A thoracentesis catheter was used and placed in the left intercostal space in the midscapular line and the patient was sat at the side of a stretcher in the emergency department. Xylocaine 1% was used to infiltrate his chest wall and the chest entered upon the ninth intercostal space in the midscapular line and the thoracentesis catheter was used and placed, and then we proceed to draw by hand about 1200 ml blood. This blood was nonclotting and it was tested twice. Halfway during the procedure, the patient felt that he was getting dizzy and his pressure at that time had dropped to the 80s. Therefore, we laid him off his right side while keeping the chest catheter in place. At that time, we proceeded to continuously draw fluids slowly and then when the patient recovered we sat him up again and we proceed to complete the procedure. Overall besides the described episode, the patient tolerated the procedure well and afterwards, we took another chest x-ray that showed much improvement in the pleural effusion and at that particular time, with all the history we proceeded to admit the patient for observation and with an idea to obtain a ct in the morning to see whether the patient would need an pigtail intrapleural catheter or not.
+
+=== SOAP SUMMARY ===
+Patient PAT038 is a 54-year-old male with a left pleural effusion and left hemothorax. He was admitted to the emergency department on 7 February 2015. A thoracentesis catheter was used and placed in the left intercostal space in the midscapular line. Xylocaine 1% was used to infiltrate his chest wall.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT038_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+thoracentesis. left pleural effusion. left hemothorax.
+
+OBJECTIVE:
+Vitals: trestbps=150; chol=232; fbs=0; restecg=0; thalach=165; exang=0; oldpeak=1.6; slope=2; ca=0; thal=3
+Lab: thoracentesis
+
+ASSESSMENT:
+Patient PAT038 is a 54-year-old male with a left pleural effusion and left hemothorax. He was admitted to the emergency department on 7 February 2015. A thoracentesis catheter was used and placed in the left intercostal space in the midscapular line. Xylocaine 1% was used to infiltrate his chest wall.
+
+PLAN:
+preoperative diagnosis:,  left pleural effusion.,postoperative diagnosis:,  left hemothorax.,procedure: , thoracentesis.,procedure in detail:,  after obtaining informed consent and having explained the procedure to the patient, he was sat at the side of a stretcher in the emergency department.  his left back was prepped and draped in the usual fashion.  xylocaine 1% was used to infiltrate his chest wall and the chest entered upon the ninth intercostal space in the midscapular line and the thoracentesis catheter was used and placed, and then we proceed to draw by hand about 1200 ml blood.  this blood was nonclotting and it was tested twice.  halfway during the procedure, the patient felt that he was getting dizzy and his pressure at that time had dropped to the 80s.  therefore, we laid him off his right side while keeping the chest catheter in place.  at that time, i proceeded to continuously draw fluids slowly and then when the patient recovered we sat him up again and we proceed to complete the procedure.,overall besides the described episode, the patient tolerated the procedure well and afterwards, we took another chest x-ray that showed much improvement in the pleural effusion and at that particular time, with all the history we proceeded to admit the patient for observation and with an idea to obtain a ct in the morning to see whether the patient would need an pigtail intrapleural catheter or not.
+
+ICD-10 Suggestions:
+ - J942 :    Hemothorax (score=0.995)
+ - R0781 :   Pleurodynia (score=0.876)
+ - J90 :     Pleural effusion, not elsewhere classified (score=0.754)
+ - R091 :    Pleurisy (score=0.627)
+ - S2599XS : Other specified injury of unspecified blood vessel of thorax, sequela (score=0.554)
+

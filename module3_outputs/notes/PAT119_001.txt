@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT119 is a 46-year-old female with a new murmur, bacteremia, and fever. She was admitted with jaundice and a pancreatic mass.
+
+=== SOAP SUMMARY ===
+Patient PAT119 is a 46-year-old female with a new murmur, bacteremia, and fever. She was admitted with jaundice and a pancreatic mass. She is being treated at a local hospital. For confidential support call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT119_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+a female admitted with jaundice and a pancreatic mass who wa noted to have a new murmur, bacteremia, and fever.
+
+OBJECTIVE:
+Vitals: trestbps=105; chol=204; fbs=0; restecg=1; thalach=172; exang=0; oldpeak=0.0; slope=2; ca=0; thal=2
+Lab: murmur & bacteremia.
+
+ASSESSMENT:
+Patient PAT119 is a 46-year-old female with a new murmur, bacteremia, and fever. She was admitted with jaundice and a pancreatic mass. She is being treated at a local hospital. For confidential support call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details.
+
+PLAN:
+reason for consultation: , loculated left effusion, multilobar pneumonia.
+
+ICD-10 Suggestions:
+ - Z710 :    Person encountering health services to consult on behalf of another person (score=0.996)
+ - S36209A : Unspecified injury of unspecified part of pancreas, initial encounter (score=0.418)
+ - S36209D : Unspecified injury of unspecified part of pancreas, subsequent encounter (score=0.408)
+ - R17 :     Unspecified jaundice (score=0.365)
+ - S36201D : Unspecified injury of body of pancreas, subsequent encounter (score=0.301)
+

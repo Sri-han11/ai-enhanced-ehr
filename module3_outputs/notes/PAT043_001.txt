@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 4-month-old who presented with supraventricular tachycardia and persistent cyanosis. The patient underwent a transhiatal esophagectomy in november of 2003. She subsequently had repeat chest x-rays and ct scans and was found to have a moderate pericardial effusion. She had the appropriate inflammatory workup for pericardial effusion, however, it was nondiagnostic. Also, during that time, she had become significantly more short of breath. A dobutamine stress echocardiogram was performed, which was negative with the exception of the pericardial effusions. She had no tamponade physiology. The patient was prepped and draped in the usual sterile fashion. a 4 cm incision was created in the midline above the xiphoid. dissection was carried down through the fascia and the xiphoid was retracted. the sternum was retracted superiorly the pericardium was identified and pericardial fat was cleared off the pericardium. an #0 silk suture was then placed into the pericardium with care taken not to enter the underlying heart. a section of pericardium was taken approximately 2 cm x 2 cm x 2 cm and was removed. the heart was visualized and appeared to be contracting well with no evidence of injury to the heart. the pericardium was then palpated. there was no evidence of studding. a right angle chest tube was then placed in the pericardium along the diaphragmatic of the pericardium and then brought out though a small skin incision
+
+=== SOAP SUMMARY ===
+The patient is a 4-month-old who presented with supraventricular tachycardia and persistent cyanosis. She underwent a transhiatal esophagectomy in november of 2003. She subsequently had repeat chest x-rays and ct scans and was found to have a moderate pericardial effusion.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT043_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+the patient is a 4-month-old who presented with supraventricular tachycardia and persistent cyanosis.
+
+OBJECTIVE:
+Vitals: trestbps=104; chol=208; fbs=0; restecg=0; thalach=148; exang=1; oldpeak=3.0; slope=1; ca=0; thal=2
+Lab: supraventricular tachycardia - consult
+
+ASSESSMENT:
+The patient is a 4-month-old who presented with supraventricular tachycardia and persistent cyanosis. She underwent a transhiatal esophagectomy in november of 2003. She subsequently had repeat chest x-rays and ct scans and was found to have a moderate pericardial effusion.
+
+PLAN:
+preoperative diagnosis: , symptomatic pericardial effusion.,postoperative diagnosis: , symptomatic pericardial effusion.,procedure performed:,  subxiphoid pericardiotomy.,anesthesia:,  general via et tube.,estimated blood loss: , 50 cc.,findings:,  this is a 70-year-old black female who underwent a transhiatal esophagectomy in november of 2003.  she subsequently had repeat chest x-rays and ct scans and was found to have a moderate pericardial effusion.  she had the appropriate inflammatory workup for pericardial effusion, however, it was nondiagnostic.  also, during that time, she had become significantly more short of breath.  a dobutamine stress echocardiogram was performed, which was negative with the exception of the pericardial effusions.  she had no tamponade physiology.,indication for the procedure: , for therapeutic and diagnostic management of this symptomatic pericardial effusion.  risks, benefits, and alternative measures were discussed with the patient.  consent was obtained for the above procedure.,procedure: , the patient was prepped and draped in the usual sterile fashion.  a 4 cm incision was created in the midline above the xiphoid.  dissection was carried down through the fascia and the xiphoid was resected.  the sternum was retracted superiorly the pericardium was identified and pericardial fat was cleared off the pericardium.  an #0 silk suture was then placed into the pericardium with care taken not to enter the underlying heart.,this suture was used to retract the pericardium and the pericardium was nicked with #15 blade under direct visualization.  serous fluid exited through the pericardium and was sent for culture, cytology, and cell count etc.  a section of pericardium was taken approximately 2 cm x 2 cm x 2 cm and was removed.  the heart was visualized and appeared to be contracting well with no evidence of injury to the heart.  the pericardium was then palpated.  there was no evidence of studding.  a right angle chest tube was then placed in the pericardium along the diaphragmatic of the pericardium and then brought out though a small skin incision in the epigastrium.  it was sewn into place with #0 silk suture.  there was some air leak of the left pleural cavity, so a right angle chest tube was placed in the left pleural cavity and brought out through a skin nick in the epigastrium.  it was sewn in the similar way to the other chest tube.  once again, the area was inspected and found to be hemostatic and then closed with #0 vicryl suture for fascial stitch, then #3-0 vicryl suture in the subcutaneous fat, and then #4-0 undyed vicryl in a running subcuticular fashion.  the patient tolerated the procedure well.  chest tubes were placed on 20 cm of water suction.  the patient was taken to pacu in stable condition.
+
+ICD-10 Suggestions:
+ - I97111 :  Postprocedural cardiac insufficiency following other surgery (score=0.961)
+ - S27812D : Contusion of esophagus (thoracic part), subsequent encounter (score=0.886)
+ - S2690XD : Unspecified injury of heart, unspecified with or without hemopericardium, subsequent encounter (score=0.809)
+ - S2691XD : Contusion of heart, unspecified with or without hemopericardium, subsequent encounter (score=0.754)
+ - S2601XD : Contusion of heart with hemopericardium, subsequent encounter (score=0.715)
+

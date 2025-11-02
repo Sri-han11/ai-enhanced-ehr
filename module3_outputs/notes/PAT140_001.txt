@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+PAT140 is a 64-year-old male patient with bilateral bilateral lower extremity arterial obstructive disease. The patient's trestbps was 128, the chol was 263, the fbs was 0, the thalach was 105, the exang was 1, the old peak was 0.2, the slope was 1 and the thal was 3.
+
+=== SOAP SUMMARY ===
+The patient's trestbps was 128, the chol was 263, the fbs was 0, the thalach was 105, the exang was 1, the old peak was 0.2, the slope was 1 and the thal was 3. PAT140 is a 64-year-old male patient with bilateral bilateral lower extremity arterial obstructive disease.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT140_001
+Date: 2025-10-31
+
+SUBJECTIVE:
+left lower extremity venous doppler ultrasound
+
+OBJECTIVE:
+Vitals: trestbps=128; chol=263; fbs=0; restecg=1; thalach=105; exang=1; oldpeak=0.2; slope=1; ca=1; thal=3
+Lab: lower extremity venous doppler
+
+ASSESSMENT:
+The patient's trestbps was 128, the chol was 263, the fbs was 0, the thalach was 105, the exang was 1, the old peak was 0.2, the slope was 1 and the thal was 3. PAT140 is a 64-year-old male patient with bilateral bilateral lower extremity arterial obstructive disease.
+
+PLAN:
+right lower extremity:,  the arterial system was visualized showing triphasic waveform from the common femoral to popliteal and biphasic waveform at the posterior tibial artery with ankle brachial index of 0/8.,left lower extremity:,  the arterial system was visualized with triphasic waveform from the common femoral to the popliteal artery, with biphasic waveform at the posterior tibial artery.  ankle brachial index of 0.9.,impression: , mild bilateral lower extremity arterial obstructive disease.,
+
+ICD-10 Suggestions:
+ - I70203 :  Unspecified atherosclerosis of native arteries of extremities, bilateral legs (score=0.995)
+ - I70201 :  Unspecified atherosclerosis of native arteries of extremities, right leg (score=0.940)
+ - I70208 :  Unspecified atherosclerosis of native arteries of extremities, other extremity (score=0.826)
+ - I70209 :  Unspecified atherosclerosis of native arteries of extremities, unspecified extremity (score=0.814)
+ - S75992S : Other specified injury of unspecified blood vessel at hip and thigh level, left leg, sequela (score=0.798)
+

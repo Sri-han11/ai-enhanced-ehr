@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Transthoracic echocardiogram was performed of technically limited quality. The left ventricle was normal in size and dimensions with normal LV function. ejection fraction was 50% to 55%. concentric hypertrophy noted with interventricular septum measuring 1.6 cm, posterior wall measuring 1.2 cm. left atrium is enlarged, measuring 4.42 cm. right-sided chambers are normal in size and dimensions. aortic root has normal diameter. Mitral and tricuspid valve reveals annular calcification. fibrocalcific valve leaflets noted with adequate excursion. similar findings noted on the aortic valve as well with significantly adequate excursion of valve leaflets. atrial and ventricular septum are intact. pericardium is intact without any effusion. no obvious intracardiac mass or thrombi noted. Doppler study reveals mild-to-moderate mitral regurgitation. severe aortic stenosis with peak velocity of 2.76 with calculated ejection fraction 50% to 55% with severe aortic stenosis. there is also mitral stenosis.
+
+=== SOAP SUMMARY ===
+Transthoracic echocardiogram was performed of technically limited quality. Left ventricle was normal in size and dimensions with normal LV function. ejection fraction was 50% to 55%. concentric hypertrophy noted with interventricular septum measuring 1.6 cm. left atrium is enlarged, measuring 4.42 cm.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT007_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+coronary artery bypass surgery and aortic stenosis. transthoracic echocardiogram wa performed of technically limited quality. concentric hypertrophy of the left ventricle with left ventricular function. moderate mitral regurgitation. severe aortic stenosis, severe.
+
+OBJECTIVE:
+Vitals: trestbps=140; chol=294; fbs=0; restecg=0; thalach=153; exang=0; oldpeak=1.3; slope=1; ca=0; thal=2
+Lab: transthoracic echocardiography
+
+ASSESSMENT:
+Transthoracic echocardiogram was performed of technically limited quality. Left ventricle was normal in size and dimensions with normal LV function. ejection fraction was 50% to 55%. concentric hypertrophy noted with interventricular septum measuring 1.6 cm. left atrium is enlarged, measuring 4.42 cm.
+
+PLAN:
+reason for exam: , coronary artery bypass surgery and aortic stenosis.,findings: , transthoracic echocardiogram was performed of technically limited quality.  the left ventricle was normal in size and dimensions with normal lv function.  ejection fraction was 50% to 55%.  concentric hypertrophy noted with interventricular septum measuring 1.6 cm, posterior wall measuring 1.2 cm.  left atrium is enlarged, measuring 4.42 cm.  right-sided chambers are normal in size and dimensions.  aortic root has normal diameter.,mitral and tricuspid valve reveals annular calcification.  fibrocalcific valve leaflets noted with adequate excursion.  similar findings noted on the aortic valve as well with significantly adequate excursion of valve leaflets.  atrial and ventricular septum are intact.  pericardium is intact without any effusion.  no obvious intracardiac mass or thrombi noted.,doppler study reveals mild-to-moderate mitral regurgitation.  severe aortic stenosis with peak velocity of 2.76 with calculated ejection fraction 50% to 55% with severe aortic stenosis.  there is also mitral stenosis.,impression:,1.  concentric hypertrophy of the left ventricle with left ventricular function.,2.  moderate mitral regurgitation.,3.  severe aortic stenosis, severe.,recommendations: , transesophageal echocardiogram is clinically warranted to assess the aortic valve area.
+
+ICD-10 Suggestions:
+ - R931 :    Abnormal findings on diagnostic imaging of heart and coronary circulation (score=0.399)
+ - I253 :    Aneurysm of heart (score=0.310)
+ - Q210 :    Ventricular septal defect (score=0.264)
+ - Q203 :    Discordant ventriculoarterial connection (score=0.166)
+ - R9081 :   Abnormal echoencephalogram (score=0.157)
+

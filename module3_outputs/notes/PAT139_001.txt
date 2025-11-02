@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+PAT139 is a 57-year-old male presenting with left calf pain. He underwent right lower lobectomy, right thoracotomy, extensive lysis of adhesions, mediastinal lymphadenectomy.
+
+=== SOAP SUMMARY ===
+PAT139 is a 57-year-old male presenting with left calf pain. He underwent right lower lobectomy, right thoracotomy, extensive lysis of adhesions, mediastinal lymphadenectomy. He is now on the road to recovery. For confidential support call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here for details.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT139_001
+Date: 2025-10-31
+
+SUBJECTIVE:
+right lower lobectomy, right thoracotomy, extensive lysis of adhesions, mediastinal lymphadenectomy.
+
+OBJECTIVE:
+Vitals: trestbps=110; chol=201; fbs=0; restecg=1; thalach=126; exang=1; oldpeak=1.5; slope=1; ca=0; thal=1
+Lab: lobectomy & lymphadenectomy
+
+ASSESSMENT:
+PAT139 is a 57-year-old male presenting with left calf pain. He underwent right lower lobectomy, right thoracotomy, extensive lysis of adhesions, mediastinal lymphadenectomy. He is now on the road to recovery. For confidential support call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here for details.
+
+PLAN:
+left lower extremity venous doppler ultrasound,reason for exam: , status post delivery five weeks ago presenting with left calf pain.,interpretations: , there was normal flow, compression and augmentation within the right common femoral, superficial femoral and popliteal veins.  lymph nodes within the left inguinal region measure up to 1 cm in short-axis.,impression: , lymph nodes within the left inguinal region measure up to 1 cm in short-axis, otherwise no evidence for left lower extremity venous thrombosis.
+
+ICD-10 Suggestions:
+ - M80862P : Other osteoporosis with current pathological fracture, left lower leg, subsequent encounter for fracture with malunion (score=0.174)
+ - S8292XS : Unspecified fracture of left lower leg, sequela (score=0.135)
+ - M80862K : Other osteoporosis with current pathological fracture, left lower leg, subsequent encounter for fracture with nonunion (score=0.129)
+ - S82892S : Other fracture of left lower leg, sequela (score=0.074)
+ - M80862S : Other osteoporosis with current pathological fracture, left lower leg, sequela (score=0.036)
+

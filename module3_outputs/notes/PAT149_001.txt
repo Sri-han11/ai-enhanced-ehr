@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 44-year-old female with a left lower lobe resection. The patient has a history of syncopal episodes with injury. The patient has a sarcomatoid carcinoma with area of pleomorphic/giant cell carcinoma and spindle cell carcinoma. The tumor closely approach the pleural surface but doe not invade the pleura. The patient had a treadmill stress test. The patient's heart rate was 120 bpm. The patient's blood pressure was 226 mmHg. The patient's trest bps was 120 bpm. The patient's chol was 226 mmHg. The patient's fbs was 0. The patient's thalach was 169 mmHg. The patient's exang was 0. The patient's slope was 2 mmHg. The patient's ca was 0 mmHg. The patient's thal was 2 mmHg.
+
+=== SOAP SUMMARY ===
+The patient is a 44-year-old female with a left lower lobe resection. The patient has a history of syncopal episodes with injury. She has a sarcomatoid carcinoma with area of pleomorphic/giantcell carcinoma and spindle cell carcinoma. The tumor closely approach the pleural surface but doe not invade the pleura.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT149_001
+Date: 2025-11-02
+
+SUBJECTIVE:
+specimen - lung, left lower lobe resection. sarcomatoid carcinoma with area of pleomorphic/giant cell carcinoma and spindle cell carcinoma. the tumor closely approach the pleural surface but doe not invade the pleura.
+
+OBJECTIVE:
+Vitals: trestbps=120; chol=226; fbs=0; restecg=1; thalach=169; exang=0; oldpeak=0.0; slope=2; ca=0; thal=2
+Lab: immunohistochemical study
+
+ASSESSMENT:
+The patient is a 44-year-old female with a left lower lobe resection. The patient has a history of syncopal episodes with injury. She has a sarcomatoid carcinoma with area of pleomorphic/giantcell carcinoma and spindle cell carcinoma. The tumor closely approach the pleural surface but doe not invade the pleura.
+
+PLAN:
+preoperative diagnosis: , syncopal episodes with injury.  see electrophysiology consultation.,postoperative diagnoses:,1.  normal electrophysiologic studies.,2.  no inducible arrhythmia.,3.  procainamide infusion negative for brugada syndrome.,procedures:,1.  comprehensive electrophysiology studies with attempted arrhythmia induction.,2.  iv procainamide infusion for brugada syndrome.,description of procedure:, the patient gave informed consent for comprehensive electrophysiologic studies.  she received small amounts of intravenous fentanyl and versed for conscious sedation.  then 1% lidocaine local anesthesia was used.  three catheters were placed via the right femoral vein; 5-french catheters to the right ventricular apex and right atrial appendage; and a 6-french catheter to the his bundle.  later in the procedure, the rv apical catheter was moved to rv outflow tract.,electrophysiological findings:,  conduction intervals in sinus rhythm were normal.  sinus cycle length 768 ms, pa interval 24 ms, ah interval 150 ms, hv interval 46 ms.  sinus node recovery times were also normal at 1114 ms.  corrected sinus node recovery time was normal at 330 ms.  one-to-one av conduction was present to cycle length 480 ms, ah interval 240 ms, hv interval 54 ms.  av nodal effective refractory period was normal, 440 ms at drive cycle length 600 ms.  ra-erp was 250 ms.  with ventricular pacing, there was va disassociation present.,since there was no evidence for dual av nodal pathways, and poor retrograde conduction, isoproterenol infusion was not performed to look for svt.,programmed ventricular stimulation was performed at both right ventricular apex and right ventricular outflow tracts.  drive cycle length 600, 500, and 400 ms was used with triple extrastimuli down to troubling intervals of 180 ms, or refractoriness.  there was no inducible vt.  longest run was 5 beats of polymorphic vt, which is a nonspecific finding.  from the apex 400-600 with 2 extrastimuli were delivered, again with no inducible vt.,procainamide was then infused, 20 mg/kg over 10 minutes.  there were no st segment changes.  hv interval after iv procainamide remained normal at 50 ms.,assessment: , normal electrophysiologic studies.  no evidence for sinus node dysfunction or atrioventricular block.  no inducible supraventricular tachycardia or ventricular tachycardia, and no evidence for brugada syndrome.,plan: , the patient will follow up with dr. x.  she recently had an ambulatory eeg.  i will plan to see her again on a p.r.n. basis should she develop a recurrent syncopal episodes.  reveal event monitor was considered, but not placed since she has only had one single episode.
+
+ICD-10 Suggestions:
+ - C3432 :   Malignant neoplasm of lower lobe, left bronchus or lung (score=0.993)
+ - C384 :    Malignant neoplasm of pleura (score=0.988)
+ - D382 :    Neoplasm of uncertain behavior of pleura (score=0.974)
+ - C342 :    Malignant neoplasm of middle lobe, bronchus or lung (score=0.971)
+ - C782 :    Secondary malignant neoplasm of pleura (score=0.962)
+

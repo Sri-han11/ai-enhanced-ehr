@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+PAT104 is a 42-year-old male with a tachybrady syndrome. He had a subclavian stick and a wire was inserted into the superior vena cava. A ventricular lead was seated under fluoroscopy. The lead was attached to a pacemaker generator that was inserted in a subcutaneous pocket in the left subclavian area. The subcutaneous tissues were irrigated and closed with interrupted 4-o vicryl, and the skin was closed with staples. The patient was returned to the icu in good condition.
+
+=== SOAP SUMMARY ===
+A ventricular lead was seated under fluoroscopy. The lead was attached to a pacemaker generator that was inserted in a subcutaneous pocket in the left subclavian area. Subcutaneous tissues were irrigated and closed with interrupted 4-o vicryl. The patient was returned to the icu in good condition.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT104_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+implantation of a dual-chamber pacemaker and fluoroscopic guidance for implantation of a dual-chamber pacemaker.
+
+OBJECTIVE:
+Vitals: trestbps=120; chol=240; fbs=1; restecg=1; thalach=194; exang=0; oldpeak=0.8; slope=0; ca=0; thal=3
+Lab: pacemaker (dual chamber) - 1
+
+ASSESSMENT:
+A ventricular lead was seated under fluoroscopy. The lead was attached to a pacemaker generator that was inserted in a subcutaneous pocket in the left subclavian area. Subcutaneous tissues were irrigated and closed with interrupted 4-o vicryl. The patient was returned to the icu in good condition.
+
+PLAN:
+preoperative diagnosis:, tachybrady syndrome.,postoperative diagnosis:, tachybrady syndrome.,operative procedure:, insertion of transvenous pacemaker.,anesthesia:, local,procedure and gross findings:, the patient's chest was prepped with betadine solution and a small amount of lidocaine infiltrated.  in the left subclavian region, a subclavian stick was performed without difficulty, and a wire was inserted. fluoroscopy confirmed the presence of the wire in the superior vena cava.  an introducer was then placed over the wire.  the wire was removed and replace by a ventricular lead that was seated under fluoroscopy. following calibration, the lead was attached to a pacemaker generator that was inserted in a subcutaneous pocket in the left subclavian area.  ,the subcutaneous tissues were irrigated and closed with interrupted 4-o vicryl, and the skin was closed with staples.  sterile dressings were placed, and the patient was returned to the icu in good condition.
+
+ICD-10 Suggestions:
+ - Z950 :    Presence of cardiac pacemaker (score=0.989)
+ - I4901 :   Ventricular fibrillation (score=0.634)
+ - T82198D : Other mechanical complication of other cardiac electronic device, subsequent encounter (score=0.627)
+ - T82199D : Other mechanical complication of unspecified cardiac device, subsequent encounter (score=0.623)
+ - T82592D : Other mechanical complication of artificial heart, subsequent encounter (score=0.587)
+

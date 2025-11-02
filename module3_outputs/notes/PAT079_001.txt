@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 52-year-old male with a history of obstructive sleep apnea syndrome and loud snoring. He is a non-smoker and a non-smoker. The patient is a non-smoker and a non-smoker. The patient is a non-smoker and a non-smoker. The patient is a non-smoker and a non-smoker. The patient is a non-smoker and a non-smoker. The patient is a non-smoker and a non-smoker. The patient is a non-smoker and a non-smoker. The patient is a non-smoker and a non-smoker. The patient is a non-smoker and a non-smoker. The patient is a non-smoker and a non-smoker. The patient is a non-smoker and a non-smoker. The patient is a non-smoker and a non-smoker. The patient is a non-smoker and a non-smoker. The patient is a non-smoker and a non-smoker. The patient is a non-smoker and a non-smoker. The patient is a non-smoker and a non-smoker. The patient is a non-smoker and
+
+=== SOAP SUMMARY ===
+The patient is a 52-year-old male with a history of obstructive sleep apnea syndrome and loud snoring. He is a non-smoker and aNon-Smoker. The Patient is a Non-Smokers and A Non-smokers. The patient is Non- Smoker and A non- smoker.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT079_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+obstructive sleep apnea syndrome. loud snoring. schedule an overnight sleep study.
+
+OBJECTIVE:
+Vitals: trestbps=128; chol=205; fbs=1; restecg=1; thalach=184; exang=0; oldpeak=0.0; slope=2; ca=0; thal=2
+Lab: pulmonary consultation - 1
+
+ASSESSMENT:
+The patient is a 52-year-old male with a history of obstructive sleep apnea syndrome and loud snoring. He is a non-smoker and aNon-Smoker. The Patient is a Non-Smokers and A Non-smokers. The patient is Non- Smoker and A non- smoker.
+
+PLAN:
+past medical history:,  unremarkable, except for diabetes and atherosclerotic vascular disease.,allergies:,  penicillin.,current medications:,  include glucovance, seroquel, flomax, and nexium.,past surgical history: , appendectomy and exploratory laparotomy.,family history: , noncontributory.,social history:  ,the patient is a non-smoker.  no alcohol abuse.  the patient is married with no children.,review of systems:,  significant for an old cva.,physical examination:,  the patient is an elderly male alert and cooperative.  blood pressure 96/60 mmhg.  respirations were 20.  pulse 94.  afebrile.  o2 was 94% on room air.  heent:  normocephalic and atraumatic.  pupils are reactive.  oral mucosa is grossly normal.  neck is supple.  lungs:  decreased breath sounds.  disturbed breath sounds with poor exchange.  heart:  regular rhythm.  abdomen:  soft and nontender.  no organomegaly or masses.  extremities:  no cyanosis, clubbing, or edema.,laboratory data: , oropharyngeal evaluation done on 11/02/2006 revealed mild oropharyngeal dysphagia with no evidence of laryngeal penetration or aspiration with food or liquid.  slight reduction in tongue retraction resulting in mild residual remaining in the palatal sinuses, which clear with liquid swallow and double-saliva swallow.,assessment:,1.  cough probably multifactorial combination of gastroesophageal reflux and recurrent aspiration.,2.  old cva with left hemiparesis.,3.  oropharyngeal dysphagia.,4.  diabetes.,plan:,  at the present time, the patient is recommended to continue on a regular diet, continue speech pathology evaluation as well as perform double-swallow during meals with bolus sensation.  he may use italian lemon ice during meals to help clear sinuses as well.  the patient will follow up with you.  if you need any further assistance, do not hesitate to call me.
+
+ICD-10 Suggestions:
+ - R0689 :   Other abnormalities of breathing (score=0.995)
+ - J988 :    Other specified respiratory disorders (score=0.994)
+ - G4701 :   Insomnia due to medical condition (score=0.993)
+ - R0683 :   Snoring (score=0.992)
+ - G4736 :   Sleep related hypoventilation in conditions classified elsewhere (score=0.974)
+

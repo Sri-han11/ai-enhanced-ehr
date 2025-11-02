@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+PAT091 is a 48-year-old male with a history of coronary artery disease. He was admitted to the minor or in the same day surgery where his posterior left chest was prepped and draped in a usual fashion. Xylocaine 1% was injected and then a 12-french pigtail catheter was inserted in the medial scapular line about the eighth intercostal space. It was difficult to draw fluid by syringe, but we connected the system to a plastic bag and by gravity started draining at least 400 ml while we were in the minor or. Samples were sent for culture and sensitivity, aerobic and anaerobic. He tolerated the procedure well and the postprocedure chest x-ray showed no complications.
+
+=== SOAP SUMMARY ===
+PAT091 is a 48-year-old male with a history of coronary artery disease. Xylocaine 1% was injected and a 12-french pigtail catheter was inserted in the medial scapular line about the eighth intercostal space. He tolerated the procedure well and the postprocedure chest x-ray showed no complications.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT091_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+cardiology consultation regarding preoperative evaluation for right hip surgery. patient with a history of coronary artery disease status post bypass surgery
+
+OBJECTIVE:
+Vitals: trestbps=124; chol=255; fbs=1; restecg=1; thalach=175; exang=0; oldpeak=0.0; slope=2; ca=2; thal=2
+Lab: preop cardiac consult
+
+ASSESSMENT:
+PAT091 is a 48-year-old male with a history of coronary artery disease. Xylocaine 1% was injected and a 12-french pigtail catheter was inserted in the medial scapular line about the eighth intercostal space. He tolerated the procedure well and the postprocedure chest x-ray showed no complications.
+
+PLAN:
+preoperative diagnosis:  ,left hemothorax, rule out empyema.,postoperative diagnosis: , left hemothorax rule out empyema.,procedure: , insertion of a 12-french pigtail catheter in the left pleural space.,procedure detail:  ,after obtaining informed consent, the patient was taken to the minor or in the same day surgery where his posterior left chest was prepped and draped in a usual fashion.  xylocaine 1% was injected and then a 12-french pigtail catheter was inserted in the medial scapular line about the eighth intercostal space.  it was difficult to draw fluid by syringe, but we connected the system to a plastic bag and by gravity started draining at least 400 ml while we were in the minor or.  samples were sent for culture and sensitivity, aerobic and anaerobic.,the patient and i decided to admit him for a period of observation at least overnight.,he tolerated the procedure well and the postprocedure chest x-ray showed no complications.
+
+ICD-10 Suggestions:
+ - Q245 :    Malformation of coronary vessels (score=0.946)
+ - I427 :    Cardiomyopathy due to drug and external agent (score=0.705)
+ - I2584 :   Coronary atherosclerosis due to calcified coronary lesion (score=0.703)
+ - I519 :    Heart disease, unspecified (score=0.533)
+ - I252 :    Old myocardial infarction (score=0.326)
+

@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient was exercised according to standard bruce protocol for 9 minutes achieving maximal heart rate of 146 resulting in 85% of age-predicted maximal heart rate. Peak blood pressure was 132/60. The patient did not experience any chest discomfort during stress or recovery. The test was terminated due to leg fatigue and achieving target heart rate.,electrocardiogram during stress and recovery did not reveal an additional 1 mm of st depression compared to the baseline electrocardiogram. technetium was injected at 5 minutes into stress.,impression:,1. good exercise tolerance.2, adequate heart rate and blood pressure response.3, this maximal treadmill test did not evoke significant and diagnostic clinical or electrocardiographic evidence for significant occlusive coronary artery disease.
+
+=== SOAP SUMMARY ===
+The patient was exercised according to standard bruce protocol for 9 minutes achieving maximal heart rate of 146. Peak blood pressure was 132/60. The patient did not experience any chest discomfort during stress or recovery. The test was terminated due to leg fatigue and achieving target heart rate.electrocardiogram during stress and recovery did not reveal an additional 1 mm of st depression compared to the baseline electrocardiograms.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT006_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+the patient wa exercised according to standard bruce protocol for 9 minutes.
+
+OBJECTIVE:
+Vitals: trestbps=140; chol=192; fbs=0; restecg=1; thalach=148; exang=0; oldpeak=0.4; slope=1; ca=0; thal=1
+Lab: treadmill test
+
+ASSESSMENT:
+The patient was exercised according to standard bruce protocol for 9 minutes achieving maximal heart rate of 146. Peak blood pressure was 132/60. The patient did not experience any chest discomfort during stress or recovery. The test was terminated due to leg fatigue and achieving target heart rate.electrocardiogram during stress and recovery did not reveal an additional 1 mm of st depression compared to the baseline electrocardiograms.
+
+PLAN:
+reason for examination:,  abnormal ekg.,findings: , the patient was exercised according to standard bruce protocol for 9 minutes achieving maximal heart rate of 146 resulting in 85% of age-predicted maximal heart rate.  peak blood pressure was 132/60.  the patient did not experience any chest discomfort during stress or recovery.  the test was terminated due to leg fatigue and achieving target heart rate.,electrocardiogram during stress and recovery did not reveal an additional 1 mm of st depression compared to the baseline electrocardiogram.  technetium was injected at 5 minutes into stress.,impression:,1.  good exercise tolerance.,2.  adequate heart rate and blood pressure response.,3.  this maximal treadmill test did not evoke significant and diagnostic clinical or electrocardiographic evidence for significant occlusive coronary artery disease.,
+
+ICD-10 Suggestions:
+ - Z0130 :   Encounter for examination of blood pressure without abnormal findings (score=0.990)
+ - T733XXD : Exhaustion due to excessive exertion, subsequent encounter (score=0.894)
+ - Z0131 :   Encounter for examination of blood pressure with abnormal findings (score=0.894)
+ - R9430 :   Abnormal result of cardiovascular function study, unspecified (score=0.772)
+ - R079 :    Chest pain, unspecified (score=0.654)
+

@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 58-year-old black male with chronic renal failure. He undergoes dialysis through the left forearm bridge fistula and has small pseudoaneurysms at the needle puncture sites level. There is narrowing at the distal anastomosis due to intimal hypoplasia and the vein beyond it was of good quality. He undergoes dialysis through the left forearm bridge fistula and has small pseudoaneurysms at the needle puncture sites level. He undergoes dialysis through the left forearm bridge fistula and has small pseudoaneurysms at the needle puncture sites level. He undergoes surgery through the left forearm bridge fistula and has small pseudoaneurysms at the needle puncture sites level. He undergoes surgery through the left forearm bridge fistula and has small pseudoaneurysms at the needle puncture sites level. He undergoes surgery through the left forearm bridge fistula and has small pseudoaneurysms at the needle puncture sites level. He undergoes surgery through the left forearm bridge fistula and has small pseudoaneurysms at the needle puncture sites level. He undergoes surgery through the left forearm bridge fistula and has small pseudoaneurysms at the needle puncture sites level. He undergoes surgery through the left forearm bridge fistula and has small pseudoaneurysms at the needle puncture sites level. He undergoes surgery through the left forearm bridge fistula and has small pseudoan
+
+=== SOAP SUMMARY ===
+The patient is a 58-year-old black male with chronic renal failure. There is narrowing at the distal anastomosis due to intimal hypoplasia and the vein beyond it was of good quality. He has small pseudoaneurysms at the needle puncture sites level.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT180_001
+Date: 2025-11-02
+
+SUBJECTIVE:
+left and right heart catheterization and selective coronary angiography. coronary artery disease, severe aortic stenosis by echo.
+
+OBJECTIVE:
+Vitals: trestbps=150; chol=276; fbs=0; restecg=0; thalach=112; exang=1; oldpeak=0.6; slope=1; ca=1; thal=1
+Lab: heart catheterization & angiography
+
+ASSESSMENT:
+The patient is a 58-year-old black male with chronic renal failure. There is narrowing at the distal anastomosis due to intimal hypoplasia and the vein beyond it was of good quality. He has small pseudoaneurysms at the needle puncture sites level.
+
+PLAN:
+preoperative diagnoses:,1.  chronic renal failure.,2.  thrombosed left forearm arteriovenous gore-tex bridge fistula.,postoperative diagnosis:,1.  chronic renal failure.,2.  thrombosed left forearm arteriovenous gore-tex bridge fistula.,procedure performed:,1.  fogarty thrombectomy, left forearm arteriovenous gore-tex bridge fistula.,2.  revision of distal anastomosis with 7 mm interposition gore-tex graft.,anesthesia:,  general with controlled ventillation.,gross findings: , the patient is a 58-year-old black male with chronic renal failure.  he undergoes dialysis through the left forearm bridge fistula and has small pseudoaneurysms at the needle puncture sites level.  there is narrowing at the distal anastomosis due to intimal hypoplasia and the vein beyond it was of good quality.,operative procedure: , the patient was taken to the or suite, placed in supine position.  general anesthetic was administered.  left arm was prepped and draped in appropriate manner.  a pfannenstiel skin incision was created just below the antecubital crease just deeper to the subcutaneous tissue.  utilizing both blunt and sharp dissections segment of the fistula was isolated ________ vessel loop.  transverse graftotomy was created.  a #4 fogarty catheter passed proximally and distally restoring inflow and meager inflow.  a fistulogram was performed and the above findings were noted.  in a retrograde fashion, the proximal anastomosis was patent.  there was no narrowing within the forearm graft.  both veins were flushed with heparinized saline and controlled with a vascular clamp.  a longitudinal incision was then created in the upper arm just deep into the subcutaneous tissue fascia.  utilizing both blunt and sharp dissection, the brachial vein as well as distal anastomosis was isolated.  the distal anastomosis amputated off the fistula and oversewn with continuous running #6-0 prolene suture tied upon itself.  the vein was controlled with vascular clamps.  longitudinal venotomy created along the anteromedial wall.  a 7 mm graft was brought on to the field and this was cut to shape and size.  this was sewed to the graft in an end-to-side fashion with u-clips anchoring the graft at the heel and toe with interrupted #6-0 prolene sutures.  good backflow bleeding was confirmed.  the vein flushed with heparinized saline and graft was controlled with vascular clamp.  the end of the insertion graft was cut to shape in length and sutured to the graft in an end-to-end fashion with continuous running #6-0 prolene suture.  good backflow bleeding was confirmed.  the graftotomy was then closed with interrupted #6-0 prolene suture.  flow through the fistula was permitted, a good flow passed.  the wound was copiously irrigated with antibiotic solution.  sponge, needles, instrument counts were correct.  all surgical sites were inspected.  good hemostasis was noted.  the incision was closed in layers with absorbable sutures.  sterile dressing was applied.  the patient tolerated the procedure well and returned to the recovery room in apparent stable condition.
+
+ICD-10 Suggestions:
+ - S37059S : Moderate laceration of unspecified kidney, sequela (score=0.514)
+ - S37051D : Moderate laceration of right kidney, subsequent encounter (score=0.501)
+ - S35412S : Laceration of left renal artery, sequela (score=0.498)
+ - S35415S : Laceration of left renal vein, sequela (score=0.493)
+ - S37052S : Moderate laceration of left kidney, sequela (score=0.488)
+

@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT059 is a 34-year-old male with a history of pulmonary disorder with lung mass, pleural effusion, and chronic uncontrolled atrial fibrillation secondary to pulmonary disorder. The patient was admitted for lung mass and also pleural effusion. The patient had a chest tube placement, which ha been taken out. The patient has chronic atrial fibrillation, on anticoagulation.
+
+=== SOAP SUMMARY ===
+Patient PAT059 is a 34-year-old male with a history of pulmonary disorder with lung mass, pleural effusion, and chronic uncontrolled atrial fibrillation secondary to pulmonary disorder. The patient had a chest tube placement, which ha been taken out. Patient has chronic atrialfibrillation, on anticoagulation.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT059_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+pulmonary disorder with lung mass, pleural effusion, and chronic uncontrolled atrial fibrillation secondary to pulmonary disorder. the patient is admitted for lung mass and also pleural effusion. the patient had a chest tube placement, which ha been taken out. the patient ha chronic atrial fibrillation, on anticoagulation.
+
+OBJECTIVE:
+Vitals: trestbps=118; chol=182; fbs=0; restecg=0; thalach=174; exang=0; oldpeak=0.0; slope=2; ca=0; thal=2
+Lab: soap - lung mass
+
+ASSESSMENT:
+Patient PAT059 is a 34-year-old male with a history of pulmonary disorder with lung mass, pleural effusion, and chronic uncontrolled atrial fibrillation secondary to pulmonary disorder. The patient had a chest tube placement, which ha been taken out. Patient has chronic atrialfibrillation, on anticoagulation.
+
+PLAN:
+operation: , insertion of a #8 shiley tracheostomy tube.,anesthesia: , general endotracheal anesthesia.,operative procedure in detail: , after obtaining informed consent from the patient's family, including a thorough explanation of the risks and benefits of the aforementioned procedure, the patient was taken to the operating room and general endotracheal anesthesia was administered.,next, a #10-blade scalpel was used to make an incision approximately 1 fingerbreadth above the sternal notch.  dissection was carried down using bovie electrocautery to the level of the trachea.  the 2nd tracheal ring was identified.  next, a #11-blade scalpel was used to make a trap door in the trachea.  the endotracheal tube was backed out.  a #8 shiley tracheostomy tube was inserted, and tidal co2 was confirmed when it was connected to the circuit.  we then secured it in place using 0 silk suture.  a sterile dressing was applied.  the patient tolerated the procedure well.
+
+ICD-10 Suggestions:
+ - J4489 :   Other specified chronic obstructive pulmonary disease (score=0.959)
+ - R009 :    Unspecified abnormalities of heart beat (score=0.948)
+ - J984 :    Other disorders of lung (score=0.941)
+ - R942 :    Abnormal results of pulmonary function studies (score=0.921)
+ - I480 :    Paroxysmal atrial fibrillation (score=0.921)
+

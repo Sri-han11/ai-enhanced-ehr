@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT008 is a 44-year-old male with a history of pain. The patient underwent a bilateral common carotid ultrasound to evaluate pain. The ultrasound showed minimal, predominantly noncalcified plaquing with mild calcific plaquing in the left internal carotid artery. There are no different colors or spectral doppler waveform abnormalities.
+
+=== SOAP SUMMARY ===
+Patient PAT008 is a 44-year-old male with a history of pain. He underwent a bilateral common carotid ultrasound to evaluate pain. The ultrasound showed minimal, predominantly noncalcified plaquing with mild calcific plaqued. There are no different colors or spectral doppler waveform abnormalities.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT008_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+bilateral carotid ultrasound to evaluate pain.
+
+OBJECTIVE:
+Vitals: trestbps=120; chol=263; fbs=0; restecg=1; thalach=173; exang=0; oldpeak=0.0; slope=2; ca=0; thal=3
+Lab: ultrasound - carotid - 2
+
+ASSESSMENT:
+Patient PAT008 is a 44-year-old male with a history of pain. He underwent a bilateral common carotid ultrasound to evaluate pain. The ultrasound showed minimal, predominantly noncalcified plaquing with mild calcific plaqued. There are no different colors or spectral doppler waveform abnormalities.
+
+PLAN:
+exam: , ultrasound carotid, bilateral.,reason for examination: , pain.,comparison:,  none.,findings: , bilateral common carotid arteries/branches demonstrate minimal, predominantly noncalcified plaquing with mild calcific plaquing in the left internal carotid artery.  there are no different colors or spectral doppler waveform abnormalities.,parametric data:,  right cca psv 0.72 m/s.  right ica psv is 0.595 m/s.  right ica edv 0.188 m/s.  right vertebral 0.517 m/s. right ic/cc is 0.826. left cca psv 0.571 m/s, left ica psv 0.598 m/s.  left ica edv 0.192 m/s.  left vertebral 0.551 m/s.  left ic/cc is 1.047.,impression:,1.  no evidence for clinically significant stenosis.,2.  minimal, predominantly soft plaquing.,
+
+ICD-10 Suggestions:
+ - R52 :     Pain, unspecified (score=0.688)
+ - S15002D : Unspecified injury of left carotid artery, subsequent encounter (score=0.446)
+ - S15001D : Unspecified injury of right carotid artery, subsequent encounter (score=0.426)
+ - S15012S : Minor laceration of left carotid artery, sequela (score=0.425)
+ - S15009D : Unspecified injury of unspecified carotid artery, subsequent encounter (score=0.403)
+

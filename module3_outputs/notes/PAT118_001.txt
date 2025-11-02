@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is an 84-year-old female with a new murmur, bacteremia, and fever. The patient has a history of diabetes, hypertension, and tias. The patient is allergic to codeine, coreg, and vancomycin. The patient has a pancreatic mass with biliary obstruction. The patient should undergo an echocardiogram to assess for the possibility of endocarditis, which may be contributing to her symptoms. Blood pressure control should be maintained with diovan and norvasc. Potassium should be replaced, and hyponatremia should be on proactive.
+
+=== SOAP SUMMARY ===
+The patient is an 84-year-old female with a new murmur, bacteremia, and fever. The patient has a pancreatic mass with biliary obstruction. Blood pressure control should be maintained with diovan and norvasc. Potassium should be replaced, and hyponatremia should be on proactive.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT118_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+diagnostic fiberoptic bronchoscopy.
+
+OBJECTIVE:
+Vitals: trestbps=120; chol=193; fbs=0; restecg=0; thalach=162; exang=0; oldpeak=1.9; slope=1; ca=0; thal=3
+Lab: multiple medical problems - discharge summary
+
+ASSESSMENT:
+The patient is an 84-year-old female with a new murmur, bacteremia, and fever. The patient has a pancreatic mass with biliary obstruction. Blood pressure control should be maintained with diovan and norvasc. Potassium should be replaced, and hyponatremia should be on proactive.
+
+PLAN:
+reason for consultation: , new murmur with bacteremia.,history of present illness:,  the patient is an 84-year-old female admitted with jaundice and a pancreatic mass who was noted to have a new murmur, bacteremia, and fever.  the patient states that apart from the fever, she was having no other symptoms and denies any previous cardiac history.  she denies any orthopnea or paroxysmal nocturnal dyspnea.  denies any edema, chest pain, palpitations, or syncope.  she has had tias in the past, but none recently.,past medical history:,  significant for diabetes, hypertension, and tia.,medications: , include:,1.  acidophilus supplement.,2.  cholestyramine.,3.  creon 20 three times daily.,4.  diovan 160 mg twice daily.,6.  lantus 10 daily.,7.  norvasc 5 mg daily.,8.  novolog 70/30, 10 units at 12 noon daily.,9.  pamelor 15 ml every evening.,10.  vitamin d3 one tablet weekly.,allergies: , the patient is allergic to codeine, coreg, and vancomycin.,family history:  ,the patient's daughter apparently has history of a murmur, but no diagnosis of congenital heart disease.  the patient's father died in his 80s of chf.,social history: , the patient denies ever having smoked, denies any significant alcohol use, and lives with her daughter in pasadena.,review of systems: , the patient has had fever and chills.  she has also had some jaundice.  denies any nausea or vomiting.  denies any chest pain or abdominal pain.  denies orthopnea, paroxysmal nocturnal dyspnea or edema.  she has had tias in the past, but denies any recent neurological symptoms such as motor weakness or focal sensory deficits.  denies melena or hematochezia.  all other systems were reviewed and were found to be negative.,physical examination,general:  an elderly caucasian female, awake and alert, and in no distress.,vital signs:  temperature is 98.8, heart rate 96, sinus, blood pressure 138/55, respiratory rate 20, and oxygen saturation 92%.,head and neck:  her head is atraumatic.  she is normocephalic.  her neck is supple.  there is no jvd.  no palpable adenopathy or thyromegaly.  there is some icterus of the sclerae bilaterally.  oral mucosa is moist.,chest:  symmetrical expansion with normal percussion note.  there are no inspiratory crackles or expiratory wheeze.,cardiac:  heart sounds s1 and s2 are regular.  there is a 2/6 systolic murmur heard through the precordium.  there is no gallop or rub.  there is no palpable thrill or retrosternal lift.,abdomen:  soft, nondistended, and nontender with normal bowel sounds.  no audible bruits.,extremities:  no pitting edema, no clubbing, no cyanosis, and peripheral pulses are 2+.,neurologic:  she exhibits no focal motor or sensory findings.,laboratory data: , the patient's sodium was 133, potassium 2.8, chloride 99, bicarbonate 31, glucose 75, bun 12, creatinine 0.8, calcium 8.6, total bilirubin 3.2, ast 63, and alt 43.  white count 5.4, hemoglobin 9.1, hematocrit 26.6, and platelet count 128,000.  lipase less than 10.,diagnostic imaging: , the patient had a ct scan of the abdomen that demonstrated a pancreatic mass with biliary obstruction.  previous biliary stent was present.,ekg shows normal sinus rhythm.  there are no acute st-t changes.,assessment: , this is an 84-year-old female with newly found murmur.  no previous history of heart disease.  this murmur has occurred in the setting of fever and bacteremia.  the patient also has a pancreatic mass with jaundice, history of hypertension, and now has hyponatremia and hypokalemia.,plan:  ,the patient should undergo an echocardiogram to assess for the possibility of endocarditis, which may be contributing to her symptoms.  blood pressure control should be maintained with diovan and norvasc.  potassium should be replaced, and hyponatremia should be on proactive.
+
+ICD-10 Suggestions:
+ - K838 :    Other specified diseases of biliary tract (score=0.676)
+ - K744 :    Secondary biliary cirrhosis (score=0.468)
+ - S36221D : Contusion of body of pancreas, subsequent encounter (score=0.356)
+ - K87 :     Disorders of gallbladder, biliary tract and pancreas in diseases classified elsewhere (score=0.293)
+ - S36221A : Contusion of body of pancreas, initial encounter (score=0.268)
+

@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient has aortic stenosis. A transesophageal echocardiogram was performed after getting verbal and a written consent signed. Then a multiplane tee probe was introduced into the upper esophagus, mid esophagus, lower esophagus, and stomach and multiple views were obtained. There were no complications. The patient's throat was numbed with cetacaine spray and iv sedation was achieved with versed and fentanyl. The aortic valve is thick and calcified, a severely restricted end opening and there is 0.6 x 8 mm vegetation attached to the right coronary cusp. The peak velocity across the aortic valve was 4.6 m/sec and mean gradient was 53 mmhg and peak gradient 84 mmhg with calculated aortic valve area of 0.6 sq cm by planimetry. The mitral valve is calcified and thick. No vegetation seen. There is mild-to-moderate mr present. There is mild ai present also. The tricuspid valve and pulmonary valve are structurally normal. There is a mild tr present. There is no clot seen in the left atrial appendage. The velocity in the left atrial appendage was 0.6 m/sec. The intraatrial septum was intact. There is no clot or mass seen. Normal lv and rv systolic function. There is thick raised calcified plaque seen in the thoracic aorta and arch.
+
+=== SOAP SUMMARY ===
+The patient has aortic stenosis. A transesophageal echocardiogram was performed after getting verbal and a written consent signed. The patient's throat was numbed with cetacaine spray and iv sedation was achieved with versed and fentanyl. There were no complications.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT014_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+transesophageal echocardiogram. mrsa bacteremia, rule out endocarditis. the patient ha aortic stenosis.
+
+OBJECTIVE:
+Vitals: trestbps=110; chol=211; fbs=0; restecg=0; thalach=144; exang=1; oldpeak=1.8; slope=1; ca=0; thal=2
+Lab: transesophageal echocardiogram - 5
+
+ASSESSMENT:
+The patient has aortic stenosis. A transesophageal echocardiogram was performed after getting verbal and a written consent signed. The patient's throat was numbed with cetacaine spray and iv sedation was achieved with versed and fentanyl. There were no complications.
+
+PLAN:
+clinical indications: , mrsa bacteremia, rule out endocarditis.  the patient has aortic stenosis.,description of procedure: , the transesophageal echocardiogram was performed after getting verbal and a written consent signed.  then a multiplane tee probe was introduced into the upper esophagus, mid esophagus, lower esophagus, and stomach and multiple views were obtained.  there were no complications.  the patient's throat was numbed with cetacaine spray and iv sedation was achieved with versed and fentanyl.,findings:,1.  aortic valve is thick and calcified, a severely restricted end opening and there is 0.6 x 8 mm vegetation attached to the right coronary cusp.  the peak velocity across the aortic valve was 4.6 m/sec and mean gradient was 53 mmhg and peak gradient 84 mmhg with calculated aortic valve area of 0.6 sq cm by planimetry.,2.  mitral valve is calcified and thick.  no vegetation seen.  there is mild-to-moderate mr present.  there is mild ai present also.,3.  tricuspid valve and pulmonary valve are structurally normal.,4.  there is a mild tr present.,5.  there is no clot seen in the left atrial appendage.  the velocity in the left atrial appendage was 0.6 m/sec.,6.  intraatrial septum was intact.  there is no clot or mass seen.,7.  normal lv and rv systolic function.,8.  there is thick raised calcified plaque seen in the thoracic aorta and arch.,summary:,1.  there is a 0.6 x 0.8 cm vegetation present in the aortic valve with severe aortic stenosis.  calculated aortic valve area was 0.6 sq. cm.,2.  normal lv systolic function.,
+
+ICD-10 Suggestions:
+ - Q253 :    Supravalvular aortic stenosis (score=0.813)
+ - T8852XD : Failed moderate sedation during procedure, subsequent encounter (score=0.693)
+ - T8852XA : Failed moderate sedation during procedure, initial encounter (score=0.648)
+ - Y849 :    Medical procedure, unspecified as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure (score=0.618)
+ - T413X5D : Adverse effect of local anesthetics, subsequent encounter (score=0.510)
+

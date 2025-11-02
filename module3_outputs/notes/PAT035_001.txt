@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 59-year-old female with previous history of follicular thyroid cancer, approximately 40 years ago, status post resection with recurrence in the 1980s, who had a left pleural-based mass identified on chest x-ray. Preoperative evaluation included a ct scan, which showed focal mass. ct and pet confirmed anterior lesion. Therefore the patient was seen in our thoracic tumor board where it was recommended to have resection performed with chest wall reconstruction. in the outpatient setting, the patient was willing to proceed.
+
+=== SOAP SUMMARY ===
+The patient is a 59-year-old female with previous history of follicular thyroid cancer, approximately 40 years ago. She had a left pleural-based mass identified on chest x-ray. Preoperative evaluation included a ct scan, which showed focal mass. ct and pet confirmed anterior lesion.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT035_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+left mesothelioma, focal. left anterior pleural-based nodule, which wa on a thin pleural pedicle with no invasion into the chest wall.
+
+OBJECTIVE:
+Vitals: trestbps=125; chol=213; fbs=0; restecg=0; thalach=125; exang=1; oldpeak=1.4; slope=2; ca=1; thal=2
+Lab: thoracoscopy & thoracotomy - mesothelioma
+
+ASSESSMENT:
+The patient is a 59-year-old female with previous history of follicular thyroid cancer, approximately 40 years ago. She had a left pleural-based mass identified on chest x-ray. Preoperative evaluation included a ct scan, which showed focal mass. ct and pet confirmed anterior lesion.
+
+PLAN:
+preoperative diagnosis: , left mesothelioma, focal.,postoperative diagnosis: , left pleural-based nodule.,procedures performed:,1.  left thoracoscopy.,2.  left mini thoracotomy with resection of left pleural-based mass.,findings:,  left anterior pleural-based nodule, which was on a thin pleural pedicle with no invasion into the chest wall.,fluids: , 800 ml of crystalloid.,estimated blood loss: , minimal.,drains, tubes, catheters: , 24-french chest tube in the left thorax plus foley catheter.,specimens: , left pleural-based nodule.,indication for operation:  ,the patient is a 59-year-old female with previous history of follicular thyroid cancer, approximately 40 years ago, status post resection with recurrence in the 1980s, who had a left pleural-based mass identified on chest x-ray.  preoperative evaluation included a ct scan, which showed focal mass.  ct and pet confirmed anterior lesion.  therefore the patient was seen in our thoracic tumor board where it was recommended to have resection performed with chest wall reconstruction.  in the outpatient setting, the patient was willing to proceed.,procedure performed in detail: , after informed consent was obtained, the patient identified correctly.  she was taken to the operating room where an epidural catheter was placed by anesthesia without difficulty.  she was sedated and intubated with double-lumen endotracheal tube without difficulty.  she was positioned with left side up.  appropriate pressure points were padded.  the left chest was prepped and draped in the standard surgical fashion.  the skin incision was made in the posterior axillary line, approximately 7th intercostal space with #10 blade, taken down through tissues and bovie electrocautery.,pleura was entered.  there was good deflation of the left lung.  __________ port was placed, followed by the 0-degree 10-mm scope with appropriate patient positioning.  posteriorly a pedunculated 2.5 x 3-cm pleural-based mass was identified on the anterior chest wall.  there were thin adhesions to the pleura, but no invasion of the chest wall that could be identified.  the tumor was very mobile and was on a pedunculated stalk, approximately 1.5 cm.  it was felt that this could be resected without the need of chest wall reconstruction because of the narrow stalk.,therefore a 2nd port was placed in the anterior axillary line approximately 8th intercostal space in the usual fashion.  camera was placed through this port.  laparoscopic scissors were placed through the posterior port, but it was necessary to have another instrument to provide more tension than just gravity.  therefore because of the need to bring the specimen through the chest wall, a small 3-cm thoracotomy was made, which incorporated the posterior port site.  this was taken down to the subcutaneous tissue with bovie electrocautery.  periosteal elevator was used to lift the intercostal muscle off.  the ribs were not spread.  through this 3-cm incision, both the laparoscopic scissors as well as prestige graspers could be placed.  prestige graspers were used to pull the specimen from the chest wall.  care was taken not to injure the capsule.  the laparoscopic scissors on cautery were used to resect the parietal pleural off of the chest wall.  care was taken not to transect the stalk.  specimen came off the chest wall very easily.  there was good hemostasis.,at this point, the endocatch bag was placed through the incision.  specimen was placed in the bag and then removed from the field.  there was good hemostasis.  camera was removed.  a 24-french chest tube was placed through the anterior port and secured with 2-0 silk suture.  the posterior port site was closed 1st with 2-0 vicryl in a running fashion for the intercostal muscle layer, followed by 2-0 closure of the latissimus fascia as well as subdermal suture, 4-0 monocryl was used for the skin, followed by steri-strips and sterile drapes.  the patient tolerated the procedure well, was extubated in the operating room and returned to the recovery room in stable condition.
+
+ICD-10 Suggestions:
+ - Z85850 :  Personal history of malignant neoplasm of thyroid (score=0.999)
+ - C3492 :   Malignant neoplasm of unspecified part of left bronchus or lung (score=0.979)
+ - C73 :     Malignant neoplasm of thyroid gland (score=0.977)
+ - C384 :    Malignant neoplasm of pleura (score=0.950)
+ - C3412 :   Malignant neoplasm of upper lobe, left bronchus or lung (score=0.948)
+

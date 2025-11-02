@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 61-year-old, obese, African-American male with a history of hypertension, gastritis, and low back pain. He presents to the outpatient clinic with complaints of loud snoring and witnessed apnea episodes by his wife for at least the past five years. He denies any gasping, choking, or coughing episodes while asleep at night. His bedtime is between 10 to 11 p.m., has no difficulty falling asleep, and is usually out of bed around 7 a.m. feeling refreshed. He has two to three episodes of nocturia per night. He denies any morning symptoms. He has mild excess daytime sleepiness manifested by dozing off during boring activities. His family history is significant for about a 20-pack-year tobacco use, quit in 1991. no ethanol use or illicit drug use. He is married. he has one dog at home. he used to be employed at budd automotors as a die setter for about 37 to 40 years.
+
+=== SOAP SUMMARY ===
+The patient is a 61-year-old, obese, African-American male with a history of hypertension, gastritis, and low back pain. He presents to the outpatient clinic with complaints of loud snoring and witnessed apnea episodes by his wife for at least the past five years. He denies any gasping, choking, or coughing episodes while asleep at night.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT078_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+pulmonary function test. mild-to-moderate obstructive ventilatory impairment. some improvement in the airflow after bronchodilator therapy.
+
+OBJECTIVE:
+Vitals: trestbps=140; chol=221; fbs=0; restecg=1; thalach=164; exang=1; oldpeak=0.0; slope=2; ca=0; thal=2
+Lab: pulmonary function test
+
+ASSESSMENT:
+The patient is a 61-year-old, obese, African-American male with a history of hypertension, gastritis, and low back pain. He presents to the outpatient clinic with complaints of loud snoring and witnessed apnea episodes by his wife for at least the past five years. He denies any gasping, choking, or coughing episodes while asleep at night.
+
+PLAN:
+chief complaint:,  rule out obstructive sleep apnea syndrome.,sample patient is a pleasant, 61-year-old, obese, african-american male with a past medical history significant for hypertension, who presents to the outpatient clinic with complaints of loud snoring and witnessed apnea episodes by his wife for at least the past five years.  he denies any gasping, choking, or coughing episodes while asleep at night.  his bedtime is between 10 to 11 p.m., has no difficulty falling asleep, and is usually out of bed around 7 a.m. feeling refreshed.  he has two to three episodes of nocturia per night.  he denies any morning symptoms.  he has mild excess daytime sleepiness manifested by dozing off during boring activities.,past medical history:,  hypertension, gastritis, and low back pain.,past surgical history:,  turp.,medications:,  hytrin, motrin, lotensin, and zantac.,allergies:,  none.,family history:,  hypertension.,social history:,  significant for about a 20-pack-year tobacco use, quit in 1991.  no ethanol use or illicit drug use.  he is married.  he has one dog at home.  he used to be employed at budd automotors as a die setter for about 37 to 40 years.,review of systems:,  his weight has been steady over the years.  neck collar size is 17½".  he denies any chest pain, cough, or shortness of breath.  last chest x-ray within the past year, per his report, was normal.,physical exam:,  a pleasant, obese, african-american male in no apparent respiratory distress.  t:  98.  p:  90.  rr:  20.  bp:  156/90.  o2 saturation:  97% on room air.  ht:  5' 5".  wt:  198 lb.  heent:  a short thick neck, low-hanging palate, enlarged scalloped tongue, narrow foreshortened pharynx, clear nares, and no jvd.  cardiac:  regular rate and rhythm without any adventitious sounds.  chest:  clear lungs bilaterally. abdomen:  an obese abdomen with active bowel sounds.  extremities:  no cyanosis, clubbing, or edema.  neurologic:  non-focal.,impression:,1.  probable obstructive sleep apnea syndrome.,2.  hypertension.,3.  obesity.,4.  history of tobacco use.,plan:,1.  we will schedule an overnight sleep study to evaluate obstructive sleep apnea syndrome.,2.  encouraged weight loss.,3.  check tsh.,4.  asked not to drive and engage in any activity that could endanger himself or others while sleepy.,5.  asked to return to the clinic one week after sleep the study is done.
+
+ICD-10 Suggestions:
+ - R069 :    Unspecified abnormalities of breathing (score=0.968)
+ - R0689 :   Other abnormalities of breathing (score=0.938)
+ - R0683 :   Snoring (score=0.899)
+ - G4714 :   Hypersomnia due to medical condition (score=0.594)
+ - G4701 :   Insomnia due to medical condition (score=0.549)
+

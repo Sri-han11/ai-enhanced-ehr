@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a registered nurse at Spring Grove Hospital. She has a history of hypertension and occasional heartburn. She was born and raised in baltimore. She has not performed farming or kept birds or cats. She is allergic to percocet and morphine causing temporary hypotension. She is taking caduet 10 mg p.o. q.d., coreg cr 40 mg p.o. q.d., and micardis hct 80 mg/12.5 mg p.o. q.d.
+
+=== SOAP SUMMARY ===
+The patient is a registered nurse at Spring Grove Hospital. She has a history of hypertension and occasional heartburn. She is allergic to percocet and morphine causing temporary hypotension. The patient is taking caduet 10 mg p.o.d. q.d., coreg cr 40mg p.O.D., and micardis hct 80 mg/12.5 mg p-o-d.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT041_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+insertion of a left subclavian tesio hemodialysis catheter and surgeon-interpreted fluoroscopy.
+
+OBJECTIVE:
+Vitals: trestbps=140; chol=308; fbs=0; restecg=0; thalach=142; exang=0; oldpeak=1.5; slope=2; ca=1; thal=2
+Lab: tesio hemodialysis catheter insertion
+
+ASSESSMENT:
+The patient is a registered nurse at Spring Grove Hospital. She has a history of hypertension and occasional heartburn. She is allergic to percocet and morphine causing temporary hypotension. The patient is taking caduet 10 mg p.o.d. q.d., coreg cr 40mg p.O.D., and micardis hct 80 mg/12.5 mg p-o-d.
+
+PLAN:
+on review of systems, the patient admits to hypertension and occasional heartburn.  she undergoes mammograms every six months, which have been negative for malignancy.  she denies fevers, chills, weight loss, fatigue, diabetes mellitus, thyroid disease, upper extremity trauma, night sweats, dvt, pulmonary embolism, anorexia, bone pain, headaches, seizures, angina, peripheral edema, claudication, orthopnea, pnd, coronary artery disease, rheumatoid arthritis, rashes, upper extremity edema, cat scratches, cough, hemoptysis, shortness of breath, dyspnea at two flights of stairs, hoarseness, gi bleeding, change in bowel habits, dysphagia, ulcers, hematuria, or history of tb exposure.  she has had negative ppd.,past medical history:,  hypertension.,past surgical history:,  right breast biopsy - benign.,social history: , she was born and raised in baltimore.  she has not performed farming or kept birds or cats.,tobacco: none.,ethanol: ,drug use: ,occupation:  she is a registered nurse at spring grove hospital.,exposure: negative to asbestos.,family history:,  mother with breast cancer.,allergies: , percocet and morphine causing temporary hypotension.,medications: , caduet 10 mg p.o. q.d., coreg cr 40 mg p.o. q.d., and micardis hct 80 mg/12.5 mg p.o. q.d.,physical examination: ,bp:  133/72
+
+ICD-10 Suggestions:
+ - I952 :    Hypotension due to drugs (score=0.991)
+ - T45625D : Adverse effect of hemostatic drug, subsequent encounter (score=0.957)
+ - T465X5D : Adverse effect of other antihypertensive drugs, subsequent encounter (score=0.951)
+ - T465X5A : Adverse effect of other antihypertensive drugs, initial encounter (score=0.919)
+ - T45625A : Adverse effect of hemostatic drug, initial encounter (score=0.894)
+

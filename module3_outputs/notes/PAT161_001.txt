@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is an 81-year-old lady with a history of pneumonia and chf. She was diagnosed with atrial fibrillation, which is a chronic problem for her. She did not want to have coumadin started because she said that she has had it before and the inr has had been very difficult to regulate to the point that it was dangerous, but I convinced her to restart the coumadin again. She was given coumadin as an outpatient and then the inr was found to be 12. So, I told her to come to the emergency room to get vitamin k to reverse the anticoagulation. She is aware of the risk of stroke, but she is very scared of the anticoagulation with coumadin and does not want to use the coumadin at this time and I understand. We will use one aspirin a day instead of the anticoagulation. She is aware of the risk of stroke, but she is very scared of the anticoagulation with coumadin and does not want to use the coumadin at this time and I understand. We will see her as an outpatient.
+
+=== SOAP SUMMARY ===
+The patient is an 81-year-old lady with a history of pneumonia and chf. She was diagnosed with atrial fibrillation, which is a chronic problem for her. She did not want to have coumadin started because she has had it before and the inr has had been very difficult to regulate to the point that it was dangerous.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT161_001
+Date: 2025-11-02
+
+SUBJECTIVE:
+left heart catheterization, coronary angiography, left ventriculography. severe complex left anterior descending and distal circumflex disease with borderline, probably moderate narrowing of a large obtuse marginal branch.
+
+OBJECTIVE:
+Vitals: trestbps=120; chol=240; fbs=0; restecg=1; thalach=169; exang=0; oldpeak=0.0; slope=0; ca=0; thal=2
+Lab: heart catheterization, ventriculography, & angiography - 7
+
+ASSESSMENT:
+The patient is an 81-year-old lady with a history of pneumonia and chf. She was diagnosed with atrial fibrillation, which is a chronic problem for her. She did not want to have coumadin started because she has had it before and the inr has had been very difficult to regulate to the point that it was dangerous.
+
+PLAN:
+reason for the visit:,  very high pt/inr.,history: , the patient is an 81-year-old lady whom i met last month when she came in with pneumonia and chf.  she was noticed to be in atrial fibrillation, which is a chronic problem for her.  she did not want to have coumadin started because she said that she has had it before and the inr has had been very difficult to regulate to the point that it was dangerous, but i convinced her to restart the coumadin again.  i gave her the coumadin as an outpatient and then the inr was found to be 12.  so, i told her to come to the emergency room to get vitamin k to reverse the anticoagulation.,past medical history:,1.  congestive heart failure.,2.  renal insufficiency.,3.  coronary artery disease.,4.  atrial fibrillation.,5.  copd.,6.  recent pneumonia.,7.  bladder cancer.,8.  history of ruptured colon.,9.  myocardial infarction.,10.  hernia repair.,11.  colon resection.,12.  carpal tunnel repair.,13.  knee surgery.,medications:,1.  coumadin.,2.  simvastatin.,3.  nitrofurantoin.,4.  celebrex.,5.  digoxin.,6.  levothyroxine.,7.  vicodin.,8.  triamterene and hydrochlorothiazide.,9.  carvedilol.,social history:  ,she does not smoke and she does not drink.,physical examination:,general:  lady in no distress.,vital signs:  blood pressure 100/46, pulse of 75, respirations 12, and temperature 98.2.,heent:  head is normal.,neck:  supple.,lungs:  clear to auscultation and percussion.,heart:  no s3, no s4, and no murmurs.,abdomen:  soft.,extremities:  lower extremities, no edema.,assessment:,1.  atrial fibrillation.,2.  coagulopathy, induced by coumadin.,plan: , her inr at the office was 12.  i will repeat it, and if it is still elevated, i will give vitamin k 10 mg in 100 ml of d5w and then send her home and repeat the pt/inr next week.  i believe at this time that it is too risky to use coumadin in her case because of her age and comorbidities, the multiple medications that she takes and it is very difficult to keep an adequate level of anticoagulation that is safe for her.  she is prone to a fall and this would be a big problem.  we will use one aspirin a day instead of the anticoagulation.  she is aware of the risk of stroke, but she is very scared of the anticoagulation with coumadin and does not want to use the coumadin at this time and i understand.  we will see her as an outpatient.
+
+ICD-10 Suggestions:
+ - I4811 :   Longstanding persistent atrial fibrillation (score=0.999)
+ - I4819 :   Other persistent atrial fibrillation (score=0.987)
+ - T45515D : Adverse effect of anticoagulants, subsequent encounter (score=0.983)
+ - I4820 :   Chronic atrial fibrillation, unspecified (score=0.960)
+ - T45515A : Adverse effect of anticoagulants, initial encounter (score=0.938)
+

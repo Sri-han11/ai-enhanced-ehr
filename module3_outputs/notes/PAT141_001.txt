@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT141 is a 51-year-old male with a left lower lobectomy. The patient was brought to the operating room and placed in the supine position. After general endotracheal anesthesia was induced, the appropriate monitoring devices were placed. The patient was placed in the right lateral decubitus position. The left chest and back were prepped and draped in a sterile fashion. A right lateral thoracotomy incision was made. Subcutaneous flaps were raised. The anterior border of the latissimus dorsi was freed up, and the muscle was retracted posteriorly. The posterior border of the pectoralis was freed up and it was retracted anteriorly. The 5th intercostal space was entered. The inferior pulmonary ligament was then taken down with electrocautery. The major fissure was then taken down and arteries identified. The artery was dissected free and it was divided with an endo gia stapler. The vein was then dissected free and it was divided with an endo gia stapler. The bronchus was then cleaned of all nodal tissue. a ta-30 green loaded stapler was then placed across this, fired, and main bronchus divided distal to the stapler. Then the lobe was removed and sent to pathology where margins were found to be free of tumor. Level 9, level 13, level 11, and level 6 nodes were taken for permanent cell specimen. hemostasis noted. posterior 28-french and anterior 24-french chest tubes were placed. The wounds were closed with #2 vicryl. a subcutaneous drain was placed.
+
+=== SOAP SUMMARY ===
+Patient PAT141 is a 51-year-old male with a left lower lobectomy. The left chest and back were prepped and draped in a sterile fashion. A right lateral thoracotomy incision was made. The anterior border of the latissimus dorsi was freed up, and the muscle was retracted posteriorly.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT141_001
+Date: 2025-11-02
+
+SUBJECTIVE:
+lower extremity arterial doppler
+
+OBJECTIVE:
+Vitals: trestbps=120; chol=295; fbs=0; restecg=0; thalach=157; exang=0; oldpeak=0.6; slope=2; ca=0; thal=2
+Lab: lower extremity arterial doppler
+
+ASSESSMENT:
+Patient PAT141 is a 51-year-old male with a left lower lobectomy. The left chest and back were prepped and draped in a sterile fashion. A right lateral thoracotomy incision was made. The anterior border of the latissimus dorsi was freed up, and the muscle was retracted posteriorly.
+
+PLAN:
+operation: , left lower lobectomy.,operative procedure in detail: , the patient was brought to the operating room and placed in the supine position.  after general endotracheal anesthesia was induced, the appropriate monitoring devices were placed.  the patient was placed in the right lateral decubitus position.  the left chest and back were prepped and draped in a sterile fashion.  a right lateral thoracotomy incision was made.  subcutaneous flaps were raised.  the anterior border of the latissimus dorsi was freed up, and the muscle was retracted posteriorly.  the posterior border of the pectoralis was freed up and it was retracted anteriorly.  the 5th intercostal space was entered.,the inferior pulmonary ligament was then taken down with electrocautery.  the major fissure was then taken down and arteries identified.  the artery was dissected free and it was divided with an endo gia stapler.  the vein was then dissected free and divided with an endo gia stapler.  the bronchus was then cleaned of all nodal tissue.  a ta-30 green loaded stapler was then placed across this, fired, and main bronchus divided distal to the stapler.,then the lobe was removed and sent to pathology where margins were found to be free of tumor.  level 9, level 13, level 11, and level 6 nodes were taken for permanent cell specimen.  hemostasis noted.  posterior 28-french and anterior 24-french chest tubes were placed.,the wounds were closed with #2 vicryl.  a subcutaneous drain was placed.  subcutaneous tissue was closed with running 3-0 dexon, skin with running 4-0 dexon subcuticular stitch.
+
+ICD-10 Suggestions:
+ - M61512 :  Other ossification of muscle, left shoulder (score=0.119)
+ - M9982 :   Other biomechanical lesions of thoracic region (score=0.118)
+ - M4824 :   Kissing spine, thoracic region (score=0.108)
+ - S20452S : Superficial foreign body of left back wall of thorax, sequela (score=0.043)
+ - I445 :    Left posterior fascicular block (score=0.033)
+

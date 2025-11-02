@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 22-year-old female with past medical history of syncope. She was referred here by dr. X for tilt table. She was lying down on her back for 20 minutes and her blood pressure was 111/75 and heart rate was 89. She was standing up on the tilt tablet for 20 minutes and her heart rate went up to 127 and blood pressure was still in 120/80. Then, the patient received sublingual nitroglycerin 0.4 mg. The patient felt dizzy at that time and heart rate was in the 120 and blood pressure was 110/50. The patient felt nauseous and felt hot at that time. She did not pass out.
+
+=== SOAP SUMMARY ===
+The patient is a 22-year-old female with past medical history of syncope. She was referred here by dr. X for tilt table. The patient was lying down on her back for 20 minutes and her blood pressure was 111/75 and heart rate was 89. When she was standing up on the tilt tablet, her heart rate went up to 127. She did not pass out.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT020_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+tilt table test. a patient with past medical history of syncope. the patient is also complaining of dizziness.
+
+OBJECTIVE:
+Vitals: trestbps=140; chol=239; fbs=0; restecg=1; thalach=151; exang=0; oldpeak=1.8; slope=2; ca=2; thal=2
+Lab: tilt table test - 1
+
+ASSESSMENT:
+The patient is a 22-year-old female with past medical history of syncope. She was referred here by dr. X for tilt table. The patient was lying down on her back for 20 minutes and her blood pressure was 111/75 and heart rate was 89. When she was standing up on the tilt tablet, her heart rate went up to 127. She did not pass out.
+
+PLAN:
+indications: , the patient is a 22-year-old female with past medical history of syncope.  the patient is also complaining of dizziness.  she was referred here by dr. x for tilt table.,technique: , risks and benefits explained to the patient.  consent obtained.  she was lying down on her back for 20 minutes and her blood pressure was 111/75 and heart rate 89.  she was standing up on the tilt tablet for 20 minutes and her heart rate went up to 127 and blood pressure was still in 120/80.  then, the patient received sublingual nitroglycerin 0.4 mg.  the patient felt dizzy at that time and heart rate was in the 120 and blood pressure was 110/50.  the patient felt nauseous and felt hot at that time.  she did not pass out.,complications:,  none.,tilt table was then terminated.,summary:,  positive tilt table for vasovagal syncope with significant increase of heart rate with minimal decrease of blood pressure.,recommendations: , i recommend followup in the office in one week and she will need toprol-xl 12.5 mg every day if symptoms persist.
+
+ICD-10 Suggestions:
+ - Z0131 :   Encounter for examination of blood pressure with abnormal findings (score=0.931)
+ - R030 :    Elevated blood-pressure reading, without diagnosis of hypertension (score=0.922)
+ - R009 :    Unspecified abnormalities of heart beat (score=0.665)
+ - R008 :    Other abnormalities of heart beat (score=0.611)
+ - R293 :    Abnormal posture (score=0.452)
+

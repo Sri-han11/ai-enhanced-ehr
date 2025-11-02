@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Transesophageal echocardiogram for aortic stenosis. Normal left ventricular size and function. Benign doppler flow pattern. Doppler study essentially benign. Aorta essentially benign. Atrial septum intact. Study was negative.
+
+=== SOAP SUMMARY ===
+Transesophageal echocardiogram for aortic stenosis. Normal left ventricular size and function. Benign doppler flow pattern. Aorta essentially benign. Atrial septum intact. Study was negative. Back to Mail Online home. Back To the page you came from.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT023_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+transesophageal echocardiogram for aortic stenosis. normal left ventricular size and function. benign doppler flow pattern. doppler study essentially benign. aorta essentially benign. atrial septum intact. study wa negative.
+
+OBJECTIVE:
+Vitals: trestbps=140; chol=226; fbs=0; restecg=1; thalach=178; exang=0; oldpeak=0.0; slope=2; ca=0; thal=2
+Lab: transesophageal echocardiogram - 1
+
+ASSESSMENT:
+Transesophageal echocardiogram for aortic stenosis. Normal left ventricular size and function. Benign doppler flow pattern. Aorta essentially benign. Atrial septum intact. Study was negative. Back to Mail Online home. Back To the page you came from.
+
+PLAN:
+indication: , aortic stenosis.,procedure: , transesophageal echocardiogram.,interpretation:  ,procedure and complications explained to the patient in detail.  informed consent was obtained.  the patient was anesthetized in the throat with lidocaine spray.  subsequently, 3 mg of iv versed was given for sedation.  the patient was positioned and transesophageal probe was introduced without any difficulty.  images were taken.  the patient tolerated the procedure very well without any complications.  findings as mentioned below.,findings:,1.  left ventricle is in normal size and dimension.  normal function.  ejection fraction of 60%.,2.  left atrium and right-sided chambers are of normal size and dimension.,3.  mitral, tricuspid, and pulmonic valves are structurally normal.,4.  aortic valve reveals annular calcification with fibrocalcific valve leaflets with decreased excursion.,5.  left atrial appendage is clean without any clot or smoke effect.,6.  atrial septum intact.  study was negative.,7.  doppler study essentially benign.,8.  aorta essentially benign.,9.  aortic valve planimetry valve area average about 1.3 cm2 consistent with moderate aortic stenosis.,summary:,1.  normal left ventricular size and function.,2.  benign doppler flow pattern.,3.  aortic valve area of 1.3 cm2 planimetry.,
+
+ICD-10 Suggestions:
+ - I350 :    Nonrheumatic aortic (valve) stenosis (score=0.951)
+ - D151 :    Benign neoplasm of heart (score=0.932)
+ - I352 :    Nonrheumatic aortic (valve) stenosis with insufficiency (score=0.863)
+ - R9430 :   Abnormal result of cardiovascular function study, unspecified (score=0.853)
+ - R931 :    Abnormal findings on diagnostic imaging of heart and coronary circulation (score=0.833)
+

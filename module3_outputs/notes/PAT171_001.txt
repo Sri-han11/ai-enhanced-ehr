@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT171 is a 56-year-old male with nonobstructive coronary artery disease. He has a normal stress test. He underwent left heart catheterization, left and right coronary angiography, left ventricular angiography, and intercoronary stenting of the right coronary artery.
+
+=== SOAP SUMMARY ===
+Patient PAT171 is a 56-year-old male with nonobstructive coronary artery disease. He has a normal stress test. He underwent left heart catheterization, left and right coronary angiography, left ventricular angiographers, and intercoronary stenting of the right coronary artery.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT171_001
+Date: 2025-11-02
+
+SUBJECTIVE:
+left heart catheterization, left and right coronary angiography, left ventricular angiography, and intercoronary stenting of the right coronary artery.
+
+OBJECTIVE:
+Vitals: trestbps=130; chol=256; fbs=1; restecg=0; thalach=142; exang=1; oldpeak=0.6; slope=1; ca=1; thal=1
+Lab: heart catheterization, ventriculography, & angiography - 10
+
+ASSESSMENT:
+Patient PAT171 is a 56-year-old male with nonobstructive coronary artery disease. He has a normal stress test. He underwent left heart catheterization, left and right coronary angiography, left ventricular angiographers, and intercoronary stenting of the right coronary artery.
+
+PLAN:
+clinical indication:  ,normal stress test.,procedures performed:,1.  left heart cath.,2.  selective coronary angiography.,3.  lv gram.,4.  right femoral arteriogram.,5.  mynx closure device.,procedure in detail: , the patient was explained about all the risks, benefits, and alternatives of this procedure.  the patient agreed to proceed and informed consent was signed.,both groins were prepped and draped in the usual sterile fashion.  after local anesthesia with 2% lidocaine, a 6-french sheath was inserted in the right femoral artery.  left and right coronary angiography was performed using 6-french jl4 and 6-french 3drc catheters.  then, lv gram was performed using 6-french pigtail catheter.  post lv gram, lv-to-aortic gradient was obtained.  then, the right femoral arteriogram was performed.  then, the mynx closure device was used for hemostasis.  there were no complications.,hemodynamics: , lvedp was 9.  there was no lv-to-aortic gradient.,coronary angiography:,1.  left main is normal.  it bifurcates into lad and left circumflex.,2.  proximal lad at the origin of big diagonal, there is 50% to 60% calcified lesion present.  rest of the lad free of disease.,3.  left circumflex is a large vessel and with minor plaque.,4.  right coronary is dominant and also has proximal 40% stenosis.,summary:,1.  nonobstructive coronary artery disease, lad proximal at the origin of big diagonal has 50% to 60% stenosis, which is calcified.,2.  rca has 40% proximal stenosis.,3.  normal lv systolic function with lv ejection fraction of 60%.,plan: , we will treat with medical therapy.  if the patient becomes symptomatic, we will repeat stress test.  if there is ischemic event, the patient will need surgery for the lad lesion.  for the time being, we will continue with the medical therapy.,
+
+ICD-10 Suggestions:
+ - I2510 :   Atherosclerotic heart disease of native coronary artery without angina pectoris (score=0.934)
+ - Q245 :    Malformation of coronary vessels (score=0.876)
+ - I25118 :  Atherosclerotic heart disease of native coronary artery with other forms of angina pectoris (score=0.723)
+ - T82855D : Stenosis of coronary artery stent, subsequent encounter (score=0.683)
+ - Z9861 :   Coronary angioplasty status (score=0.643)
+

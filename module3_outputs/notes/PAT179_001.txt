@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 43-year-old female with a history of asthma with allergic rhinitis. The patient underwent a complete physical and follow up on asthma with allergic rhinitis. The patient had aortic stenosis by echo with normal pulmonary artery systolic pressure. The patient was recommended for aortic valve replacement with coronary artery bypass surgery.
+
+=== SOAP SUMMARY ===
+The patient is a 43-year-old female with a history of asthma with allergic rhinitis. She had aortic stenosis by echo with normal pulmonary artery systolic pressure. The patient was recommended for aortIC valve replacement with coronary artery bypass surgery. She underwent a complete physical and follow up on asthma with allergens.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT179_001
+Date: 2025-11-02
+
+SUBJECTIVE:
+a female for a complete physical and follow up on asthma with allergic rhinitis.
+
+OBJECTIVE:
+Vitals: trestbps=120; chol=177; fbs=0; restecg=0; thalach=120; exang=1; oldpeak=2.5; slope=1; ca=0; thal=3
+Lab: followup on asthma
+
+ASSESSMENT:
+The patient is a 43-year-old female with a history of asthma with allergic rhinitis. She had aortic stenosis by echo with normal pulmonary artery systolic pressure. The patient was recommended for aortIC valve replacement with coronary artery bypass surgery. She underwent a complete physical and follow up on asthma with allergens.
+
+PLAN:
+indication:,  coronary artery disease, severe aortic stenosis by echo.,procedure performed:,1.  left heart catheterization.,2.  right heart catheterization.,3.  selective coronary angiography.,procedure: , the patient was explained about all the risks, benefits and alternatives to the procedure.  the patient agreed to proceed and informed consent was signed.,both groins were prepped and draped in usual sterile fashion.  after local anesthesia with 2% lidocaine, 6-french sheath was inserted in the right femoral artery and 7-french sheath was inserted in the right femoral vein.  then right heart cath was performed using 7-french swan-ganz catheter.  catheter was placed in the pulmonary capillary wedge position.  pulmonary capillary wedge pressure, pa pressure was obtained, cardiac output was obtained, then rv, ra pressures were obtained.  the right heart catheter _______ pulled out.  then selective coronary angiography was performed using 6-french jl4 and 6-french 3drc catheter.  then attempt was made to cross the aortic valve with 6-french pigtail catheter, but it was unsuccessful.  after the procedure, catheters were pulled out, sheath was pulled out and hemostasis was obtained by manual pressure.  the patient tolerated the procedure well.  there were no complications.,hemodynamics:,1.  cardiac output was 4.9 per liter per minute.  pulmonary capillary wedge pressure, mean was 7, pa pressure was 20/14, rv 26/5, ra mean pressure was 5.,2.  coronary angiography, left main is calcified _______ dense complex.,3.  lad proximal 70% calcified stenosis present and patent stent to the mid lad and diagonal 1 is a moderate-size vessel, has 70% stenosis.  left circumflex has diffuse luminal irregularities.  om1 has 70% stenosis, is a moderate-size vessel.  right coronary is dominant and has minimal luminal irregularities.,summary: , three-vessel coronary artery disease with aortic stenosis by echo with normal pulmonary artery systolic pressure.,recommendation: , aortic valve replacement with coronary artery bypass surgery.
+
+ICD-10 Suggestions:
+ - Q256 :    Stenosis of pulmonary artery (score=0.994)
+ - J4542 :   Moderate persistent asthma with status asthmaticus (score=0.984)
+ - J4552 :   Severe persistent asthma with status asthmaticus (score=0.967)
+ - J4532 :   Mild persistent asthma with status asthmaticus (score=0.962)
+ - J310 :    Chronic rhinitis (score=0.955)
+

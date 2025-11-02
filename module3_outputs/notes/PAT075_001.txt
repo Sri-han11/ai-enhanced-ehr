@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient was a 43-year-old male with a history of 50-pack years of smoking. The patient had mild shortness of breath, cold sweats, mild shortness of breath, no chest pain, no nausea or vomiting, but mild diarrhea, and sat down and lost consciousness for a few seconds.
+
+=== SOAP SUMMARY ===
+The patient was a 43-year-old male with a history of 50-pack years of smoking. The patient had mild shortness of breath, cold sweats, and mild diarrhea. He lost consciousness for a few seconds and had no chest pain or nausea or vomiting. He also had mild diarrhea and sat down and lost consciousness.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT075_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+patient felt dizzy, had some cold sweats, mild shortness of breath, no chest pain, no nausea or vomiting, but mild diarrhea, and sat down and lost consciousness for a few seconds.
+
+OBJECTIVE:
+Vitals: trestbps=122; chol=213; fbs=0; restecg=1; thalach=165; exang=0; oldpeak=0.2; slope=1; ca=0; thal=2
+Lab: pulmonary embolism
+
+ASSESSMENT:
+The patient was a 43-year-old male with a history of 50-pack years of smoking. The patient had mild shortness of breath, cold sweats, and mild diarrhea. He lost consciousness for a few seconds and had no chest pain or nausea or vomiting. He also had mild diarrhea and sat down and lost consciousness.
+
+PLAN:
+history: , smoking history 50-pack years of smoking.,indication: , dyspnea.,procedure: , fvc was 59%.  fev1 was 45%.  fev1/fvc ratio was 52%. the predicted was 67%.  fef 25/75% was 22%, improved about 400-cc, which represents 89% improvement with bronchodilator.  svc was 91%. inspiratory capacity was 70%.  residual volume was 225% of its predicted.  total lung capacity was 128%.  ,impression:,1.  moderate obstructive lung disease with some improvement with bronchodilator indicating bronchospastic element.,2.  probably there is some restrictive element because of fibrosis.  the reason for that is that the inspiratory capacity was limited and the total lung capacity did not increase to the same extent as the residual volume and expiratory residual volume.,3.  diffusion capacity was not measured.  the flow volume loop was consistent with the above.,
+
+ICD-10 Suggestions:
+ - J705 :    Respiratory conditions due to smoke inhalation (score=0.980)
+ - R0989 :   Other specified symptoms and signs involving the circulatory and respiratory systems (score=0.966)
+ - F17219 :  Nicotine dependence, cigarettes, with unspecified nicotine-induced disorders (score=0.928)
+ - F17218 :  Nicotine dependence, cigarettes, with other nicotine-induced disorders (score=0.925)
+ - Z7722 :   Contact with and (suspected) exposure to environmental tobacco smoke (acute) (chronic) (score=0.879)
+

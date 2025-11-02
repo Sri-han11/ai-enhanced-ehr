@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT099 is a premature baby with a large patent ductus arteriosus originating in the left-sided aortic arch. The patient was identified by myself on presentation to the angiography suite. His right arm was prepped and draped in sterile fashion from the antecubital fossa up. Under ultrasound guidance, a #21-gauge needle was placed into his right cephalic vein. A guidewire was then threaded through the vein and advanced without difficulty. An introducer was then placed over the guidewire. We attempted to manipulate the guidewire to the superior vena cava; however, we could not pass the point of the subclavian vein and we tried several maneuvers and then opted to do a venogram. What we did was we injected approximately 4 ml of visipaque 320 contrast material through the introducer and did a mapping venogram and it turned out that the cephalic vein was joining into the subclavian vein. It was very tortuous area. We made several more attempts using the mapping system to pass the glide over that area, but we were unable to do that. Decision was made at that point then to just do a midline catheter. The catheter was cut to 20 cm, then we inserted back to the introducer. The introducer was removed. The catheter was secured by two #3-0 silk sutures. appropriate imaging was then taken. sterile dressing was applied. The patient tolerated the procedure nicely and was discharged from angiography in satisfactory condition back to the general floor.
+
+=== SOAP SUMMARY ===
+Patient PAT099 is a premature baby with a large patent ductus arteriosus originating in the left-sided aortic arch. His right arm was prepped and draped in sterile fashion from the antecubital fossa up. Under ultrasound guidance, a #21-gauge needle was placed into his right cephalic vein.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT099_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+ligation (clip interruption) of patent ductus arteriosus. this premature baby with operative weight of 600 gram and evidence of persistent pulmonary over circulation and failure to thrive ha been diagnosed with a large patent ductus arteriosus originating in the left-sided aortic arch.
+
+OBJECTIVE:
+Vitals: trestbps=130; chol=315; fbs=0; restecg=1; thalach=162; exang=0; oldpeak=1.9; slope=2; ca=1; thal=2
+Lab: patent ductus arteriosus ligation
+
+ASSESSMENT:
+Patient PAT099 is a premature baby with a large patent ductus arteriosus originating in the left-sided aortic arch. His right arm was prepped and draped in sterile fashion from the antecubital fossa up. Under ultrasound guidance, a #21-gauge needle was placed into his right cephalic vein.
+
+PLAN:
+procedure performed:,  picc line insertion.,description of procedure:,  the patient was identified by myself on presentation to the angiography suite.  his right arm was prepped and draped in sterile fashion from the antecubital fossa up.  under ultrasound guidance, a #21-gauge needle was placed into his right cephalic vein.  a guidewire was then threaded through the vein and advanced without difficulty.  an introducer was then placed over the guidewire.  we attempted to manipulate the guidewire to the superior vena cava; however, we could not pass the point of the subclavian vein and we tried several maneuvers and then opted to do a venogram.  what we did was we injected approximately 4 ml of visipaque 320 contrast material through the introducer and did a mapping venogram and it turned out that the cephalic vein was joining into the subclavian vein.  it was very tortuous area.  we made several more attempts using the mapping system to pass the glide over that area, but we were unable to do that.  decision was made at that point then to just do a midline catheter.  the catheter was cut to 20 cm, then we inserted back to the introducer.  the introducer was removed.  the catheter was secured by two #3-0 silk sutures.  appropriate imaging was then taken.  sterile dressing was applied.  the patient tolerated the procedure nicely and was discharged from angiography in satisfactory condition back to the general floor.  we may make another attempt in the near future using a different approach.,
+
+ICD-10 Suggestions:
+ - P095 :    Abnormal findings on neonatal screening for critical congenital heart disease (score=0.976)
+ - Q250 :    Patent ductus arteriosus (score=0.975)
+ - Q2544 :   Congenital dilation of aorta (score=0.966)
+ - Q2572 :   Congenital pulmonary arteriovenous malformation (score=0.834)
+ - Q231 :    Congenital insufficiency of aortic valve (score=0.793)
+

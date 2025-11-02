@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 45-year-old woman with severe nonischemic cardiomyopathy with prior ventricular tachycardia. The patient underwent a single-chamber pacemaker implantation with left subclavian access and venogram to assess the subclavian access site and the right atrial or right ventricle with asystole that resolved spontaneously during the procedure.
+
+=== SOAP SUMMARY ===
+The patient is a 45-year-old woman with severe nonischemic cardiomyopathy with prior ventricular tachycardia. The patient underwent a single-chamber pacemaker implantation with left subclavian access and venogram. The right atrial or right ventricle with asystole that resolved spontaneously during the procedure.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT108_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+pacemaker icd interrogation. severe nonischemic cardiomyopathy with prior ventricular tachycardia.
+
+OBJECTIVE:
+Vitals: trestbps=138; chol=236; fbs=0; restecg=0; thalach=152; exang=1; oldpeak=0.2; slope=1; ca=0; thal=2
+Lab: pacemaker interrogation
+
+ASSESSMENT:
+The patient is a 45-year-old woman with severe nonischemic cardiomyopathy with prior ventricular tachycardia. The patient underwent a single-chamber pacemaker implantation with left subclavian access and venogram. The right atrial or right ventricle with asystole that resolved spontaneously during the procedure.
+
+PLAN:
+single chamber pacemaker implantation,preoperative diagnosis: , mobitz type ii block with av dissociation and syncope.,postoperative diagnosis: , mobitz type ii block, status post single chamber pacemaker implantation, boston scientific altrua 60, serial number 123456.,procedures:,1.  left subclavian access under fluoroscopic guidance.,2.  left subclavian venogram under fluoroscopic evaluation.,3.  insertion of ventricular lead through left subclavian approach and ventricular lead is boston scientific dextrose model 12345, serial number 123456.,4.  insertion of single-chamber pacemaker implantation, altrua, serial number 123456.,5.  closure of the pocket after formation of pocket for pacemaker.,procedure in detail:  ,the procedure was explained to the patient with risks and benefits.  the patient agreed and signed the consent form.  the patient was brought to the cath lab, draped and prepped in the usual sterile fashion, received 1.5 mg of versed and 25 mg of benadryl for conscious sedation.,access to the right subclavian was successful after the second attempt.  the first attempt accessed the left subclavian artery.  the needle was removed and manual compression applied for five minutes followed by re-accessing the subclavian vein successfully.  the j-wire was introduced into the left subclavian vein.,the anterior wall chest was anesthetized with lidocaine 2%, 2-inch incision using a #10 blade was used.,the pocket was formed using blunt dissection as he was using the bovie cautery for hemostasis.  the patient went asystole during the procedure.  the transcutaneous pacer was used.  the patient was oxygenating well.  the patient had several compression applied by the nurse.  however, her own rhythm resolved spontaneously and the percutaneous pacer was kept on standby.,after that, the j-wire was tunneled into the pocket and then used to put the #7-french sheath into the left subclavian vein.  the lead from the boston scientific dextrose model 12345, serial number 12345 was inserted through the left subclavian to the right atrium; however, it was difficult to really enter the right ventricle; and while the lead was in place, the side port of the sheath was used to inject 15 ml of contrast to assess the subclavian and the right atrium.  the findings were showing different anatomy, may be consistent with persistent left superior vena cava, and the angle to the right ventricle was different.  at that point, the lead stylet was reshaped and was able to cross the tricuspid valve in a position consistent with the mid septal place.,at that point, the lead was actively fixated.  the stylet was removed.  the r-wave measured at 40 millivolts.  the impedance was 580 and the threshold was 1.3 volt.  the numbers were accepted and because of the patient's fragility and the different anatomy noticed in the right atrium, concern about putting a second lead with re-access of the subclavian was high.  i decided to proceed with a single-chamber pacemaker as a backup system.,after that, the lead sleeve was used to actively fixate the lead in the anterior chest with two ethibond sutures in the usual fashion.,the lead was attached to the pacemaker in the header.  the pacemaker was single-chamber pacemaker altura 60, serial number 123456.  after that, the pacemaker was put in the pocket.  pocket was irrigated with normal saline and was closed into two layers, deep interrupted #3-0 vicryl and surface as continuous #4-0 vicryl continuous.,the pacemaker was programmed as vvi 60, and with history is 10 to 50 beats per minute.  the lead position will be evaluated with chest x-ray.,no significant bleeding noticed.,conclusion:  ,successful single-chamber pacemaker implantation with left subclavian approach and venogram to assess the subclavian access site and the right atrial or right ventricle with asystole that resolved spontaneously during the procedure.  no significant bleed.
+
+ICD-10 Suggestions:
+ - Z950 :    Presence of cardiac pacemaker (score=0.988)
+ - I517 :    Cardiomegaly (score=0.933)
+ - T82199D : Other mechanical complication of unspecified cardiac device, subsequent encounter (score=0.829)
+ - T82522D : Displacement of artificial heart, subsequent encounter (score=0.815)
+ - T82199A : Other mechanical complication of unspecified cardiac device, initial encounter (score=0.773)
+

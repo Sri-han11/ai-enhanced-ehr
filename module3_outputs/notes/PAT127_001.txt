@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+PAT127 is a patient with left metastasectomy of metastatic renal cell carcinoma with additional mediastinal lymph node dissection and additional fiberoptic bronchoscopy. Resting myoview and adenosine myoview spect showed uniform uptake of isotope throughout myocardium without any perfusion defect. Gated dynamic imaging showed normal wall motion and normal systolic thickening throughout left ventricular myocardium. Left ventricular ejection fraction obtained during adenosine myoview spect was 77%. Lung heart ratio was 0.40. tid ratio was 0.88.
+
+=== SOAP SUMMARY ===
+PAT127 is a patient with left metastasectomy of metastatic renal cell carcinoma with additional mediastinal lymph node dissection and additional fiberoptic bronchoscopy. Gated dynamic imaging showed normal wall motion and normal systolic thickening throughout left ventricular myocardium.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT127_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+left metastasectomy of metastatic renal cell carcinoma with additional mediastinal lymph node dissection and additional fiberoptic bronchoscopy.
+
+OBJECTIVE:
+Vitals: trestbps=112; chol=204; fbs=0; restecg=1; thalach=143; exang=0; oldpeak=0.1; slope=2; ca=0; thal=2
+Lab: metastasectomy & bronchoscopy
+
+ASSESSMENT:
+PAT127 is a patient with left metastasectomy of metastatic renal cell carcinoma with additional mediastinal lymph node dissection and additional fiberoptic bronchoscopy. Gated dynamic imaging showed normal wall motion and normal systolic thickening throughout left ventricular myocardium.
+
+PLAN:
+procedure done:  ,resting myoview and adenosine myoview spect.,indications:,  chest pain.,procedure:,  13.3 mci of tc-99m tetrofosmin was injected and resting myoview spect was obtained.  pharmacologic stress testing was done using adenosine infusion.  patient received 38 mg of adenosine infused at 140 mcg/kg/minute over a period of four minutes.  two minutes during adenosine infusion, 31.6 mci of tc-99m tetrofosmin was injected.  resting heart rate was 90 beats per minute.  resting blood pressure was 130/70.  peak heart rate obtained during adenosine infusion was 102 beats per minute.  blood pressure obtained during adenosine infusion was 112/70.  during adenosine infusion, patient experienced dizziness and shortness of breath.  no significant st segment, t wave changes, or arrhythmias were seen.,resting myoview and adenosine myoview spect showed uniform uptake of isotope throughout myocardium without any perfusion defect.  gated dynamic imaging showed normal wall motion and normal systolic thickening throughout left ventricular myocardium.  left ventricular ejection fraction obtained during adenosine myoview spect was 77%.  lung heart ratio was 0.40.  tid ratio was 0.88.,impression:,  normal adenosine myoview myocardial perfusion spect.  normal left ventricular regional and global function with left ventricular ejection fraction of 77%.
+
+ICD-10 Suggestions:
+ - C7A093 :  Malignant carcinoid tumor of the kidney (score=0.997)
+ - Z85528 :  Personal history of other malignant neoplasm of kidney (score=0.938)
+ - C388 :    Malignant neoplasm of overlapping sites of heart, mediastinum and pleura (score=0.858)
+ - C652 :    Malignant neoplasm of left renal pelvis (score=0.792)
+ - C7902 :   Secondary malignant neoplasm of left kidney and renal pelvis (score=0.738)
+

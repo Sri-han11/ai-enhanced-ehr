@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is an 84-year-old woman with a history of hypertension, severe tricuspid regurgitation with mild pulmonary hypertension, mild aortic stenosis, and previously moderate mitral regurgitation. She has been followed by Dr. Mills, but decided to see Dr. Xyz who referred her to Dr. Xyz who comes to Hutchison from Ku Medical Center. She underwent several tests. She did have magnetic resonance angiography of the lower extremities and the aorta which were normal. She had nerve conduction study that showed several peripheral polyneuropathy. She reports that she has myelogram last week but has not got results of this. She reports that the rest of her tests have been normal, but it seems that vertebrae shift when she stands and then pinches the nerve. She is now seeing Dr. Xyz who comes to Hutchison from Ku Medical Center, and she thinks that she probably will have surgery in the near future.
+
+=== SOAP SUMMARY ===
+The patient is an 84-year-old woman with a history of hypertension, severe tricuspid regurgitation with mild pulmonary hypertension, mild aortic stenosis. She has been followed by Dr. Mills, but decided to see Dr. Xyz who referred her to Hutchison. She underwent several tests.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT153_001
+Date: 2025-11-02
+
+SUBJECTIVE:
+an 84-year-old woman with a history of hypertension, severe tricuspid regurgitation with mild pulmonary hypertension, mild aortic stenosis, and previously moderate mitral regurgitation.
+
+OBJECTIVE:
+Vitals: trestbps=170; chol=227; fbs=0; restecg=0; thalach=155; exang=0; oldpeak=0.6; slope=1; ca=0; thal=3
+Lab: hypertension - consult
+
+ASSESSMENT:
+The patient is an 84-year-old woman with a history of hypertension, severe tricuspid regurgitation with mild pulmonary hypertension, mild aortic stenosis. She has been followed by Dr. Mills, but decided to see Dr. Xyz who referred her to Hutchison. She underwent several tests.
+
+PLAN:
+subjective:,  the patient is a 78-year-old female who returns for recheck.  she has hypertension.  she denies difficulty with chest pain, palpations, orthopnea, nocturnal dyspnea, or edema.,past medical history / surgery / hospitalizations:,  reviewed and unchanged from the dictation on 12/03/2003.,medications:  ,atenolol 50 mg daily, premarin 0.625 mg daily, calcium with vitamin d two to three pills daily, multivitamin daily, aspirin as needed, and triviflor 25 mg two pills daily.  she also has elocon cream 0.1% and synalar cream 0.01% that she uses as needed for rash.,allergies:  ,benadryl, phenobarbitone, morphine, lasix, and latex.,family history / personal history: , reviewed.  mother died from congestive heart failure.  father died from myocardial infarction at the age of 56.  family history is positive for ischemic cardiac disease.  brother died from lymphoma.  she has one brother living who has had angioplasties x 2.  she has one brother with asthma.,personal history:,  negative for use of alcohol or tobacco.,review of systems:,bones and joints:  she has had continued difficulty with lower back pain particularly with standing which usually radiates down her right leg.  she had been followed by dr. mills, but decided to see dr. xyz who referred to her dr isaac.  she underwent several tests.  she did have magnetic resonance angiography of the lower extremities and the aorta which were normal.  she had nerve conduction study that showed several peripheral polyneuropathy.  she reports that she has myelogram last week but has not got results of this.  she reports that the rest of her tests have been normal, but it seems that vertebrae shift when she stands and then pinches the nerve.  she is now seeing dr. xyz who comes to hutchison from ku medical center, and she thinks that she probably will have surgery in the near future.,genitourinary:  she has occasional nocturia.,physical examination:,vital signs:  weight:  227.2 pounds.  blood pressure:  144/72.  pulse:  80.  temperature:  97.5 degrees.,general appearance:  she is an elderly female patient who is not in acute distress.,mouth:  posterior pharynx is clear.,neck:  without adenopathy or thyromegaly.,chest:  lungs are resonant to percussion.  auscultation reveals normal breath sounds.,heart:  normal s1 and s2 without gallops or rubs.,abdomen:  without masses or tenderness to palpation.,extremities:  without edema.,impression/plan:,1.  hypertension.  she is advised to continue with the same medication.,2.  syncope.  she previously had an episode of syncope around thanksgiving.  she has not had a recurrence of this and her prior cardiac studies did not show arrhythmias.,3.  spinal stenosis.  she still is being evaluated for this and possibly will have surgery in the near future.
+
+ICD-10 Suggestions:
+ - Z0131 :   Encounter for examination of blood pressure with abnormal findings (score=0.987)
+ - I082 :    Rheumatic disorders of both aortic and tricuspid valves (score=0.964)
+ - I083 :    Combined rheumatic disorders of mitral, aortic and tricuspid valves (score=0.960)
+ - I2722 :   Pulmonary hypertension due to left heart disease (score=0.716)
+ - I110 :    Hypertensive heart disease with heart failure (score=0.664)
+

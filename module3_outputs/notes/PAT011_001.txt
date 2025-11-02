@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT011 is a 54-year-old male with aortic valve stenosis. The patient underwent a transesophageal echocardiogram on January 11, 2015. The left atrium was mildly dilated. No masses or thrombi were seen. The left atrial appendage was free of thrombus. Pulse wave interrogation showed peak velocities of 60 cm per second. The left ventricle was normal in size and contractility with mild lvh. The right atrium and right ventricle were both normal in size. Mitral valve showed no vegetations or prolapse. There was mild-to-moderate regurgitation on color flow interrogation. Aortic valve was well-seated mechanical valve, bileaflet with acoustic shadowing beyond the valve noticed. No perivalvular leak was noticed. There was increased velocity across the valve with peak velocity of 3.2 m/sec with calculated aortic valve area by continuity equation at 1.2 cm2 indicative of moderate aortic valve stenosis based on criteria for native heart valves.
+
+=== SOAP SUMMARY ===
+Patient PAT011 is a 54-year-old male with aortic valve stenosis. The patient underwent a transesophageal echocardiogram on January 11, 2015. The left atrium was mildly dilated. No masses or thrombi were seen.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT011_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+transesophageal echocardiographic examination report. aortic valve replacement. assessment of stenotic valve. evaluation for thrombus on the valve.
+
+OBJECTIVE:
+Vitals: trestbps=140; chol=239; fbs=0; restecg=1; thalach=160; exang=0; oldpeak=1.2; slope=2; ca=0; thal=2
+Lab: transesophageal echocardiogram - 3
+
+ASSESSMENT:
+Patient PAT011 is a 54-year-old male with aortic valve stenosis. The patient underwent a transesophageal echocardiogram on January 11, 2015. The left atrium was mildly dilated. No masses or thrombi were seen.
+
+PLAN:
+reason for exam: , aortic valve replacement.  assessment of stenotic valve.  evaluation for thrombus on the valve.,preoperative diagnosis:  ,atrial valve replacement.,postoperative diagnoses:,  moderate stenosis of aortic valve replacement.  mild mitral regurgitation.  normal left ventricular function.,procedures in detail: , the procedure was explained to the patient with risks and benefits.  the patient agreed and signed the consent form.  the patient received a total of 3 mg of versed and 50 mcg of fentanyl for conscious sedation and pain control.  the oropharynx anesthetized with benzocaine spray and lidocaine solution.,esophageal intubation was done with no difficulty with the second attempt.  in a semi-fowler position, the probe was passed to transthoracic views at about 40 to 42 cm.  multiple pictures obtained.  assessment of the peak velocity was done later.,the probe was pulled to the mid esophageal level.  different pictures including short-axis views of the aortic valve was done.  extubation done with no problems and no blood on the probe.  the patient tolerated the procedure well with no immediate postprocedure complications.,interpretation: , the left atrium was mildly dilated.  no masses or thrombi were seen.  the left atrial appendage was free of thrombus.  pulse wave interrogation showed peak velocities of 60 cm per second.,the left ventricle was normal in size and contractility with mild lvh.  ef is normal and preserved.,the right atrium and right ventricle were both normal in size.,mitral valve showed no vegetations or prolapse.  there was mild-to-moderate regurgitation on color flow interrogation.  aortic valve was well-seated mechanical valve, bileaflet with acoustic shadowing beyond the valve noticed.  no perivalvular leak was noticed.  there was increased velocity across the valve with peak velocity of 3.2 m/sec with calculated aortic valve area by continuity equation at 1.2 cm2 indicative of moderate aortic valve stenosis based on criteria for native heart valves.,no aic.,pulmonic valve was somewhat difficult to see because of acoustic shadowing from the aortic valve.  overall showed no abnormalities.  the tricuspid valve was structurally normal.,interatrial septum appeared to be intact, confirmed by color flow interrogation as well as agitated saline contrast study.,the aorta and aortic arch were unremarkable.  no dissection.,impression:,1.  mildly dilated left atrium.,2.  mild-to-moderate regurgitation.,3.  well-seated mechanical aortic valve with peak velocity of 3.2 m/sec and calculated valve area of 1.2 cm2 consistent with moderate aortic stenosis.  reevaluation in two to three years with transthoracic echocardiogram will be recommended.
+
+ICD-10 Suggestions:
+ - I350 :    Nonrheumatic aortic (valve) stenosis (score=0.926)
+ - I352 :    Nonrheumatic aortic (valve) stenosis with insufficiency (score=0.912)
+ - Q253 :    Supravalvular aortic stenosis (score=0.740)
+ - I420 :    Dilated cardiomyopathy (score=0.737)
+ - I362 :    Nonrheumatic tricuspid (valve) stenosis with insufficiency (score=0.694)
+

@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT010 is a 57-year-old male with an abnormal ekg and a cardiac arrest. The patient was brought to the cardiac cath lab from the emergency room with the patient being intubated with an abnormal ekg and a cardiac arrest. The right groin was prepped and draped in usual manner. Under 2% lidocaine anesthesia, the right femoral artery was entered. A 6-french sheath was placed. The patient was already on anticoagulation. Selective coronary angiograms were then performed using a left and a 3drc catheter. The catheters were reviewed. The catheters were then removed and an angio-seal was placed. There was some hematoma at the cath site. The left main was free of disease. The left anterior descending and its branches were free of disease. The circumflex was free of disease. The right coronary artery was free of disease. There was no gradient across the aortic valve.
+
+=== SOAP SUMMARY ===
+Patient PAT010 is a 57-year-old male with an abnormal ekg and a cardiac arrest. The right groin was prepped and draped in usual manner. Under 2% lidocaine anesthesia, the right femoral artery was entered. Selective coronary angiograms were then performed using a left and a 3drc catheter.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT010_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+urgent cardiac catheterization with coronary angiogram.
+
+OBJECTIVE:
+Vitals: trestbps=150; chol=168; fbs=0; restecg=1; thalach=174; exang=0; oldpeak=1.6; slope=2; ca=0; thal=2
+Lab: urgent cardiac cath
+
+ASSESSMENT:
+Patient PAT010 is a 57-year-old male with an abnormal ekg and a cardiac arrest. The right groin was prepped and draped in usual manner. Under 2% lidocaine anesthesia, the right femoral artery was entered. Selective coronary angiograms were then performed using a left and a 3drc catheter.
+
+PLAN:
+procedure: , urgent cardiac catheterization with coronary angiogram.,procedure in detail: , the patient was brought urgently to the cardiac cath lab from the emergency room with the patient being intubated with an abnormal ekg and a cardiac arrest.  the right groin was prepped and draped in usual manner.  under 2% lidocaine anesthesia, the right femoral artery was entered.  a 6-french sheath was placed.  the patient was already on anticoagulation.  selective coronary angiograms were then performed using a left and a 3drc catheter.  the catheters were reviewed.  the catheters were then removed and an angio-seal was placed.  there was some hematoma at the cath site.,results,1.  the left main was free of disease.,2.  the left anterior descending and its branches were free of disease.,3.  the circumflex was free of disease.,4.  the right coronary artery was free of disease.  there was no gradient across the aortic valve.,impression: , normal coronary angiogram.,
+
+ICD-10 Suggestions:
+ - S75091D : Other specified injury of femoral artery, right leg, subsequent encounter (score=0.792)
+ - S85001D : Unspecified injury of popliteal artery, right leg, subsequent encounter (score=0.761)
+ - S75011D : Minor laceration of femoral artery, right leg, subsequent encounter (score=0.741)
+ - S85091A : Other specified injury of popliteal artery, right leg, initial encounter (score=0.722)
+ - S85091S : Other specified injury of popliteal artery, right leg, sequela (score=0.673)
+

@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT158 is a 35-year-old male with bradycardia and dizziness. He was seen on February 28, 2015, for holter monitoring for bradycardia and dizziness. The predominant rhythm is normal sinus rhythm. There was no supraventricular arrhythmia. There were frequent premature ventricular contractions, couplets, and trigemini. There was no high-grade atrial ventricular block. The diary was not kept.
+
+=== SOAP SUMMARY ===
+Patient PAT158 is a 35-year-old male with bradycardia and dizziness. He was seen on February 28, 2015, for holter monitoring. The predominant rhythm is normal sinus rhythm. There was no high-grade atrial ventricular block. The diary was not kept.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT158_001
+Date: 2025-11-02
+
+SUBJECTIVE:
+holter monitoring - for bradycardia and dizziness.
+
+OBJECTIVE:
+Vitals: trestbps=122; chol=192; fbs=0; restecg=1; thalach=174; exang=0; oldpeak=0.0; slope=2; ca=0; thal=2
+Lab: holter monitoring
+
+ASSESSMENT:
+Patient PAT158 is a 35-year-old male with bradycardia and dizziness. He was seen on February 28, 2015, for holter monitoring. The predominant rhythm is normal sinus rhythm. There was no high-grade atrial ventricular block. The diary was not kept.
+
+PLAN:
+interpretation:,1.  predominant rhythm is normal sinus rhythm.,2.  no supraventricular arrhythmia.,3.  frequent premature ventricular contractions.,4.  trigemini and couplets.,5.  no high-grade atrial ventricular block was noted.,6.  diary was not kept.,impression:,  frequent premature atrial contractions, couplets, and trigemini.,
+
+ICD-10 Suggestions:
+ - R009 :    Unspecified abnormalities of heart beat (score=0.812)
+ - I4430 :   Unspecified atrioventricular block (score=0.664)
+ - I479 :    Paroxysmal tachycardia, unspecified (score=0.571)
+ - I4720 :   Ventricular tachycardia, unspecified (score=0.568)
+ - R000 :    Tachycardia, unspecified (score=0.528)
+

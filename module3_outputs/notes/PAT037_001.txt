@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT037 is a 54-year-old male with a history of cholestasis. The patient was brought to the operating room and placed in the supine position. adequate general endotracheal anesthesia was induced. appropriate monitoring lines were placed. the right neck, chest and left arm were prepped and draped in a sterile fashion. a small incision was made at the top of the anterior jugular triangle in the right neck. through this small incision, the right internal jugular vein was punctured and a guidewire was placed. the tessio catheters were assembled. they were measured for length. counter-incisions were made on the right chest. they were then tunneled through these lateral chest wall incisions to the neck incision, burying the dacron cuffs. they were flushed with saline. a suture was placed through the guidewire, and the guidewire and dilator were removed. the arterial catheter was then placed through this, and the tear-away introducer was removed. the catheter aspirated and bled easily. it was flushed with saline and capped. this was repeated with the venous line. it also aspirated easily and was flushed with saline and capped. the neck incision was closed with a 4-0 tycron, and the catheters were sutured at the exit sites with 4-0 nylon. dressings were applied. an incision was then made at the left wrist. the basilic vein was dissected free, as was the radial artery. heparin was given, 50 mg. the radi
+
+=== SOAP SUMMARY ===
+Patient PAT037 is a 54-year-old male with a history of cholestasis. adequate general endotracheal anesthesia was induced. appropriate monitoring lines were placed. The right neck, chest and left arm were prepped and draped in a sterile fashion. A small incision was made at the top of the anterior jugular triangle in the right neck.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT037_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+insertion of right internal jugular tessio catheter and placement of left wrist primary submental arteriovenous fistula.
+
+OBJECTIVE:
+Vitals: trestbps=135; chol=304; fbs=1; restecg=1; thalach=170; exang=0; oldpeak=0.0; slope=2; ca=0; thal=2
+Lab: tessio catheter insertion
+
+ASSESSMENT:
+Patient PAT037 is a 54-year-old male with a history of cholestasis. adequate general endotracheal anesthesia was induced. appropriate monitoring lines were placed. The right neck, chest and left arm were prepped and draped in a sterile fashion. A small incision was made at the top of the anterior jugular triangle in the right neck.
+
+PLAN:
+operations/procedures,1.  insertion of right internal jugular tessio catheter.,2.  placement of left wrist primary submental arteriovenous fistula.,procedure in detail: , the patient was brought to the operating room and placed in the supine position.  adequate general endotracheal anesthesia was induced.  appropriate monitoring lines were placed.  the right neck, chest and left arm were prepped and draped in a sterile fashion.  a small incision was made at the top of the anterior jugular triangle in the right neck.  through this small incision, the right internal jugular vein was punctured and a guidewire was placed.  it was punctured a 2nd time, and a 2nd guidewire was placed.  the tessio catheters were assembled.  they were measured for length.  counter-incisions were made on the right chest.  they were then tunneled through these lateral chest wall incisions to the neck incision, burying the dacron cuffs.  they were flushed with saline.  a suture was placed through the guidewire, and the guidewire and dilator were removed.  the arterial catheter was then placed through this, and the tear-away introducer was removed.  the catheter aspirated and bled easily.  it was flushed with saline and capped.  this was repeated with the venous line.  it also aspirated easily and was flushed with saline and capped.  the neck incision was closed with a 4-0 tycron, and the catheters were sutured at the exit sites with 4-0 nylon.  dressings were applied.  an incision was then made at the left wrist.  the basilic vein was dissected free, as was the radial artery.  heparin was given, 50 mg.  the radial artery was clamped proximally and distally with a bulldog.  it was opened with a #11 blade and potts scissors, and stay sutures of 5-0 prolene were placed.  the vein was clipped distally, divided and spatulated for anastomosis.  it was sutured to the radial artery with a running 7-0 prolene suture.  the clamps were removed.  good flow was noted through the artery.  protamine was given, and the wound was closed with interrupted 3-0 dexon subcutaneous and a running 4-0 dexon subcuticular on the skin.  the patient tolerated the procedure well.
+
+ICD-10 Suggestions:
+ - K653 :    Choleperitonitis (score=0.728)
+ - L2981 :   Cholestatic pruritus (score=0.575)
+ - H3121 :   Choroideremia (score=0.364)
+ - H7133 :   Diffuse cholesteatosis, bilateral (score=0.356)
+ - K710 :    Toxic liver disease with cholestasis (score=0.328)
+

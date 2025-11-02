@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 50-year-old male with a history of tachybrady syndrome. The patient underwent a transvenous pacemaker insertion for tachybrady syndrome. The patient was placed on antibiotics for five days to avoid pacemaker infection.
+
+=== SOAP SUMMARY ===
+The patient is a 50-year-old male with a history of tachybrady syndrome. The patient was placed on antibiotics for five days to avoid pacemaker infection. He underwent a transvenous pacemaker insertion for tachy Brady Syndrome. He is now recovering in hospital.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT105_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+insertion of transvenous pacemaker for tachybrady syndrome
+
+OBJECTIVE:
+Vitals: trestbps=129; chol=196; fbs=0; restecg=1; thalach=163; exang=0; oldpeak=0.0; slope=2; ca=0; thal=2
+Lab: pacemaker insertion
+
+ASSESSMENT:
+The patient is a 50-year-old male with a history of tachybrady syndrome. The patient was placed on antibiotics for five days to avoid pacemaker infection. He underwent a transvenous pacemaker insertion for tachy Brady Syndrome. He is now recovering in hospital.
+
+PLAN:
+procedure performed:  ,dddr permanent pacemaker.,indication: , tachybrady syndrome.,procedure:,  after all risks, benefits, and alternatives of the procedure were explained in detail to the patient, informed consent was obtained both verbally and in writing.  the patient was taken to the cardiac catheterization suite where the right subclavian region was prepped and draped in the usual sterile fashion.  1% lidocaine solution was used to infiltrate the skin overlying the left subclavian vein.  once adequate anesthesia had been obtained, a thin-walled #18-gauze argon needle was used to cannulate the left subclavian vein.  a steel guidewire was inserted through the needle into the vascular lumen without resistance.  the needle was then removed over the guidewire and the guidewire was secured to the field.  a second #18 gauze argon needle was used to cannulate the left subclavian vein and once again a steel guidewire was inserted through the needle into the vascular lumen.  likewise, the needle was removed over the guidewire and the guidewire was then secured to the field.  next, a #15-knife blade was used to make a 1 to 1.5 inch linear incision over the area.  a #11-knife blade was used to make a deeper incision.  hemostasis was made complete.  the edges of the incision were grasped and retracted.  using metzenbaum scissors, dissection was carried down to the pectoralis muscle fascial plane.  digital blunt dissection was used to make a pacemaker pocket large enough to accommodate the pacemaker generator.  metzenbaum scissors were then used to dissect cephalad to expose the guide wires.  the guidewires were then pulled through the pacemaker pocket.  one guidewire was secured to the field.,a bloodless introducer sheath was then advanced over a guidewire into the vascular lumen under fluoroscopic guidance.  the guidewire and dilator were then removed.  next, a ventricular pacemaker lead was advanced through the sheath and into the vascular lumen and under fluoroscopic guidance guided down into the right atrium.  the pacemaker lead was then placed in the appropriate position in the right ventricle.  pacing and sensing thresholds were obtained.  the lead was sewn at the pectoralis muscle plane using #2-0 silk suture in an interrupted stitch fashion around the ________.  pacing and sensing threshold were then reconfirmed.  next, a second bloodless introducer sheath was advanced over the second guidewire into the vascular lumen.  the guidewire and dilator were then removed.  under fluoroscopic guidance, the atrial lead was passed into the right atrium.  the sheath was then turned away in standard fashion.  using fluoroscopic guidance, the atrial lead was then placed in the appropriate position.  pacing and sensing thresholds were obtained.  the lead was sewn to the pectoralis muscle facial plane utilizing #2-0 silk suture around the ________.  sensing and pacing thresholds were then reconfirmed.  the leads were wiped free of blood and placed into the pacemaker generator.  the pacemaker generator leads were then placed into pocket with the leads posteriorly.  the deep tissues were closed utilizing #2-0 chromic suture in an interrupted stitch fashion.  a #4-0 undyed vicryl was then used to close the subcutaneous tissue in a continuous subcuticular stitch.  steri-strips overlaid.  a sterile gauge dressing was placed over the site.  the patient tolerated the procedure well and was transferred to the cardiac catheterization room in stable and satisfactory condition.,pacemaker data (generator data):,manufacturer:  medtronics.,model:  sigma.,model #:  1234.,serial #:  123456789.,lead information:,right atrial lead:,manufacturer:  medtronics.,model #:  1234.,serial #:  123456789.,ventricular lead:,manufacturer:  medtronics.,model #:  1234.,serial #:  123456789.,pacing and sensing thresholds:,right atrial bipolar lead:  pulse width 0.50 milliseconds, impedance 518 ohms, p-wave sensing 2.2 millivolts, polarity is bipolar.,ventricular bipolar lead:  pulse width 0.50 milliseconds, voltage 0.7 volts, current 1.5 milliamps, impedance 655 ohms, r-wave sensing 9.7 millivolts, polarity is bipolar.,parameter settings:,  pacing mode dddr:  mode switch is on, low rate 60, upper 120, ________ is 33.0 milliseconds.,impression:,  successful implantation of dddr permanent pacemaker.,plan:,1.  the patient will be monitored on telemetry for 24 hours to ensure adequate pacemaker function.,2.  the patient will be placed on antibiotics for five days to avoid pacemaker infection.
+
+ICD-10 Suggestions:
+ - Z950 :    Presence of cardiac pacemaker (score=0.986)
+ - T82199D : Other mechanical complication of unspecified cardiac device, subsequent encounter (score=0.797)
+ - R009 :    Unspecified abnormalities of heart beat (score=0.601)
+ - I427 :    Cardiomyopathy due to drug and external agent (score=0.263)
+ - S2690XD : Unspecified injury of heart, unspecified with or without hemopericardium, subsequent encounter (score=0.225)
+

@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 76-year-old white female with a history of subglottic upper tracheal stenosis. She has undergone multiple previous endoscopic procedures in the past; the last procedure was in january 2007. She returns with some increasing shortness of breath and dyspnea on exertion. Endoscopic reevaluation is offered to her. The patient has been considering laryngotracheal reconstruction; however, due to a recent death in the family, she has postponed this, but she has been having increasing symptoms. An endoscopic treatment was offered to her. Nature of the proposed procedure including risks and complications involving bleeding, infection, alteration of voice, speech, or swallowing, hoarseness changing permanently, recurrence of stenosis despite a surgical intervention, airway obstruction necessitating a tracheostomy now or in the future, cardiorespiratory, and anesthetic risks were all discussed in length. The patient states she understood and wished to proceed.
+
+=== SOAP SUMMARY ===
+The patient is a 76-year-old white female with a history of subglottic upper tracheal stenosis. She has undergone multiple previous endoscopic procedures in the past; the last procedure was in january 2007. She returns with some increasing shortness of breath and dyspnea on exertion. Endoscopic reevaluation is offered to her.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT145_001
+Date: 2025-11-02
+
+SUBJECTIVE:
+lightheaded, dizziness, and palpitation. this morning, the patient experienced symptom of lightheaded, dizziness, felt like passing out; however, there wa no actual syncope. during the episode, the patient describes symptom of palpitation and fluttering of chest. she relates the heart wa racing. by the time when she came into the emergency room, her ekg revealed normal sinus rhythm. no evidence of arrhythmia.
+
+OBJECTIVE:
+Vitals: trestbps=140; chol=197; fbs=0; restecg=2; thalach=116; exang=0; oldpeak=1.1; slope=1; ca=0; thal=2
+Lab: lightheaded & dizziness
+
+ASSESSMENT:
+The patient is a 76-year-old white female with a history of subglottic upper tracheal stenosis. She has undergone multiple previous endoscopic procedures in the past; the last procedure was in january 2007. She returns with some increasing shortness of breath and dyspnea on exertion. Endoscopic reevaluation is offered to her.
+
+PLAN:
+preoperative diagnosis,subglottic upper tracheal stenosis.,postoperative diagnosis,subglottic upper tracheal stenosis.,operation preformed,direct laryngoscopy, rigid bronchoscopy and dilation of subglottic upper tracheal stenosis.,indications for the surgery,the patient is a 76-year-old white female with a history of subglottic upper tracheal stenosis.  she has had undergone multiple previous endoscopic procedures in the past; last procedure was in january 2007.  she returns with some increasing shortness of breath and dyspnea on exertion.  endoscopic reevaluation is offered to her.  the patient has been considering laryngotracheal reconstruction; however, due to a recent death in the family, she has postponed this, but she has been having increasing symptoms.  an endoscopic treatment was offered to her.  nature of the proposed procedure including risks and complications involving bleeding, infection, alteration of voice, speech, or swallowing, hoarseness changing permanently, recurrence of stenosis despite a surgical intervention, airway obstruction necessitating a tracheostomy now or in the future, cardiorespiratory, and anesthetic risks were all discussed in length.  the patient states she understood and wished to proceed.,description of the operation,the patient was taken to the operating room, placed on table in supine position.  following adequate general anesthesia, the patient was prepared for endoscopy.  the top sliding laryngoscope was then inserted in the oral cavity, pharynx, and larynx examined. in the oral cavity, she had good dentition.  tongue and buccal cavity mucosa were without ulcers, masses, or lesions.  the oropharynx was clear.  the larynx was then manually suspended.  epiglottis area, epiglottic folds, false cords, true vocal folds with some mild edema, but otherwise, without ulcers, masses, or lesions, and the supraglottic and glottic airway were widely patent.  the larynx was manually suspended and a 5 x 30 pediatric rigid bronchoscope was passed through the vocal folds.  at the base of the subglottis, there was a narrowing and in the upper trachea, restenosis had occurred.  moderate amount of mucoid secretions, these were suctioned, following which the area of stenosis was dilated.  remainder of the bronchi was then examined.  the mid and distal trachea were widely patent.  pale pink mucosa takeoff from mainstem bronchi were widely patent without ulcers, lesions, or evidence of scarring.  the scope was pulled back and removed and following this, a 6 x 30 pediatric rigid bronchoscope was passed through the larynx and further dilatation carried out.  once this had been completed, dramatic improvement in the subglottic upper tracheal airway accomplished.  instrumentation was removed and a #6 endotracheal tube, uncuffed, was placed to allow smooth emerge from anesthesia.  the patient tolerated the procedure well without complication.
+
+ICD-10 Suggestions:
+ - J955 :    Postprocedural subglottic stenosis (score=0.889)
+ - J386 :    Stenosis of larynx (score=0.863)
+ - S2759XD : Other injury of thoracic trachea, subsequent encounter (score=0.834)
+ - S2752XD : Contusion of thoracic trachea, subsequent encounter (score=0.528)
+ - S11022D : Laceration with foreign body of trachea, subsequent encounter (score=0.170)
+

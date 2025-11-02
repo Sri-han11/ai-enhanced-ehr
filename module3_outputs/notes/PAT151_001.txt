@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient has hypertension, nonischemic cardiomyopathy, and branch vessel coronary artery disease. He is in nyha class iii. He has some volume overload and was not unfortunately taking lasix as prescribed. He has increased the dose of hydralazine from 75 mg t.i.d. to 100 mg t.i.d. He will come for a bmp check in one week. He will have his fasting lipid profile, ast, and alt checked in one week.
+
+=== SOAP SUMMARY ===
+The patient has hypertension, nonischemic cardiomyopathy, and branch vessel coronary artery disease. He has some volume overload and was not unfortunately taking lasix as prescribed. He will have his fasting lipid profile, ast, and alt checked in one week. The patient has increased the dose of hydralazine to 100 mg t.i.d.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT151_001
+Date: 2025-11-02
+
+SUBJECTIVE:
+lexiscan nuclear myocardial perfusion scan. chest pain. patient unable to walk on a treadmill. nondiagnostic lexiscan. normal nuclear myocardial perfusion scan.
+
+OBJECTIVE:
+Vitals: trestbps=160; chol=228; fbs=0; restecg=0; thalach=138; exang=0; oldpeak=2.3; slope=2; ca=0; thal=1
+Lab: lexiscan nuclear scan
+
+ASSESSMENT:
+The patient has hypertension, nonischemic cardiomyopathy, and branch vessel coronary artery disease. He has some volume overload and was not unfortunately taking lasix as prescribed. He will have his fasting lipid profile, ast, and alt checked in one week. The patient has increased the dose of hydralazine to 100 mg t.i.d.
+
+PLAN:
+problems list:,1.  nonischemic cardiomyopathy.,2.  branch vessel coronary artery disease.,3.  congestive heart failure, nyha class iii.,4.  history of nonsustained ventricular tachycardia.,5.  hypertension.,6.  hepatitis c.,interval history: , the patient was recently hospitalized for chf exacerbation and was discharged with increased medications.  however, he did not fill his prescriptions and came back with persistent shortness of breath on exertion and on rest.  he has history of orthopnea and pnd.  he has gained a few pounds of weight but denied to have any palpitation, presyncope, or syncope.,review of systems: , positive for right upper quadrant pain.  he has occasional nausea, but no vomiting.  his appetite has decreased.  no joint pain, tia, seizure or syncope.  other review of systems is unremarkable.,i reviewed his past medical history, past surgical history, and family history.,social history: , he has quit smoking, but unfortunately was positive for cocaine during last hospital stay in 01/08.,allergies: , he has no known drug allergies.,medications:,  i reviewed his medication list in the chart.  he states he is compliant, but he was not taking the revised dose of medications as per discharge orders and prescription.,physical examination:,vital signs:  pulse 91 per minute and regular, blood pressure 151/102 in the right arm and 152/104 in the left arm, weight 172 pounds, which is about 6 pounds more than last visit in 11/07.  heent:  atraumatic and normocephalic.  no pallor, icterus or cyanosis.  neck:  supple.  jugular venous distention 5 cm above the clavicle present.  no thyromegaly.  lungs:  clear to auscultation.  no rales or rhonchi.  pulse ox was 98% on room air.  cvs:  s1 and s2 present.  s3 and s4 present.  abdomen:  soft and nontender.  liver is palpable 5 cm below the right subcostal margin.  extremities:  no clubbing or cyanosis.  a 1+ edema present.,assessment and plan:,  the patient has hypertension, nonischemic cardiomyopathy, and branch vessel coronary artery disease.  clinically, he is in nyha class iii.  he has some volume overload and was not unfortunately taking lasix as prescribed.  i have advised him to take lasix 40 mg p.o. b.i.d.  i also increased the dose of hydralazine from 75 mg t.i.d. to 100 mg t.i.d.  i advised him to continue to take toprol and lisinopril.  i have also added aldactone 25 mg p.o. daily for survival advantage.  i reinforced the idea of not using cocaine.  he states that it was a mistake, may be somebody mixed in his drink, but he has not intentionally taken any cocaine.  i encouraged him to find a primary care provider.  he will come for a bmp check in one week.  i asked him to check his blood pressure and weight.  i discussed medication changes and gave him an updated list.  i have asked him to see a gastroenterologist for hepatitis c.  at this point, his medicaid is pending.  he has no insurance and finds hard to find a primary care provider.  i will see him in one month.  he will have his fasting lipid profile, ast, and alt checked in one week.
+
+ICD-10 Suggestions:
+ - T466X6D : Underdosing of antihyperlipidemic and antiarteriosclerotic drugs, subsequent encounter (score=0.986)
+ - T466X6A : Underdosing of antihyperlipidemic and antiarteriosclerotic drugs, initial encounter (score=0.953)
+ - T466X5D : Adverse effect of antihyperlipidemic and antiarteriosclerotic drugs, subsequent encounter (score=0.950)
+ - Z91138 :  Patient's unintentional underdosing of medication regimen for other reason (score=0.911)
+ - T465X6D : Underdosing of other antihypertensive drugs, subsequent encounter (score=0.898)
+

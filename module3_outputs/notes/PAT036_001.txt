@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient was originally hospitalized on 04/26/07, secondary to dizziness and disequilibrium. Extensive workup during her first hospitalization was all negative, but a prominent feature was her very blunted affect and real anhedonia. She was transferred briefly to psychiatry, however, on the second day in psychiatry, she became very orthostatic and was transferred acutely back to the medicine. She briefly was on cymbalta; however, this was discontinued when she was transferred back. She was monitored back medicine for 24 hours and was given intravenous fluids and these were discontinued. She was able to maintain her pressures then was able to ambulate without difficulty. We had wanted to pursue workup for possible causes for autonomic dysfunction; however, the patient was not interested in remaining in the hospital anymore and left really against our recommendations.
+
+=== SOAP SUMMARY ===
+The patient was originally hospitalized on 04/26/07, secondary to dizziness and disequilibrium. Extensive workup during her first hospitalization was all negative, but a prominent feature was her very blunted affect and real anhedonia. She was transferred briefly to psychiatry, but on the second day in psychiatry, she became very orthostatic and was transferred acutely back to the medicine. She briefly was on cymbalta; however, this was discontinued when she was transferred back.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT036_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+the patient wa originally hospitalized secondary to dizziness and disequilibrium. extensive workup during her first hospitalization wa all negative, but a prominent feature wa her very blunted affect and real anhedonia.
+
+OBJECTIVE:
+Vitals: trestbps=142; chol=177; fbs=0; restecg=0; thalach=160; exang=1; oldpeak=1.4; slope=0; ca=0; thal=2
+Lab: telemetry monitoring
+
+ASSESSMENT:
+The patient was originally hospitalized on 04/26/07, secondary to dizziness and disequilibrium. Extensive workup during her first hospitalization was all negative, but a prominent feature was her very blunted affect and real anhedonia. She was transferred briefly to psychiatry, but on the second day in psychiatry, she became very orthostatic and was transferred acutely back to the medicine. She briefly was on cymbalta; however, this was discontinued when she was transferred back.
+
+PLAN:
+diagnoses problems:,1.  orthostatic hypotension.,2.  bradycardia.,3.  diabetes.,4.  status post renal transplant secondary polycystic kidney disease in 1995.,5.  hypertension.,6.  history of basal cell ganglia cerebrovascular event in 2004 with left residual.,7.  history of renal osteodystrophy.,8.  iron deficiency anemia.,9.  cataract status post cataract surgery.,10.  chronic left lower extremity pain.,11.  hyperlipidemia.,12.  status post hysterectomy secondary to uterine fibroids.,procedures:,  telemetry monitoring.,history findings hospital course: , the patient was originally hospitalized on 04/26/07, secondary to dizziness and disequilibrium.  extensive workup during her first hospitalization was all negative, but a prominent feature was her very blunted affect and real anhedonia.  she was transferred briefly to psychiatry, however, on the second day in psychiatry, she became very orthostatic and was transferred acutely back to the medicine.  she briefly was on cymbalta; however, this was discontinued when she was transferred back.  she was monitored back medicine for 24 hours and was given intravenous fluids and these were discontinued.  she was able to maintain her pressures then was able to ambulate without difficulty.  we had wanted to pursue workup for possible causes for autonomic dysfunction; however, the patient was not interested in remaining in the hospital anymore and left really against our recommendations.,discharge medications:,1.  cellcept - 500 mg twice a daily.,2.  cyclosporine - 25 mg in the morning and 15 mg in the evening.,3.  prednisone - 5 mg once daily.,4.  hydralazine - 10 mg four times a day.,5.  pantoprazole - 40 mg once daily.,6.  glipizide - 5 mg every morning.,7.  aspirin - 81 mg once daily.,followup care:  ,the patient is to follow up with dr. x in about 1 week's time.
+
+ICD-10 Suggestions:
+ - T4395XD : Adverse effect of unspecified psychotropic drug, subsequent encounter (score=0.995)
+ - R4584 :   Anhedonia (score=0.992)
+ - T44995D : Adverse effect of other drug primarily affecting the autonomic nervous system, subsequent encounter (score=0.988)
+ - T4395XA : Adverse effect of unspecified psychotropic drug, initial encounter (score=0.981)
+ - T44905D : Adverse effect of unspecified drugs primarily affecting the autonomic nervous system, subsequent encounter (score=0.980)
+

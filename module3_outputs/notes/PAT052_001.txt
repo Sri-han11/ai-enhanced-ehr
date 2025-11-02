@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT052 is a 66-year-old male with a history of atrial fibrillation and coronary disease. The patient was injected with 5.2 millicuries of thallous chloride and subsequently imaged on the gated tomographic spect system. There is normal lv myocardial perfusion. The lv systolic ejection fraction is normal at 65%. There is normal global and regional wall motion.
+
+=== SOAP SUMMARY ===
+Patient PAT052 is a 66-year-old male with a history of atrial fibrillation and coronary disease. The patient was injected with 5.2 millicuries of thallous chloride and subsequently imaged on the gated tomographic spect system. There is normal lv myocardial perfusion. The lv systolic ejection fraction is normal at 65%.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT052_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+stress test - adenosine myoview. ischemic cardiomyopathy. inferoseptal and apical transmural scar.
+
+OBJECTIVE:
+Vitals: trestbps=120; chol=302; fbs=0; restecg=0; thalach=151; exang=0; oldpeak=0.4; slope=1; ca=0; thal=2
+Lab: stress test adenosine myoview
+
+ASSESSMENT:
+Patient PAT052 is a 66-year-old male with a history of atrial fibrillation and coronary disease. The patient was injected with 5.2 millicuries of thallous chloride and subsequently imaged on the gated tomographic spect system. There is normal lv myocardial perfusion. The lv systolic ejection fraction is normal at 65%.
+
+PLAN:
+indications:,  atrial fibrillation, coronary disease.,stress technique:, the patient was infused with dobutamine to a maximum heart rate of 142.  ecg exhibits atrial fibrillation.,image technique:,  the patient was injected with 5.2 millicuries of thallous chloride and subsequently imaged on the gated tomographic spect system.,image analysis:,  it should be noted that the images are limited slightly by the patient's obesity with a weight of 263 pounds.  there is normal lv myocardial perfusion.  the lv systolic ejection fraction is normal at 65%.  there is normal global and regional wall motion.,conclusions:,1.  basic rhythm of atrial fibrillation with no change during dobutamine stress, maximum heart rate of 142.,2.  normal lv myocardial perfusion.,3.  normal lv systolic ejection fraction of 65%.,4.  normal global and regional wall motion.
+
+ICD-10 Suggestions:
+ - T8092XD : Unspecified transfusion reaction, subsequent encounter (score=0.804)
+ - T82524D : Displacement of infusion catheter, subsequent encounter (score=0.637)
+ - T8090XD : Unspecified complication following infusion and therapeutic injection, subsequent encounter (score=0.623)
+ - E8771 :   Transfusion associated circulatory overload (score=0.446)
+ - T82594D : Other mechanical complication of infusion catheter, subsequent encounter (score=0.446)
+

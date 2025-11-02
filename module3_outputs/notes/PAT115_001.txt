@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+PAT115 is a 55-year-old male with a previously markedly abnormal dobutamine myoview stress test and gated scan. The lung heart ratio is 0.34. There appears to be a moderate size inferoapical perfusion defect of moderate degree. The gated myocardial scan revealed mild apical and distal inferoseptal hypokinesis with ejection fraction of 55%. The left ventricular systolic function is markedly improved with much better regional wall motion of all left ventricular segments when compared to previous study done on month dd, yyyy. We cannot assess the presence of any reversible perfusion defects because no stress imaging was performed.
+
+=== SOAP SUMMARY ===
+PAT115 is a 55-year-old male with a previously markedly abnormal dobutamine myoview stress test and gated scan. The lung heart ratio is 0.34. The gated myocardial scan revealed mild apical and distal inferoseptal hypokinesis with ejection fraction of 55%.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT115_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+multiple stent placement with impella circulatory assist device.
+
+OBJECTIVE:
+Vitals: trestbps=130; chol=262; fbs=0; restecg=1; thalach=155; exang=0; oldpeak=0.0; slope=2; ca=0; thal=2
+Lab: multiple stent placements
+
+ASSESSMENT:
+PAT115 is a 55-year-old male with a previously markedly abnormal dobutamine myoview stress test and gated scan. The lung heart ratio is 0.34. The gated myocardial scan revealed mild apical and distal inferoseptal hypokinesis with ejection fraction of 55%.
+
+PLAN:
+indications:,  previously markedly abnormal dobutamine myoview stress test and gated scan.,procedure done:,  resting myoview perfusion scan and gated myocardial scan.,myocardial perfusion imaging:,  resting myocardial perfusion spect imaging and gated scan were carried out with 32.6 mci of tc-99m myoview.  rest study was done and compared to previous dobutamine myoview stress test done on month dd, yyyy.  the lung heart ratio is 0.34.  there appears to be a moderate size inferoapical perfusion defect of moderate degree.  the gated myocardial scan revealed mild apical and distal inferoseptal hypokinesis with ejection fraction of 55%.,conclusions:,  study done at rest only revealed findings consistent with an inferior non-transmural scar of moderate size and moderate degree.  the left ventricular systolic function is markedly improved with much better regional wall motion of all left ventricular segments when compared to previous study done on month dd, yyyy.  we cannot assess the presence of any reversible perfusion defects because no stress imaging was performed.
+
+ICD-10 Suggestions:
+ - R9439 :   Abnormal result of other cardiovascular function study (score=0.861)
+ - R069 :    Unspecified abnormalities of breathing (score=0.767)
+ - R009 :    Unspecified abnormalities of heart beat (score=0.740)
+ - R008 :    Other abnormalities of heart beat (score=0.646)
+ - I5020 :   Unspecified systolic (congestive) heart failure (score=0.631)
+

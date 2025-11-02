@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT003 is a 41-year-old male with mild heterogeneous plaque seen in the common carotid artery and external carotid artery. He has moderate heterogeneous plaque seen in the bulb and internal carotid artery. Severe heterogeneous plaque seen in external carotid artery with degree of stenosis around 70%. Peak systolic velocity is normal in common carotid, bulb, and internal carotid artery. Peak systolic velocity is 280 cm/sec in external carotid artery with moderate spectral broadening.
+
+=== SOAP SUMMARY ===
+Patient PAT003 is a 41-year-old male with mild heterogeneous plaque seen in the common carotid artery and external carotids artery. He has moderate heterogenous plaque seen  in the bulb and internal carotID artery. Severe heterogeneous  plaque seen in external carotsid artery with degree of stenosis around 70%. Peak systolic velocity is 280 cm/sec.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT003_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+right and left carotid ultrasound
+
+OBJECTIVE:
+Vitals: trestbps=130; chol=204; fbs=0; restecg=0; thalach=172; exang=0; oldpeak=1.4; slope=2; ca=0; thal=2
+Lab: ultrasound - carotid - 1
+
+ASSESSMENT:
+Patient PAT003 is a 41-year-old male with mild heterogeneous plaque seen in the common carotid artery and external carotids artery. He has moderate heterogenous plaque seen  in the bulb and internal carotID artery. Severe heterogeneous  plaque seen in external carotsid artery with degree of stenosis around 70%. Peak systolic velocity is 280 cm/sec.
+
+PLAN:
+right:,1.  mild heterogeneous plaque seen in common carotid artery.,2.  moderate heterogeneous plaque seen in the bulb and internal carotid artery.,3.  severe heterogeneous plaque seen in external carotid artery with degree of stenosis around 70%.  ,4.  peak systolic velocity is normal in common carotid, bulb, and internal carotid artery.,5.  peak systolic velocity is 280 cm/sec in external carotid artery with moderate spectral broadening.,left: , ,1.  mild heterogeneous plaque seen in common carotid artery and external carotid artery.,2.  moderate heterogeneous plaque seen in the bulb and internal carotid artery with degree of stenosis less than 50%.,3.  peak systolic velocity is normal in common carotid artery and in the bulb.,4.  peak systolic velocity is 128 cm/sec in internal carotid artery and 156 cm/sec in external carotid artery.,vertebrals:,  antegrade flow seen bilaterally.
+
+ICD-10 Suggestions:
+ - I6522 :   Occlusion and stenosis of left carotid artery (score=0.684)
+ - I6529 :   Occlusion and stenosis of unspecified carotid artery (score=0.499)
+ - I2583 :   Coronary atherosclerosis due to lipid rich plaque (score=0.470)
+ - I6521 :   Occlusion and stenosis of right carotid artery (score=0.433)
+ - I6523 :   Occlusion and stenosis of bilateral carotid arteries (score=0.404)
+

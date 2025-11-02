@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is an 86-year-old caucasian female with history of protein-calorie malnutrition. The patient is ventilator-dependent, respiratory failure with tracheostomy in place and dependent on total parenteral nutrition. The patient needs to receive total parenteral nutrition and therefore need central venous access. The patient was sterilely prepped and draped. The patient was injected with 1% lidocaine locally. The patient was inserted with a right femoral triple lumen catheter angiocath at 30-degree angle cephalad and aspirated until a dark venous blood was aspirated. A guidewire was then placed through the needle. The needle was then removed. The skin was dilator was placed over the wire. The triple lumen catheters were flushed with bacteriostatic saline. The dilator was then removed from the guidewire and a triple lumen catheter was then inserted over the guidewire with the guidewire held at all times. Each port of the lumen catheter was aspirated with 10 cc syringe with normal saline till dark red blood was expressed and then flushed with bacteriostatic normal saline and repeated on the remaining two ports. Each port was closed off and also kept off. Straight needle suture was then used to suture the triple lumen catheter down to the skin. Peristatic agent was then placed at the site of the lumen catheter insertion and a tegaderm was then placed over the site. The surgical site was then sterilely cleaned. The patient tolerated the full procedure well. There were no complications. The nurse was then contacted to allow for access of the
+
+=== SOAP SUMMARY ===
+The patient is an 86-year-old caucasian female with history of protein-calorie malnutrition. She is ventilator-dependent, respiratory failure with tracheostomy in place and dependent on total parenteral nutrition. The patient was sterilely prepped and draped. She was injected with 1% lidocaine locally.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT004_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+need for intravenous access. insertion of a right femoral triple lumen catheter. he patient is also ventilator-dependent, respiratory failure with tracheostomy in place and dependent on parenteral nutrition secondary to dysphagia and also ha history of protein-calorie malnutrition and the patient need to receive total parenteral nutrition and therefore need central venous access.
+
+OBJECTIVE:
+Vitals: trestbps=120; chol=236; fbs=0; restecg=1; thalach=178; exang=0; oldpeak=0.8; slope=2; ca=0; thal=2
+Lab: triple lumen catheter insertion - 1
+
+ASSESSMENT:
+The patient is an 86-year-old caucasian female with history of protein-calorie malnutrition. She is ventilator-dependent, respiratory failure with tracheostomy in place and dependent on total parenteral nutrition. The patient was sterilely prepped and draped. She was injected with 1% lidocaine locally.
+
+PLAN:
+preoperative diagnosis: , need for intravenous access.,postoperative diagnosis: , need for intravenous access.,procedure performed:  ,insertion of a right femoral triple lumen catheter.,anesthesia: , includes 4 cc of 1% lidocaine locally.,estimated blood loss: , minimum.,indications:,  the patient is an 86-year-old caucasian female who presented to abcd general hospital secondary to drainage of an old percutaneous endoscopic gastrostomy site.  the patient is also ventilator-dependent, respiratory failure with tracheostomy in place and dependent on parenteral nutrition secondary to dysphagia and also has history of protein-calorie malnutrition and the patient needs to receive total parenteral nutrition and therefore needs central venous access.,procedure:,  the patient's legal guardian was talked to.  all questions were answered and consent was obtained.  the patient was sterilely prepped and draped.  approximately 4 cc of 1% lidocaine was injected into the inguinal site.  a strong femoral artery pulse was felt and triple lumen catheter angiocath was inserted at 30-degree angle cephalad and aspirated until a dark venous blood was aspirated.  a guidewire was then placed through the needle.  the needle was then removed.  the skin was ________ at the base of the wire and a dilator was placed over the wire.  the triple lumen catheters were then flushed with bacteriostatic saline.  the dilator was then removed from the guidewire and a triple lumen catheter was then inserted over the guidewire with the guidewire held at all times.,the wire was then carefully removed.  each port of the lumen catheter was aspirated with 10 cc syringe with normal saline till dark red blood was expressed and then flushed with bacteriostatic normal saline and repeated on the remaining two ports.  each port was closed off and also kept off.  straight needle suture was then used to suture the triple lumen catheter down to the skin.  peristatic agent was then placed at the site of the lumen catheter insertion and a tegaderm was then placed over the site.  the surgical site was then sterilely cleaned.  the patient tolerated the full procedure well.  there were no complications.  the nurse was then contacted to allow for access of the triple lumen catheter.
+
+ICD-10 Suggestions:
+ - Z930 :    Tracheostomy status (score=0.989)
+ - J95822 :  Acute and chronic postprocedural respiratory failure (score=0.916)
+ - E43 :     Unspecified severe protein-calorie malnutrition (score=0.831)
+ - E649 :    Sequelae of unspecified nutritional deficiency (score=0.826)
+ - Z430 :    Encounter for attention to tracheostomy (score=0.779)
+

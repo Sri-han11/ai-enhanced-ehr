@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 61-year-old retailer who was admitted to the hospital yesterday with a syncopal episode that happened for the first time in her life. She was walking in a store when she felt dizzy, had some cold sweats, mild shortness of breath, no chest pain, no nausea or vomiting, but mild diarrhea, and sat down and lost consciousness for a few seconds. At that time, her daughter was with her. No tonic-clonic movements. No cyanosis. The patient woke up on her own. The patient currently feels fine, has mild shortness of breath upon exertion, but this is her usual for the last several years. She cannot get up one flight of stairs, but feels short of breath. She gets exerted and thinks to take a shower. She does not have any chest pain, no fever or syncopal episodes.
+
+=== SOAP SUMMARY ===
+The patient is a 61-year-old retailer who was admitted to the hospital yesterday with a syncopal episode. She was walking in a store when she felt dizzy, had some cold sweats, mild shortness of breath, no chest pain, no nausea or vomiting, but mild diarrhea. She sat down and lost consciousness for a few seconds.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT074_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+this 61-year-old retailer who present with acute shortness of breath, hypertension, found to be in acute pulmonary edema. no confirmed prior history of heart attack, myocardial infarction, heart failure.
+
+OBJECTIVE:
+Vitals: trestbps=140; chol=261; fbs=0; restecg=0; thalach=186; exang=1; oldpeak=0.0; slope=2; ca=0; thal=2
+Lab: pulmonary edema - consult
+
+ASSESSMENT:
+The patient is a 61-year-old retailer who was admitted to the hospital yesterday with a syncopal episode. She was walking in a store when she felt dizzy, had some cold sweats, mild shortness of breath, no chest pain, no nausea or vomiting, but mild diarrhea. She sat down and lost consciousness for a few seconds.
+
+PLAN:
+reason for consultation: , pulmonary embolism.,history:,  the patient is a 78-year-old lady who was admitted to the hospital yesterday with a syncopal episode that happened for the first time in her life.  the patient was walking in a store when she felt dizzy, had some cold sweats, mild shortness of breath, no chest pain, no nausea or vomiting, but mild diarrhea, and sat down and lost consciousness for a few seconds.  at that time, her daughter was with her.  no tonic-clonic movements.  no cyanosis.  the patient woke up on her own.  the patient currently feels fine, has mild shortness of breath upon exertion, but this is her usual for the last several years.  she cannot get up one flight of stairs, but feels short of breath.  she gets exerted and thinks to take a shower.  she does not have any chest pain, no fever or syncopal episodes.,past medical history,1.  pulmonary embolism diagnosed one year ago.  at that time, she has had an ivc filter placed due to massive gi bleed from diverticulosis and gastric ulcers.  paroxysmal atrial fibrillation and no anticoagulation due to history of gi bleed.,2.  coronary artery disease status post cabg at that time.  she has had to stay in the icu according to the daughter for 3 weeks due to again lower gi bleed.,3.  mitral regurgitation.,4.  gastroesophageal reflux disease.,5.  hypertension.,6.  hyperlipidemia.,7.  history of aortic aneurysm.,8.  history of renal artery stenosis.,9.  peripheral vascular disease.,10.  hypothyroidism.,past surgical history,1.  cabg.,2.  hysterectomy.,3.  ivc filter.,4.  tonsillectomy.,5.  adenoidectomy.,6.  cosmetic surgery.,7.  renal stent.,8.  right femoral stent.,home medications,1.  aspirin.,2.  potassium.,3.  lasix.,4.  levothyroxine.,5.  lisinopril.,6.  pacerone.,7.  protonix.,8.  toprol.,9.  vitamin b.,10.  zetia.,11.  zyrtec.,allergies:,  sulfa,social history: , she used to be a smoker, not anymore.  she drinks 2 to 3 glasses of wine per week.  she is retired.,review of systems: , she has a history of snoring, choking for breath at night, and dry mouth in the morning.,physical examination,general appearance:  in no acute distress.,vital signs:  temperature 98.6, respirations 18, pulse 61, blood pressure 155/57, and oxygen saturation 93-98% on room air.,heent:  no lymph nodes or masses.,neck:  no jugular venous distension.,lungs:  clear to auscultation bilaterally.
+
+ICD-10 Suggestions:
+ - R009 :    Unspecified abnormalities of heart beat (score=0.897)
+ - R197 :    Diarrhea, unspecified (score=0.752)
+ - T753XXD : Motion sickness, subsequent encounter (score=0.398)
+ - K5900 :   Constipation, unspecified (score=0.305)
+ - R42 :     Dizziness and giddiness (score=0.278)
+

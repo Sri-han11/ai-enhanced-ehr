@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT093 is a 52-year-old male with a right pleural effusion with respiratory failure and dyspnea. The patient underwent a pleural catheter talc pleurodesis of the right chest.
+
+=== SOAP SUMMARY ===
+Patient PAT093 is a 52-year-old male with a right pleural effusion with respiratory failure and dyspnea. The patient underwent a pleural catheter talc pleurodesis of the right chest. He was admitted to hospital with a severe case of respiratory failure.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT093_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+chest tube talc pleurodesis of the right chest.
+
+OBJECTIVE:
+Vitals: trestbps=138; chol=223; fbs=0; restecg=1; thalach=169; exang=0; oldpeak=0.0; slope=2; ca=4; thal=2
+Lab: pleurodesis
+
+ASSESSMENT:
+Patient PAT093 is a 52-year-old male with a right pleural effusion with respiratory failure and dyspnea. The patient underwent a pleural catheter talc pleurodesis of the right chest. He was admitted to hospital with a severe case of respiratory failure.
+
+PLAN:
+preoperative diagnosis: , right pleural effusion with respiratory failure and dyspnea.,postoperative diagnosis: , right pleural effusion with respiratory failure and dyspnea.,procedure: , ultrasound-guided right pleurocentesis.,anesthesia: , local with lidocaine.,technique in detail: , after informed consent was obtained from the patient and his mother, the chest was scanned with portable ultrasound.  findings revealed a normal right hemidiaphragm, a moderate right pleural effusion without septation or debris, and no gliding sign of the lung on the right.  using sterile technique and with ultrasound as a guide, a pleural catheter was inserted and serosanguinous fluid was withdrawn, a total of 1 l.  the patient tolerated the procedure well.  portable x-ray is pending.
+
+ICD-10 Suggestions:
+ - J90 :     Pleural effusion, not elsewhere classified (score=0.760)
+ - Q340 :    Anomaly of pleura (score=0.684)
+ - R0781 :   Pleurodynia (score=0.602)
+ - J95811 :  Postprocedural pneumothorax (score=0.537)
+ - D382 :    Neoplasm of uncertain behavior of pleura (score=0.517)
+

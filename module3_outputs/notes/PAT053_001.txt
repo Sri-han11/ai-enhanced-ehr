@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT053 is a 62-year-old male with a history of atrial fibrillation. The patient had a dobutamine stress test for atrial fibrillation. The patient's baseline heart rate was 67. The patient's blood pressure was 150/86. The patient was discharged home and was asymptomatic.
+
+=== SOAP SUMMARY ===
+Patient PAT053 is a 62-year-old male with a history of atrial fibrillation. Patient was discharged home and was asymptomatic. The patient's baseline heart rate was 67. Patient's blood pressure was 150/86. Patient had a dobutamine stress test.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT053_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+dobutamine stress test for atrial fibrillation.
+
+OBJECTIVE:
+Vitals: trestbps=130; chol=231; fbs=0; restecg=1; thalach=146; exang=0; oldpeak=1.8; slope=1; ca=3; thal=3
+Lab: stress test dobutamine
+
+ASSESSMENT:
+Patient PAT053 is a 62-year-old male with a history of atrial fibrillation. Patient was discharged home and was asymptomatic. The patient's baseline heart rate was 67. Patient's blood pressure was 150/86. Patient had a dobutamine stress test.
+
+PLAN:
+protocol:,  bruce.,pertinent medication: , none.,reason for test:,  chest pain.,procedure and interpretation: ,1.  baseline heart rate:  67.,2.  baseline blood pressure:  150/86.,3.  total time:  6 minute 51 seconds.,4.  mets:  10.1.,5.  peak heart rate:  140.,6.  percent of maximum-predicted heart rate:  90.,7.  peak blood pressure:  200/92.,8.  reason test terminated:  shortness of breath and fatigue.,9.  estimated aerobic capacity:  average.,10. heart rate response:  normal.,11. blood pressure response:  hypertensive.,12. st segment response:  normal.,13. chest pain:  none.,14. symptoms:  none.,15. arrhythmia:  none.,conclusion:,1.  average aerobic capacity.,2.  normal heart rate and blood pressure response to exercise.,3.  no symptomatic electrocardiographic evidence of ischemia.,condition: , stable with normal vital signs.,disposition:  ,the patient was discharged home and was asymptomatic.,
+
+ICD-10 Suggestions:
+ - I4811 :   Longstanding persistent atrial fibrillation (score=0.947)
+ - Z0131 :   Encounter for examination of blood pressure with abnormal findings (score=0.938)
+ - Z0130 :   Encounter for examination of blood pressure without abnormal findings (score=0.912)
+ - R008 :    Other abnormalities of heart beat (score=0.748)
+ - R009 :    Unspecified abnormalities of heart beat (score=0.729)
+

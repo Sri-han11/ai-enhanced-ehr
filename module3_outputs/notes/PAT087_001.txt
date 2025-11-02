@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 38-year-old female with a history of working in the coalmine and significant exposure to silica with resultant pneumoconiosis and fibrosis of the lung. She is on multiple medications, unable to control the blood pressure. From cardiac standpoint, the patient denies any symptoms of chest pain, or shortness of breath. She complains of fatigue and tiredness. The child had some congenital anomaly, was transferred to hospital, where the child has had surgery. The patient is in intensive care unit.
+
+=== SOAP SUMMARY ===
+The patient is a 38-year-old female with a history of working in the coalmine and significant exposure to silica. She is on multiple medications, unable to control the blood pressure. From cardiac standpoint, the patient denies any symptoms of chest pain, or shortness of breath. She complains of fatigue and tiredness.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT087_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+patient with a previous history of working in the coalmine and significant exposure to silica with resultant pneumoconiosis and fibrosis of the lung.
+
+OBJECTIVE:
+Vitals: trestbps=118; chol=277; fbs=0; restecg=1; thalach=151; exang=0; oldpeak=1.0; slope=2; ca=1; thal=3
+Lab: pneumoconiosis
+
+ASSESSMENT:
+The patient is a 38-year-old female with a history of working in the coalmine and significant exposure to silica. She is on multiple medications, unable to control the blood pressure. From cardiac standpoint, the patient denies any symptoms of chest pain, or shortness of breath. She complains of fatigue and tiredness.
+
+PLAN:
+reason for consultation: , management of blood pressure.,history of present illness: , the patient is a 38-year-old female admitted following a delivery.  the patient had a cesarean section.  following this, the patient was treated for her blood pressure.  she was sent home and she came back again apparently with uncontrolled blood pressure.  she is on multiple medications, unable to control the blood pressure.  from cardiac standpoint, the patient denies any symptoms of chest pain, or shortness of breath.  she complains of fatigue and tiredness.  the child had some congenital anomaly, was transferred to hospital, where the child has had surgery.  the patient is in intensive care unit.,coronary risk factors:,  history of hypertension, history of gestational diabetes mellitus, nonsmoker, and cholesterol is normal.  no history of established coronary artery disease and family history noncontributory for coronary disease.,family history: , nonsignificant.,surgical history:  ,no major surgery except for c-section.,medications:,  presently on cardizem and metoprolol were discontinued.  started on hydralazine 50 mg t.i.d., and labetalol 200 mg b.i.d., hydrochlorothiazide, and insulin supplementation.,allergies: , none.,personal history: , nonsmoker.  does not consume alcohol.  no history of recreational drug use.,past medical history:,  hypertension, gestational diabetes mellitus, pre-eclampsia, this is her third child with one miscarriage.,review of systems:,constitutional:  no history of fever, rigors, or chills.,heent:  no history of cataract, blurry vision, or glaucoma.,cardiovascular:  no congestive heart.  no arrhythmia.,respiratory:  no history of pneumonia or valley fever.,gastrointestinal:  no epigastric discomfort, hematemesis, or melena.,urologic:  no frequency or urgency.,musculoskeletal:  no arthritis or muscle weakness.,skin:  nonsignificant.,neurological:  no tia.  no cva.  no seizure disorder.,physical examination:,vital signs:  pulse of 86, blood pressure 175/86, afebrile, and respiratory rate 16 per minute.,heent:  atraumatic and normocephalic.,neck:  neck veins are flat.,lungs:  clear.,heart:  s1 and s2 regular.,abdomen:  soft and nontender.,extremities:  no edema.  pulses palpable.,laboratory data: , ekg shows sinus tachycardia with nonspecific st-t changes.  labs were noted.  bun and creatinine within normal limits.,impression:,1.  preeclampsia, status post delivery with cesarean section with uncontrolled blood pressure.,2.  no prior history of cardiac disease except for borderline gestational diabetes mellitus.,recommendations:,1.  we will get an echocardiogram for assessment left ventricular function.,2.  the patient will start on labetalol and hydralazine to see how see fairs.,3.  based on response to medication, we will make further adjustments.  discussed with the patient regarding plan of care, fully understands and consents for the same.  all the questions answered in detail.
+
+ICD-10 Suggestions:
+ - R069 :    Unspecified abnormalities of breathing (score=0.984)
+ - R079 :    Chest pain, unspecified (score=0.936)
+ - R0989 :   Other specified symptoms and signs involving the circulatory and respiratory systems (score=0.894)
+ - J689 :    Unspecified respiratory condition due to chemicals, gases, fumes and vapors (score=0.873)
+ - J9691 :   Respiratory failure, unspecified with hypoxia (score=0.734)
+

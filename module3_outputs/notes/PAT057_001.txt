@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient was admitted for shortness of breath, continues to do fairly well. The patient has chronic atrial fibrillation, on anticoagulation, inr of 1.72. The patient did undergo echocardiogram, which show aortic stenosis, severe. The patient doe have an outside cardiologist.
+
+=== SOAP SUMMARY ===
+The patient was admitted for shortness of breath, continues to do fairly well. The patient has chronic atrial fibrillation, on anticoagulation, inr of 1.72. Echocardiogram, which show aortic stenosis, severe. Patient doe have an outside cardiologist.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT057_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+the patient is admitted for shortness of breath, continues to do fairly well. the patient ha chronic atrial fibrillation, on anticoagulation, inr of 1.72. the patient did undergo echocardiogram, which show aortic stenosis, severe. the patient doe have an outside cardiologist.
+
+OBJECTIVE:
+Vitals: trestbps=122; chol=222; fbs=0; restecg=0; thalach=186; exang=0; oldpeak=0.0; slope=2; ca=0; thal=2
+Lab: soap - shortness of breath
+
+ASSESSMENT:
+The patient was admitted for shortness of breath, continues to do fairly well. The patient has chronic atrial fibrillation, on anticoagulation, inr of 1.72. Echocardiogram, which show aortic stenosis, severe. Patient doe have an outside cardiologist.
+
+PLAN:
+exam: , single frontal view of the chest.,history: , atelectasis.  patient is status-post surgical correction for asd.,technique: , a single frontal view of the chest was evaluated and correlated with the prior film dated mm/dd/yy.,findings:,  current film reveals there is a right-sided central venous catheter, the distal tip appears to be in the superior vena cava.  endotracheal tube with the distal tip appears to be in appropriate position, approximately 2 cm superior to the carina.  sternotomy wires are noted.  they appear in appropriate placement.  there are no focal areas of consolidation to suggest pneumonia.  once again seen is minimal amount of bilateral basilar atelectasis.  the cardiomediastinal silhouette appears to be within normal limits at this time.  no evidence of any pneumothoraces or pleural effusions.,impression:,1.  there has been interval placement of a right-sided central venous catheter, endotracheal tube, and sternotomy wires secondary to patient's most recent surgical intervention.,2.  minimal bilateral basilar atelectasis with no significant interval changes from the patient's most recent prior.,3.  interval decrease in the patient's heart size which may be secondary to the surgery versus positional and technique.
+
+ICD-10 Suggestions:
+ - I4811 :   Longstanding persistent atrial fibrillation (score=0.997)
+ - R0602 :   Shortness of breath (score=0.991)
+ - I4821 :   Permanent atrial fibrillation (score=0.941)
+ - I4819 :   Other persistent atrial fibrillation (score=0.856)
+ - R008 :    Other abnormalities of heart beat (score=0.827)
+

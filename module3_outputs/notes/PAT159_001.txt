@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is a 58-year-old male with past medical history significant for polysubstance abuse, chronic tobacco abuse, chronic alcohol dependence with withdrawal, atrial flutter, history of ventricular tachycardia with aicd placement, and hepatitis c. The patient was admitted for atypical chest pain and scheduled for cardiac catheterization. The patient was prepped and draped in the usual sterile manner. the right inguinal area was anesthetized with 2% xylocaine. a 4-french sheath was inserted into the right femoral artery using the modified seldinger technique. coronary angiographies were performed. these catheters were removed and exchanged for a 4-french pigtail catheter, which was positioned into the left ventricle. left ventriculogram was performed. the patient tolerated the procedure well. at the end of the procedure, all catheters and sheaths were removed. the patient was then transferred to telemetry in a stable condition.
+
+=== SOAP SUMMARY ===
+The patient was admitted for atypical chest pain and scheduled for cardiac catheterization. The right inguinal area was anesthetized with 2% xylocaine. A 4-french sheath was inserted into the right femoral artery using the modified seldinger technique. The patient was then transferred to telemetry in a stable condition.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT159_001
+Date: 2025-11-02
+
+SUBJECTIVE:
+holter monitor report
+
+OBJECTIVE:
+Vitals: trestbps=125; chol=220; fbs=0; restecg=1; thalach=144; exang=0; oldpeak=0.4; slope=1; ca=4; thal=3
+Lab: holter monitor report
+
+ASSESSMENT:
+The patient was admitted for atypical chest pain and scheduled for cardiac catheterization. The right inguinal area was anesthetized with 2% xylocaine. A 4-french sheath was inserted into the right femoral artery using the modified seldinger technique. The patient was then transferred to telemetry in a stable condition.
+
+PLAN:
+procedures,1.  left heart catheterization.,2.  coronary angiography.,3.  left ventriculogram.,preprocedure diagnosis:,  atypical chest pain.,postprocedure diagnoses,1.  no angiographic evidence of coronary artery disease.,2.  normal left ventricular systolic function.,3.  normal left ventricular end diastolic pressure.,indication:  ,the patient is a 58-year-old male with past medical history significant for polysubstance abuse, chronic tobacco abuse, chronic alcohol dependence with withdrawal, atrial flutter, history of ventricular tachycardia with aicd placement, and hepatitis c. the patient was admitted for atypical chest pain and scheduled for cardiac catheterization.,procedure in detail:,  after informed consent was signed by the patient, the patient was taken to the cardiac catheterization laboratory.  he was prepped and draped in the usual sterile manner.  the right inguinal area was anesthetized with 2% xylocaine.  a 4-french sheath was inserted into the right femoral artery using the modified seldinger technique.  jl4 and 3drc catheters were used to cannulate the left and right coronary arteries respectively.  coronary angiographies were performed.  these catheters were removed and exchanged for a 4-french pigtail catheter, which was positioned into the left ventricle.  left ventriculography was performed.  the patient tolerated the procedure well.  at the end of the procedure, all catheters and sheaths were removed.  the patient was then transferred to telemetry in a stable condition.,hemodynamic data: , hemodynamic data shows aortic pressures of 100/56 with mean of 70 mmhg and the lv 100/0 with lvedp of 10 mmhg.,aortic valve:  ,there is no significant gradient across this valve noted.,lv gram: , a 10 ml of contrast were delivered for 3 seconds for a total of 30 ml.  ejection fraction was calculated to be 69%.  there were no wall motion abnormalities noted.,angiogram,left main coronary artery: , left main coronary artery is a moderate-caliber vessel free of disease and trifurcates.,lad: , lad is a long, tortuous vessel which wraps around the apex.  the lad is small in caliber.  in addition, there is a long bifurcating small-caliber diagonal branch noted.  lad and its branches are free of disease.,ramus intermedius: , ramus intermedius is a long small-caliber vessel free of disease.,lcx: , lcx is a nondominant small-caliber vessel with long bifurcating small-caliber distal om branch.  lcx and its branches are free of disease.,rca:,  rca is a dominant small-caliber vessel with long small-caliber pda branch.  rca and its branches are free of disease.,impression,1.  no angiographic evidence of coronary artery disease.,2.  normal left ventricular systolic function.,3.  normal left ventricular end diastolic pressure.,recommendation: , recommend to look for alternative causes of chest pain.
+
+ICD-10 Suggestions:
+ - S75001D : Unspecified injury of femoral artery, right leg, subsequent encounter (score=0.869)
+ - S75091D : Other specified injury of femoral artery, right leg, subsequent encounter (score=0.803)
+ - S75001A : Unspecified injury of femoral artery, right leg, initial encounter (score=0.758)
+ - S75011D : Minor laceration of femoral artery, right leg, subsequent encounter (score=0.702)
+ - S75091A : Other specified injury of femoral artery, right leg, initial encounter (score=0.644)
+

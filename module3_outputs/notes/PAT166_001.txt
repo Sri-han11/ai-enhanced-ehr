@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient was on heparin at the time of catheterization and sedation. He had aortic pressure in the physiologic range. There was no significant gradient across the aortic valve. The left ventricle is of normal size and shape, normal wall motion, normal ejection fraction. The right coronary artery: dominant. there was insignificant disease in the system. The left coronary: left main, left anterior descending and circumflex systems showed no significant disease.
+
+=== SOAP SUMMARY ===
+The patient was on heparin at the time of catheterization and sedation. He had aortic pressure in the physiologic range. The left ventricle is of normal size and shape, normal wall motion, normal ejection fraction. The right coronary artery: dominant. there was insignificant disease in the system.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT166_001
+Date: 2025-11-02
+
+SUBJECTIVE:
+left heart catheterization, left ventriculography, selective coronary angiography, and right femoral artery approach.
+
+OBJECTIVE:
+Vitals: trestbps=160; chol=286; fbs=0; restecg=0; thalach=108; exang=1; oldpeak=1.5; slope=1; ca=3; thal=2
+Lab: heart catheterization, ventriculography, & angiography - 12
+
+ASSESSMENT:
+The patient was on heparin at the time of catheterization and sedation. He had aortic pressure in the physiologic range. The left ventricle is of normal size and shape, normal wall motion, normal ejection fraction. The right coronary artery: dominant. there was insignificant disease in the system.
+
+PLAN:
+name of procedure: , left heart catheterization with ventriculography, selective coronary angiography.,indications: , acute coronary syndrome.,technique of procedure: , standard judkins, right groin.  catheters used were a 6 french pigtail, 6 french jl4, 6 french jr4.  ,anticoagulation:  ,the patient was on heparin at the time.,complications: , none.,i reviewed with the patient the pros, cons, alternatives, risks of catheterization and sedation including myocardial infarction, stroke, death, damage to nerve, artery or vein in the leg, perforation of a cardiac chamber, dissection of an artery requiring countershock, infection, bleeding, atn allergy, need for cardiac surgery.  all questions were answered, and the patient desired to proceed.,hemodynamic data:  ,aortic pressure was in the physiologic range.  no significant gradient across the aortic valve.,angiographic data,1. ventriculogram:  the left ventricle is of normal size and shape, normal wall motion, normal ejection fraction.,2. right coronary artery:  dominant.  there was insignificant disease in the system.,3. left coronary:  left main, left anterior descending and circumflex systems showed no significant disease.,conclusions,1. normal left ventricular systolic function.,2. insignificant coronary disease.,plan: , based upon this study, medical therapy is warranted.  six-french angio-seal was used in the groin.
+
+ICD-10 Suggestions:
+ - Q202 :    Double outlet left ventricle (score=0.450)
+ - S25892A : Other specified injury of other blood vessels of thorax, left side, initial encounter (score=0.371)
+ - S25892D : Other specified injury of other blood vessels of thorax, left side, subsequent encounter (score=0.363)
+ - S25891A : Other specified injury of other blood vessels of thorax, right side, initial encounter (score=0.331)
+ - I97610 :  Postprocedural hemorrhage of a circulatory system organ or structure following a cardiac catheterization (score=0.284)
+

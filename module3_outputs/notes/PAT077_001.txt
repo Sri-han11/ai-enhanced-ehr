@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT077 is a 51-year-old male with a history of obstructive ventilatory impairment. He has a forced vital capacity of 2.84 l and a forced expiratory volume in 1 second of 1.93 l. The ratio between the two is 68%. Small improvement is noted in the airflows after bronchodilator therapy. Lung volumes are increased with a residual volume of 196% of predicted and total lung capacity of 142% of predicted. Single-breath diffusing capacity is slightly reduced.
+
+=== SOAP SUMMARY ===
+Patient PAT077 is a 51-year-old male with a history of obstructive ventilatory impairment. He has a forced vital capacity of 2.84 l and a forced expiratory volume in 1 second of 1.93 l. Small improvement is noted in the airflows after bronchodilator therapy.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT077_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+sample of pulmonary function test
+
+OBJECTIVE:
+Vitals: trestbps=125; chol=245; fbs=1; restecg=0; thalach=166; exang=0; oldpeak=2.4; slope=1; ca=0; thal=2
+Lab: pulmonary function test - 3
+
+ASSESSMENT:
+Patient PAT077 is a 51-year-old male with a history of obstructive ventilatory impairment. He has a forced vital capacity of 2.84 l and a forced expiratory volume in 1 second of 1.93 l. Small improvement is noted in the airflows after bronchodilator therapy.
+
+PLAN:
+observations: , the forced vital capacity is 2.84 l and forced expiratory volume in 1 second is 1.93 l. the ratio between the two is 68%.  small improvement is noted in the airflows after bronchodilator therapy.  lung volumes are increased with a residual volume of 196% of predicted and total lung capacity of 142% of predicted.  single-breath diffusing capacity is slightly reduced.,impression: , mild-to-moderate obstructive ventilatory impairment.  some improvement in the airflows after bronchodilator therapy.
+
+ICD-10 Suggestions:
+ - Z9911 :   Dependence on respirator [ventilator] status (score=0.968)
+ - J4489 :   Other specified chronic obstructive pulmonary disease (score=0.773)
+ - J441 :    Chronic obstructive pulmonary disease with (acute) exacerbation (score=0.743)
+ - J95822 :  Acute and chronic postprocedural respiratory failure (score=0.696)
+ - J95859 :  Other complication of respirator [ventilator] (score=0.670)
+

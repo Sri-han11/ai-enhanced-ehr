@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+Patient PAT116 was diagnosed with adenocarcinoma on 11/4/92. The patient was diagnosed with adenocarcinoma on 7/12/93. The patient was treated with decadron and analgesics and died a few months later.
+
+=== SOAP SUMMARY ===
+Patient PAT116 was diagnosed with adenocarcinoma on 11/4/92. The patient was treated with decadron and analgesics and died a few months later. Patient PAT117 died on 7/12/93 after being diagnosed with a form of lung cancer called lung sarcoma.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT116_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+resting myoview perfusion scan and gated myocardial scan. finding consistent with an inferior non-transmural scar
+
+OBJECTIVE:
+Vitals: trestbps=120; chol=215; fbs=0; restecg=1; thalach=170; exang=0; oldpeak=0.0; slope=2; ca=0; thal=2
+Lab: myoview perfusion scan
+
+ASSESSMENT:
+Patient PAT116 was diagnosed with adenocarcinoma on 11/4/92. The patient was treated with decadron and analgesics and died a few months later. Patient PAT117 died on 7/12/93 after being diagnosed with a form of lung cancer called lung sarcoma.
+
+PLAN:
+cc:, found unresponsive.,hx: ,  39 y/o rhf complained of a severe ha at 2am 11/4/92. it was unclear whether she had been having ha prior to this. she took an unknown analgesic, then vomited, then lay down in bed with her husband. when her husband awoke at 8am he found her unresponsive with "stiff straight arms" and a "strange breathing pattern." a brain ct scan revealed a large intracranial mass. she was intubated and hyperventilated to abg (7.43/36/398). other local lab values included: wbc 9.8, rbc 3.74, hgb 13.8, hct 40.7, cr 0.5, bun 8.5, glucose 187, na 140, k 4.0, cl 107. she was given mannitol 1gm/kg iv load, dph 20mg/kg iv load, and transferred by helicopter to uihc.,pmh:, 1)myasthenia gravis for 15 years, s/p thymectomy,meds:, imuran, prednisone, mestinon, mannitol, dph, iv ns,fhx/shx:, married. tobacco 10 pack-year; quit nearly 10 years ago. etoh/substance abuse unknown.,exam:, 35.8f, 99bpm, bp117/72, mechanically ventilated at a rate of 22rpm on !00%fio2. unresponsive to verbal stimulation. cn: pupils 7mm/5mm and unresponsive to light (fixed). no spontaneous eye movement or blink to threat. no papilledema or intraocular hemorrhage noted. trace corneal reflexes bilaterally. no gag reflex. no oculocephalic reflex. motor/sensory: no spontaneous movement. on noxious stimulation (deep nail bed pressure) she either extended both upper extremities (rue>lue), or withdrew the stimulated extremity (right > left). gait/station/coordination no tested. reflexes: 1+ on right and 2+ on left with bilateral babinski signs.,hct 11/4/92: large heterogeneous mass in the right temporal-parietal region causing significant parenchymal distortion and leftward subfalcine effect . there is low parenchymal density within the white matter. a hyperdense ring lies peripherally and may represent hemorrhage or calcification. the mass demonstrates inhomogeneous enhancement with contrast.,course:, head of bed elevated to 30 degrees, mannitol and dph were continued. mri of brain demonstrated a large right parietal mass with necrotic appearing center and leftward shift of midline structures. she underwent surgical resection of the tumor. pathological analysis was consistent with adenocarcinoma. gyn exam, ct abdomen and pelvis, bone scan were unremarkable. cxr revealed an right upper lobe lung nodule. she did not undergo thoracic biopsy due to poor condition. she received 3000 cgy cranial xrt in ten fractions and following this was discharged to a rehabilitation center.,in march, 1993 the patient exhibited right ptosis, poor adduction and abduction od, 4/4 strength in the upper extremities and 5-/5- strength in the lower extremities. she was ambulatory with an ataxic gait.,she was admitted on 7/12/93 for lower cervical and upper thoracic pain, paraparesis and t8 sensory level. mri brainstem/spine on that day revealed decreased t1 signal in the c2, c3, c6 vertebral bodies, increased t2 signal in the anterior medulla, and tectum, and spinal cord (c7-t3). following injection of gadolinium there was diffuse leptomeningeal enhancement from c7-t7 these findings were felt consistent with metastatic disease including possible leptomeningeal spread. neurosurgery and radiation oncology agreed that the patients symptoms could be due to either radiation injury and/or metastasis. the patient was treated with decadron and analgesics and discharged to a hospice center (her choice). she died a few months later.
+
+ICD-10 Suggestions:
+ - Z8520 :   Personal history of malignant neoplasm of unspecified respiratory organ (score=0.996)
+ - Z85110 :  Personal history of malignant carcinoid tumor of bronchus and lung (score=0.995)
+ - C7A090 :  Malignant carcinoid tumor of the bronchus and lung (score=0.980)
+ - C3492 :   Malignant neoplasm of unspecified part of left bronchus or lung (score=0.973)
+ - C7802 :   Secondary malignant neoplasm of left lung (score=0.961)
+

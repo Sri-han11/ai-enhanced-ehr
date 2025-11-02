@@ -1,0 +1,30 @@
+=== RAW NOTE ===
+The patient is 58 years of age with a history of vegetation and bacteremia. A transesophageal echocardiogram was performed due to vegetation and bacteremia. The left atrium and right-sided chambers were of normal size and dimensions. The left atrial appendage is clean without any clot or smoke effect. The atrial septum is intact. Bubble study was negative. The mitral valve is structurally normal. The aortic valve reveals echodensity suggestive of vegetation. The tricuspid valve was structurally normal. Doppler reveals moderate mitral regurgitation and moderate-to-severe aortic regurgitation. The aorta is benign.
+
+=== SOAP SUMMARY ===
+A transesophageal echocardiogram was performed due to vegetation and bacteremia. The left atrium and right-sided chambers were of normal size and dimensions. The mitral valve is structurally normal. The aortic valve reveals echodensity suggestive of vegetation.
+
+=== FINAL NOTE (SOAP) ===
+Encounter ID: PAT015_001
+Date: 2025-10-30
+
+SUBJECTIVE:
+transesophageal echocardiogram due to vegetation and bacteremia. normal left ventricular size and function. echodensity involving the aortic valve suggestive of endocarditis and vegetation. doppler study a above most pronounced being moderate-to-severe aortic insufficiency.
+
+OBJECTIVE:
+Vitals: trestbps=150; chol=283; fbs=1; restecg=0; thalach=162; exang=0; oldpeak=1.0; slope=2; ca=0; thal=2
+Lab: transesophageal echocardiogram - 2
+
+ASSESSMENT:
+A transesophageal echocardiogram was performed due to vegetation and bacteremia. The left atrium and right-sided chambers were of normal size and dimensions. The mitral valve is structurally normal. The aortic valve reveals echodensity suggestive of vegetation.
+
+PLAN:
+reason for exam: , vegetation and bacteremia.,procedure: , transesophageal echocardiogram.,interpretation: , the procedure and its complications were explained to the patient in detail and formal consent was obtained.  the patient was brought to special procedure unit.  his throat was anesthetized with lidocaine spray.  subsequently, 2 mg of iv versed was given for sedation.  the patient was positioned.  probe was introduced without any difficulty.  the patient tolerated the procedure very well.  probe was taken out.  no complications were noted.  findings are as mentioned below.,findings:,1.  left ventricle has normal size and dimensions with normal function.  ejection fraction of 60%.,2.  left atrium and right-sided chambers were of normal size and dimensions.,3.  left atrial appendage is clean without any clot or smoke effect.,4.  atrial septum is intact.  bubble study was negative.,5.  mitral valve is structurally normal.,6.  aortic valve reveals echodensity suggestive of vegetation.,7.  tricuspid valve was structurally normal.,8.  doppler reveals moderate mitral regurgitation and moderate-to-severe aortic regurgitation.,9.  aorta is benign.,impression:,1.  normal left ventricular size and function.,2.  echodensity involving the aortic valve suggestive of endocarditis and vegetation.,3.  doppler study as above most pronounced being moderate-to-severe aortic insufficiency.
+
+ICD-10 Suggestions:
+ - R931 :    Abnormal findings on diagnostic imaging of heart and coronary circulation (score=0.896)
+ - I350 :    Nonrheumatic aortic (valve) stenosis (score=0.440)
+ - I342 :    Nonrheumatic mitral (valve) stenosis (score=0.327)
+ - I3481 :   Nonrheumatic mitral (valve) annulus calcification (score=0.310)
+ - I4902 :   Ventricular flutter (score=0.279)
+
